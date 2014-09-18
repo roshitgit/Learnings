@@ -55,7 +55,7 @@ namespace CAMPDashboard.Controllers
                         htw.AddAttribute(HtmlTextWriterAttribute.Align, "Center");
                         htw.AddAttribute(HtmlTextWriterAttribute.Style, "font-family:Arial;font-size:12pt;font-weight:bold;");
                         htw.RenderBeginTag(HtmlTextWriterTag.Td);
-                        htw.Write("Citi Application Manager Portal Excel Report");
+                        htw.Write("Excel Report");
                         htw.RenderEndTag();
                         htw.RenderEndTag();
 
