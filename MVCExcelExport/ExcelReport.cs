@@ -1,4 +1,21 @@
-public void GenerateExcelReport(<params from script>)
+using System;
+using System.Collections.Generic;
+using System.Data;
+using System.IO;
+using System.Linq;
+using System.Net.Http;
+using System.Web;
+using System.Web.Mvc;
+using System.Web.UI;
+using Newtonsoft.Json;
+using System.Web.Http;
+
+namespace CAMPDashboard.Controllers
+{
+    public class ExcelReportController : Controller
+    {
+
+        public void GenerateExcelReport(<params from script>)
         {
             List<T> list = new List<T>();
             try
@@ -118,3 +135,6 @@ public void GenerateExcelReport(<params from script>)
             }
 
         }
+        }
+
+}
