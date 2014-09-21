@@ -8,7 +8,7 @@
 //Regular MVC Controller:
 public class ChartsController : Controller
     {
-        public JsonResult GetMonthWiseRiskIssueCount(<params>)
+        public JsonResult GetData(<params>)
         {
             try
             {
