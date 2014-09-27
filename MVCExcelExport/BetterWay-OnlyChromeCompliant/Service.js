@@ -11,7 +11,7 @@ self.generateExcelReport = function (jsonData) {
                     element.attr({
                         href: 'data:attachment/xls;charset=utf-8,' + encodeURI(data),
                         target: '_blank',
-                        download: 'CitiApplicationManagerPortal.xls'
+                        download: '<filename>.xls'
                     })[0].click();
                 }
             });
