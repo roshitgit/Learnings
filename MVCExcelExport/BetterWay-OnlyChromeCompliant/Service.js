@@ -2,7 +2,7 @@ self.generateExcelReport = function (jsonData) {
 
             $.ajax({
                 type: 'POST',
-                url: "api/ExcelReport/GenerateExcelReport",
+                url: "api/ExcelReport/ExcelFile",
                 cache: false,
                 contentType: 'application/json; charset=utf-8',
                 data: JSON.stringify(jsonData),
