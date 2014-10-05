@@ -1,0 +1,21 @@
+1. Create MVC 4 Intranet solution
+2. Download requirejs from requirejs.org site (http://requirejs.org/)
+3. download latest r.js from the site (http://requirejs.org/docs/download.html#requirejs)
+4. Install NodeJS on your Windows machine. (http://nodejs.org/download/).
+    Install the correct package for your windows 32/64 bit OS.
+5. Create build.bat file specifying the build command (node ..\Scripts\r.js -o build.json) in it
+7. Save back the .bat file as "US-ASCII-Codepage 20127"
+     Go to File -> SaveAs . On save choose save with Encoding.
+	 In the popup window that appears, choose the correct encoding.
+	 If correct encoding is not provided, batch command will fail ( pt # 9)
+	 for further steps go to (http://www.codeproject.com/Articles/551733/Walkthrough-aplusUsingplustheplusRequireJSplusOpt)
+8. Then  open VS command prompt with admin priveleges.
+9. Navigate to build folder path in solution.
+     in this case go to (C:\Roshit\ASP.NET Projects\VS2012 Express Projects\RequireJSOptimizationTest\RequireJSOptimizationTest\build)
+	type build.bat to execute the batch file.
+	On successful execute "main-built.js" should be created in ..\build folder.
+	Include the file in solution.
+10. Then open "_Layout.cshtml" file and replace
+       "<script src="~/Scripts/require-min.js" data-main="~/App/main"></script>"
+										With
+	 "<script src="~/build/main-built.js"></script>"
