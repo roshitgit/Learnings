@@ -16,7 +16,7 @@ using System.ComponentModel;
 using System.Configuration;
 using System.Diagnostics;
 
-namespace CAMPEmailConsole
+namespace <NS>
 {
     public class GeneratePieChart
     {
