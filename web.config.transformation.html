@@ -1,3 +1,19 @@
 * http://blogs.msdn.com/b/webdev/archive/2009/05/04/web-deployment-web-config-transformation.aspx
 * http://msdn.microsoft.com/en-us/vstudio/Video/ff801895
 * http://www.codeproject.com/Articles/20817/Manage-Web-config-from-XML-File-by-using-configSou
+
+
+sample web.staging.config shown below for (compilation/ connectionstring & identity impersonation)
+
+
+<configuration xmlns:xdt="http://schemas.microsoft.com/XML-Document-Transform">
+  <appSettings>
+    <add key="ConnectionString"
+      value="<encrypted connection string here>"
+      xdt:Transform="SetAttributes" xdt:Locator="Match(key)"/>
+  </appSettings>
+  <system.web>
+    <compilation xdt:Transform="RemoveAttributes(debug)" />
+    <identity impersonate="true" userName="<DOMAIN>\<USERNAME>" password="<PASSWORD>" xdt:Transform="Insert"/>
+  </system.web>
+</configuration>
