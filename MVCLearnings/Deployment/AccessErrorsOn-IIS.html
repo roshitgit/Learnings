@@ -13,8 +13,13 @@ You might receive the error below in case you have setup windows authentication 
 account.
 
 ***** Error Message **********8
-The current identity (NAM\FIDRiskPortalUAT) does not have write access to 
+The current identity (<DOMAIN>\<USERNAME>) does not have write access to 
 'C:\Windows\Microsoft.NET\Framework64\v4.0.30319\Temporary ASP.NET Files'.
 
 Steps to resolve:
-1. Provide access to the windows domain account on the folder
+1. Provide access to the windows domain account <DOMAIN>\<USERNAME> on the folder
+
+
+
+Note:
+1. All these issues might come up, if you are deploying MVC 4 application using VS2010 on Windows 2008 R2 with IIS 7.5
