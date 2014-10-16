@@ -1,0 +1,20 @@
+In case this error appears on screen after deployment, follow the steps below:
+
+*** Error Message *****
+Could not load file or assembly 'Antlr3.Runtime' or one of its dependencies. An API call exited abnormally. 
+(Exception from HRESULT: 0x800300FA (STG_E_ABNORMALAPIEXIT))
+
+Steps to resolve:
+1. Go to C:\Windows\Microsoft.NET\Framework64\v4.0.30319\Temporary ASP.NET Files
+2. Delete all folders from it
+3. Rerun the application.
+
+You might receive the error below in case you have setup windows authentication with IIS impersonation on windows AD domain 
+account.
+
+***** Error Message **********8
+The current identity (NAM\FIDRiskPortalUAT) does not have write access to 
+'C:\Windows\Microsoft.NET\Framework64\v4.0.30319\Temporary ASP.NET Files'.
+
+Steps to resolve:
+1. Provide access to the windows domain account on the folder
