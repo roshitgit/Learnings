@@ -1,0 +1,13 @@
+$.fn.scrollTo = function (target, options, callback) {
+                $('html, body').animate({
+                    scrollTop: (typeof target == "number") ? target : $(target).offset().top
+                }, 500);
+                return false;
+            }
+
+            $('#downArrow, #CampPortalLearn').click(function (e) {
+                e.preventDefault();
+                $('body').scrollTo('#downArrowMiddle');
+            });
+
+
