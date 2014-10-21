@@ -1,0 +1,125 @@
+.divLandingFirstImageText
+{
+    font-size: 70px;
+    font-family: Calibri, Trebuchet MS, Arial;
+    color: #02BAEB;
+    line-height: 0.9;
+}
+
+.landingSecondPageBanner
+{
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
+
+.divLandingSecondPageAboutText
+{
+    font-size: 15px;
+    font-family: Arial;
+    color: White;
+}
+
+.divLandingSecondImageText
+{
+    font-size: 25px;
+    font-family: Arial;
+    color: #1B95D9;
+}
+
+.CustomText
+{
+    font-size: 14px;
+    color: #428bca;
+}
+
+.CustomButton
+{
+    padding: 10px 16px;
+    font-size: 40px;
+    height: 30;
+    line-height: 1.33;
+    color: #fff;
+    background-color: #428bca;
+    border-color: #357ebd;
+    display: inline-block;
+    padding: 6px 12px;
+    margin-bottom: 0;
+    font-weight: 400;
+    line-height: 1.42857143;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    background-image: none;
+    border: 1px solid transparent;
+    border-radius: 4px;
+}
+
+.buttons-container 
+{
+    position: absolute;
+    top: 550px;
+    bottom: 0;
+    padding-left: 0px;
+    padding-right: 200px;
+    width: 100%;
+    text-align: center;
+    padding-top: 100px;
+}
+
+.CustomButtonLandingPageTop
+{
+    width: 15%;
+    height: 60px;
+    border: none;
+    color: white;
+    font-size: 24px;
+    background-color: #428bca;
+    cursor: pointer;
+}
+
+.CustomButtonLandingPage
+{
+    padding: 10px 16px;
+    font-size: 18px;
+    line-height: 1.33;
+    border-radius: 6px;
+    color: #fff;
+    background-color: #428bca;
+    border-color: #357ebd;
+    display: inline-block;
+    padding: 6px 12px;
+    margin-bottom: 0;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1.42857143;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    background-image: none;
+    border: 1px solid transparent;
+    border-radius: 4px;
+}
+
+.horizontalRuler
+{
+    width: 100%;
+    text-align: center;
+    border-bottom: 1px solid #000;
+    line-height: 0.1em;
+}
+
+.horizontalRuler span
+{
+    background: #fff;
+}
