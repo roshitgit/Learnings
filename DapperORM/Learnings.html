@@ -15,3 +15,7 @@ bydefault dapper sends input params as NVARCHAR. so is sp accepts varchar, then 
 index scan rather than a index seek. this might hamper query performance. So to enable input params to be of ANSI varchar, type code below.
 
 Dapper.SqlMapper.AddTypeMap(typeof(string), System.Data.DbType.AnsiString);
+* http://stackoverflow.com/questions/6386069/can-ansistrings-be-used-by-default-with-dapper
+
+Dapper Fluent API
+* https://github.com/beardeddev/dapper-fluent/blob/master/Dapper.Fluent/DbManager.cs
