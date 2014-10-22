@@ -10,3 +10,8 @@ Dapper Extensions
 Must haves for dapper
 * http://nugetmusthaves.com/Tag/Dapper
 
+* write the code below to enable ANSI input strings.
+bydefault dapper sends input params as NVARCHAR. so is sp accepts varchar, then the sql query with dapper will result in a
+index scan rather than a index seek. this might hamper query performance. So to enable input params to be of ANSI varchar, type code below.
+
+Dapper.SqlMapper.AddTypeMap(typeof(string), System.Data.DbType.AnsiString);
