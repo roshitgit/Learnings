@@ -3,3 +3,28 @@
 * http://madskristensen.net/post/performance-tuning-tricks-for-aspnet-and-iis-7-part-1
 * http://stackoverflow.com/questions/7541032/caching-specific-javascript-and-css-files
 * blog.janjonas.net/2011-08-21/microsoft-iis-7-enable-client-side-browser-caching-static-content-web-config
+
+******************************** Static and dynamic compression in IIS 7/7.5 ************************8
+
+* http://www.iis.net/configreference/system.webserver/urlcompression
+<configuration>
+   <system.webServer>
+      <urlCompression doStaticCompression="true" doDynamicCompression="false" />
+   </system.webServer>
+</configuration>
+
+* doDynamicCompression
+Note: In IIS 7.0, the use of dynamic compression was disabled by default because of increased processor utilization 
+that may have reduced the overall performance of the Web server. In IIS 7.5, changes were made to 
+dynamic compression that resulted in better performance, so dynamic compression is enabled by default in IIS 7.5 and later.
+The default value is true.
+
+* doStaticCompression
+Optional Boolean attribute.
+Specifies whether static compression is enabled for URLs.
+The default value is true.
+
+* dynamicCompressionBeforeCache
+Optional Boolean attribute.
+Specifies whether the currently available response is dynamically compressed before it is put into the output cache.
+The default value is false.
