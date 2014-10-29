@@ -1,5 +1,5 @@
-Post request to work on server.
-use json2.js for "JSON.stringify" to work
+//Post request to work on server.
+//use json2.js for "JSON.stringify" to work
 
 $.ajax({
                     type: "POST",
