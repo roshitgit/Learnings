@@ -1,0 +1,11 @@
+* Always have one clustered index created on table.
+  Create Table Test(
+    ID INT IDENTITY (1,1) primary key clustered,
+    name [varchar](100),
+    Address [varchar](max)
+  )
+* Always have clustered index on ID Identity column of "INT" which occupies 4 bytes of space.
+  (i.e always create clustered index on unique columns. ex: ID identity column will always have unique values in it
+    so its a primary candidate for clustered indexing)
+* Never create clustered on "VARCHAR" columns.
+* better to create non-clustered index on foreign keys.
