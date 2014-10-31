@@ -1,3 +1,4 @@
+A) Indexing Facts:
 * Always have one clustered index created on table.
   Create Table Test(
     ID INT IDENTITY (1,1) primary key clustered,
@@ -11,3 +12,16 @@
 * many non-clustered ones can be created in a single table on multiple columns
 * Index seek is faster than index scan. Use query execution plan to decide on indexing. If a query is doing "Index Scan", 
   its a problem.
+  
+Learning links:
+http://www.analyticsinaction.com/indexes/
+  
+
+B) How to check execution time of query
+Enable statistics before executing a query
+
+Set statistics io on
+Set Statistics time on
+
+Select .....
+
