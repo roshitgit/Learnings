@@ -11,9 +11,11 @@ A) Indexing Facts:
   Also the values will be in "Ascending order" so clustered index is best here.
   Thereby apply clustered indexes on
     * ID Identity INT column
-    * column with values in Ascending order.
+    * column with unique values in Ascending order.
 * Never create clustered on "VARCHAR" columns. Better to create non-clustered index on foreign keys.
-* many non-clustered ones can be created in a single table on multiple columns
+* many non-clustered ones can be created in a single table on multiple columns.
+  better to create non-clustered on columns with non-unique values.
+  
 * Index seek is faster than index scan. Use query execution plan to decide on indexing. If a query is doing "Index Scan", 
   its a problem.
 * When there is no index on table, the select queries will make a "FULL TABLE SCAN" which is very slow.
