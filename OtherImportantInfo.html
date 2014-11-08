@@ -1,2 +1,8 @@
 * To get server name:
   System.Web.HttpContext.Current.Request.ServerVariables["SERVER_NAME"].ToLower();
+
+* C# Console applications
+   1. Lets say web app uses windows domain functional id to connect to the sql server database.
+   2. In this case to run code from c# console, following things has to be done
+       * Impersonate the identity of the functional id to execute code in prod.
+       * Give admin rights to the FID on server where the exe will be executed. (either manually or via autosys)
