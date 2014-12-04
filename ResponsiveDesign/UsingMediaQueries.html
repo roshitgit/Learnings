@@ -115,3 +115,28 @@ Alternatively, you could use Thomas Fuchs’ code:
 /* Retina rules! */
   
 }
+
+*****************************************************************************
+
+@media screen and (max-width: 1000px) {
+
+    #content { width: 100% }
+
+}
+
+@media screen and (max-width: 800px) {
+
+    #nav { float: none }
+
+}
+
+@media screen and (max-width: 600px) {
+
+    #content aside {
+        float: none;
+        display: block;
+    }
+
+}
+Note that if, for example, a layout area was 600 pixels wide or less, all three of 
+these would be applied (because it would be less than or equal to 1000px, 800px, and 600px).
