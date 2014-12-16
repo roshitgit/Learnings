@@ -1,0 +1,40 @@
+* Angular bootstrap
+https://egghead.io/lessons/angularjs-angular-bootstrap-app-init
+sample code:
+
+<html>
+<meta charset="utf-8">
+<head>
+</head>
+<body>
+  <div id="main">
+  <!-- our HTML will be injected here -->
+  </div>
+  <script>
+  var  template = ''
+        + '<h2>Type Something In the Text-Box.</h2>'
+        + '<input type="text" ng-model="myData" />'
+        + '<p class="content"><b>The Value of "myData" is:</b><span class="val">{{myData}}</span></p>';
+ 
+  //our boot-strapping function
+  function bootAngular(){
+    //create the Angular module
+    var myMod = angular.module('myApp', []);
+ 
+    //configure code that will execute when the module is instantiaged
+    myMod.run(function ($rootScope) {
+        $rootScope.myData = "Angular has been boot-strapped!";
+        $('#main').append(template);
+    });
+ 
+    //boot-strap angular!
+    angular.bootstrap( $('body'), ['myApp']);
+  };
+ 
+  //when the document is ready...
+  angular.element(document).ready(function(){
+    //execute our boot-strapping function
+    bootAngular();
+  });
+  </script>
+</body>
