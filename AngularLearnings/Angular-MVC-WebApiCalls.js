@@ -59,3 +59,7 @@ controllers.deleteone = function ($scope, $http) {
     }
 };
 crudmodule.controller(controllers);
+
+
+****** Links with Ajax calls and promises and defer objects
+http://sravi-kiran.blogspot.com/2013/03/MovingAjaxCallsToACustomServiceInAngularJS.html
