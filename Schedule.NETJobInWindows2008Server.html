@@ -1,0 +1,44 @@
+Steps to schedule task in Windows 2008 server R2:
+
+Step 1. If existing solution is built in VS2010, migrate code in VS 2013 and switch to .net framework 4.0
+
+step 2: Go to VS2013 solution project properties (F4) and click on "Compile" tab.
+
+step 3: Change Target CPU from "AnyCPU" to "x86".
+        if its targeted to "AnyCPU" (which is by default), the exe throws and exception on execution on server.
+	Exception: The 'Microsoft.Jet.OLEDB.4.0' provider is not registered on the local machine.
+	Note: This exception is generated if we execute exe built for 32 bit machines on 64 bit machines.
+
+step 4: If job requires downloading files from sharepoint, use .net webclient for the same.
+
+Step 5: Run webclient using the account credentials which had admin access on the target machines which executes the exe.
+
+	Dim client As New WebClient()
+        Dim cc As New NetworkCredential("<USER ID>", "<PASSWORD>", "<DOMAIN>")
+	client.Credentials = cc
+
+        //client.UseDefaultCredentials = True
+        client.DownloadFile("<SHAREPOINT URL WITH FILENAME>", "<DOWNLOAD PATH as in C:\windows\<filename> >") 
+
+        Note: specifying UseDefaultCredentials = True does not work on Win 2008 server R2 due to enhanced security issues.
+        specifying just filename in Download path works in Win 2003 but same does not work on Win 2008 R2.
+        It does work on Win 2003 server and there is no need to provide "NetworkCredential".
+        On Win 2003 server though, its important to provide "ASPNET" account full access to the exe.
+	Also the FID should have access on the exe.
+
+Step 6: On Task Scheduler, configure as below.
+        a) Open Server manager (from taskbar) in WIn 2008 R2.
+	b) Go to Configuration/ Task Scheduler/ Task Scheduler Library.
+	c) Right click on "Task Scheduler Library" and create basic task. configure options on window.
+	d) Make sure to do the following while configuring.
+		i. select radiobutton "Run whether user is logged in or not".
+			(this ensures that exe will run even if user is not logged into server)
+		ii.select radiobutton "Do not store password........"
+		iii. select checkbox "Run with Highest privileges"	
+	e) In configure for dropdown, select R2.
+	f) In start program option, select the batch file which will execute the exe.
+        g) Specify the entire batch file path in "program/script" textbox. No need to add anything in arguments or start in
+	h) In batch file specify the command,
+	i) Schedule time weekly or daily specifying the time as required.
+		
+         start /d "c:\<folder name>" <exe name here>	
