@@ -93,15 +93,15 @@ BEGIN
 
 			END
 
-		IF OBJECT_ID('tempdb..#ADHOC_STG_DATA') IS NOT NULL
-		  DROP TABLE #ADHOC_STG_DATA
+		IF OBJECT_ID('tempdb..#temp') IS NOT NULL
+		  DROP TABLE #temp
 	END TRY 
 
       BEGIN CATCH 
 		IF @@TRANCOUNT > 0 
 			ROLLBACK TRAN
-		IF OBJECT_ID('tempdb..#ADHOC_STG_DATA') IS NOT NULL
-		  DROP TABLE #ADHOC_STG_DATA
+		IF OBJECT_ID('tempdb..#temp') IS NOT NULL
+		  DROP TABLE #temp
 
           SELECT  Error_message() 
           SET nocount OFF 
