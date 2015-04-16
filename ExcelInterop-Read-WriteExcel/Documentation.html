@@ -41,3 +41,47 @@
     <br />
 </body>
 </html>
+
+sample code to read excel
+if (Path.GetExtension(_requestedFileName) == ".xlsx")
+                {
+                    ExcelProcessConnectionString =
+                     "Provider=Microsoft.ACE.OLEDB.12.0;" +
+                     "Data Source=" + _requestedFilePath + ";" +
+                     "Extended Properties=Excel 12.0";
+                }
+                else
+                {
+                    ExcelProcessConnectionString =
+                     "Provider=Microsoft.Jet.OLEDB.4.0;" +
+                     "Data Source=" + _requestedFilePath + ";" +
+                     "Extended Properties=Excel 8.0";
+                }
+
+                using (OleDbConnection oledbConn = new OleDbConnection(ExcelProcessConnectionString))
+                {
+                    OleDbCommand oledbCmd = new OleDbCommand();
+                    oledbCmd.Connection = oledbConn;
+
+                    //DataColumnCollection dcc = oledbConn.GetSchema("Tables").Columns;
+
+                    if (oledbConn.State == ConnectionState.Closed) oledbConn.Open();
+
+                    DataTable sheetTable = oledbConn.GetSchema("Tables");
+                    string strSHeetName = Convert.ToString(sheetTable.Rows[0]["TABLE_NAME"]);
+
+                    if (ExcelIsValid(oledbConn, strSHeetName))
+                    {
+                        string selectQuery = "Select [Category ID],[App ID],[DescriptionText1],[DescriptionText2],[DescriptionText3],[DescriptionText4],[DescriptionText5],[DueDate],[KPF_01], [KPF_02], [KPF_03],[KPF_04],[ActionURL],[ActionDescription],[ActionHelp]  from [" + strSHeetName + "]";
+
+                        OleDbDataAdapter da = new OleDbDataAdapter(selectQuery, oledbConn);
+                        da.SelectCommand = oledbCmd;
+                        da.SelectCommand.CommandText = selectQuery;
+                        da.SelectCommand.CommandType = CommandType.Text;
+
+                        DataTable dtActual = new DataTable();
+
+                        da.Fill(dtActual);
+                          .................................
+                          .....................
+                          
