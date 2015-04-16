@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <u>(A) For Adhoc Upload Process</u>
+  
+    <ul>
+        <li><u>To read .xls or .xlsx excel format files using .NET MVC, carry out following steps</u> </li>
+        <br />
+        <br />
+        <li>
+            1. Install "MS Access database engine 2010 redistributable" 64 bit from
+            <a href="http://www.microsoft.com/en-us/download/details.aspx?id=13255">Download link</a>.
+            Install 64 bit to install on windows 2008, 2008 r2 machines which are 64 bit ones.
+            install 32 bit to install on windows 2003 server and below which are 32 bit machines.
+            this redistributable works if code justs reads and excel file and processes records in it.
+            <strong>this may not work if .net code tries to create excel file as for creation and to open file, ms office has to be installed.</strong>
+            <br />
+            <br />
+        </li>
+        <li>
+            if application has excel file upload functionality, then its better to upload file using server.mappath
+            so that file sits on the path where code is hosted in IIS. Create a folder under /Root of site and do server.mappath on it.
+            <br />
+            2. Set full access to <strong>"Authenticated Users"</strong> role on  the folder in IIS.
+            Go in IIS, navigate to the virtual directory of site.
+            right click and do edit permissions and give full access to "Authenticated Users" role.
+            <br />
+            <br />
+        </li>
+        <li>
+            If MS Office is installed, no need to do step 1 from above. Thereby code works properly on local machine as local machines
+            normally would have all softwares installed on it.
+            <br />
+            But on server, most likely MS-office won't be installed. Thats why to identify providers such as <strong>Microsoft.ACE.OLEDB.12.0 OR Microsoft.Jet.OLEDB.4.0</strong>
+            in the code, we have to install redistributable as in step 1 above.
+        </li>
+    </ul>
+    <br />
+</body>
+</html>
