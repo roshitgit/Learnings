@@ -1,0 +1,95 @@
+<!doctype HTML>
+ 
+<!--[if lt IE 7]>
+ 
+<HTML class="no-jslt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+ 
+<!--[if IE 7]>
+ 
+<HTML class="no-jslt-ie9 lt-ie8"> <![endif]-->
+ 
+<!--[if IE 8]>
+ 
+<HTML class="no-jslt-ie9"> <![endif]-->
+ 
+<!--[if gt IE 8]><!-->
+ 
+<HTMLclass="no-js"><!--<![endif]-->
+ 
+<head>
+ 
+<metacharset="utf-8">
+ 
+<metahttp-equiv="X-UA-Compatible"content="IE=edge">
+ 
+<basehref="/"/>
+ 
+<title></title>
+ 
+<metaname="description"content="">
+ 
+<metaname="viewport"content="width=device-width">
+ 
+<!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
+ 
+<!-- build:css(.tmp) styles/main.css -->
+ 
+<linkrel="stylesheet"type="text/css"href="../styles/main.css">
+ 
+<linkrel="stylesheet"type="text/css"href="../styles/bootstrap.min.css">
+ 
+<linkrel="stylesheet"type="text/css"href="../styles/glyphicons.css">
+ 
+<linkhref='http://fonts.googleapis.com/css?family=Ubuntu:400,700'rel='stylesheet'type='text/css'>
+ 
+<!-- endbuild -->
+ 
+</head>
+ 
+//this will be our angular.js intialization point
+ 
+<bodyng-app="NodejsdemoApp">
+ 
+<!--[if lt IE 7]>
+ 
+<p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade
+ 
+your browser</a> to improve your experience.</p>
+ 
+<![endif]-->
+ 
+<!--[if lt IE 9]>
+ 
+<script src="bower_components/es5-shim/es5-shim.js"></script>
+ 
+<script src="bower_components/json3/lib/json3.min.js"></script>
+ 
+<![endif]-->
+ 
+//this will load our angular.js files
+ 
+<scriptsrc="bower_components/angular/angular.js"></script>
+ 
+<!-- build:js(app) scripts/modules.js -->
+ 
+<scriptsrc="bower_components/angular-route/angular-route.js"></script>
+ 
+<scriptsrc="bower_components/angular-bootstrap/ui-bootstrap-tpls.min.js"></script>
+ 
+<!-- endbuild -->
+ 
+<!-- build:js({.tmp,app}) scripts/scripts.js -->
+ 
+//all required custom js files will be loaded at here
+ 
+<scriptsrc="scripts/app.js"></script>
+ 
+<scriptsrc="scripts/controllers/home.js"></script>
+ 
+<divng-includesrc="'partials/home.html'"></div>
+ 
+<!-- endbuild -->
+ 
+</body>
+ 
+</HTML>
