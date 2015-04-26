@@ -1,11 +1,5 @@
 
-***Integrate Node.js & Angular.js in Web based MVC Application
-http://technet.weblineindia.com/web/integrate-node-js-angular-js-in-web-based-mvc-application/
 
-/**
-*Moduledependencies.
-*/
- 
 //Below code will load requires packages for Application
  
 var express = require('express')
