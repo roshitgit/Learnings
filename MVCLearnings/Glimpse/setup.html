@@ -1,0 +1,60 @@
+**** if using MVC 4 with VS2010/ 2013 and .net framework 4.0
+1. Install-Package Glimpse.Mvc4
+2. make changes in web.config as below if not done correctly by nuget install
+ 
+ <configuration>
+  <configSections>
+    <section name="glimpse" type="Glimpse.Core.Configuration.Section, Glimpse.Core" />
+  </configSections>
+  
+  .....
+  <system.web>
+    <httpModules>
+      <add name="Glimpse" type="Glimpse.AspNet.HttpModule, Glimpse.AspNet" />
+    </httpModules>
+    <httpHandlers>
+      <add path="glimpse.axd" verb="GET" type="Glimpse.AspNet.HttpHandler, Glimpse.AspNet" />
+    </httpHandlers>
+  </system.web>
+  .....
+  
+    <system.webServer>
+    <modules runAllManagedModulesForAllRequests="true">
+      <add name="Glimpse" type="Glimpse.AspNet.HttpModule, Glimpse.AspNet" preCondition="integratedMode" />
+    </modules>
+    <handlers>
+      <add name="Glimpse" path="glimpse.axd" verb="GET" type="Glimpse.AspNet.HttpHandler, Glimpse.AspNet" preCondition="integratedMode" />
+    </handlers>
+  </system.webServer>
+  
+  <glimpse defaultRuntimePolicy="On" endpointBaseUri="~/Glimpse.axd">
+    <!--By default, Glimpse does not work on remote server (ex: production/dev/qa etc)
+        to make it work on server, disable LocalPolicy
+    -->
+    <runtimePolicies>
+      <ignoredTypes>
+        <add type="Glimpse.AspNet.Policy.LocalPolicy, Glimpse.AspNet"/>
+      </ignoredTypes>
+    </runtimePolicies>
+    <tabs>
+      <ignoredTypes>
+        <add type="Glimpse.Mvc.Tab.ModelBinding, Glimpse.Mvc4" />
+        <add type="Glimpse.Mvc.Tab.Metadata, Glimpse.Mvc4" />
+      </ignoredTypes>
+    </tabs>
+    <inspectors>
+      <ignoredTypes>
+        <add type="Glimpse.Mvc.Inspector.ModelBinderInspector, Glimpse.Mvc4" />
+      </ignoredTypes>
+    </inspectors>
+  </glimpse>
+</configuration>
+
+3. After step 1 and step 2
+a. on local browse site as : http://localhost:27767/glimpse.axd/.....<rest of the url here>
+b. turn on glimpse here.
+c. then remove glimpse.axd from url and browse regular url, to see the g icon at the bottom of the page.
+d. perform same steps to turn off glimpse
+
+on production to turn off, use xdt: transform on production.config  as :
+<glimpse defaultRuntimePolicy="Off" xdt:Transform="SetAttributes"></glimpse>
