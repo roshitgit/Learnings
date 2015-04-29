@@ -1,0 +1,23 @@
+A) IIS has to impersonate using the identity of the windows AD domain account if SQL database is using "Windows Authentication"
+   instead of "SQL server authentication or mixed mode".
+B) IIS wont be able to run the MVC code and will give 401:Unauthorized exception if impersonation is not done
+
+Follow the steps below to impersonate if:
+* Web application is using MVC 4 Web API with VStudio 2010/2012/2013 and 
+* SQL database is using "Windows Authentication" with windows domain account FID.
+
+Better to do impersonation only in IIS.
+Do not do impersonation in web.config of app like:
+  <identity impersonate="true" userName="NAM\FIDRiskPortalUAT" />
+if impersonation is enabled in web.config, then FID user permissions has to be provided on 
+"c:\Windows\Microsoft.NET\Framework64\v4.0.30319\Temporary ASP.NET Files\" folder also which is not the recommended.
+
+Thereby only do impersonation in IIS by:
+* Creating new application pool in IIS.
+* Provide the identity of the SQL server domain account instead of "AppPoolIdentity". 
+  ( same domain account which is mentioned on connection string )
+  
+* Thereby if MVC app is a Intranet App then in IIS authentication section will have:
+    1) Windows auth enabled
+    2) impersonation disabled
+    3) Anonymous auth disabled (this is important)
