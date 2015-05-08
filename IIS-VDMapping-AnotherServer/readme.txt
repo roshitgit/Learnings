@@ -12,20 +12,11 @@ To setup VD:
 Steps to setup NAS VD mapping in IIS 7.5 (Win 2008 R2 server)
 
 1.	Setup VD mapped to NAS drive under TAPortal website in IIS. (as shown below)
-2.	On TAPortal website specify mime type for .msg files as shown below.
+2.	On website specify mime type for .msg files as shown below.
 Note:  The entry type will show up as “local” on website but will show up as “inherited” on VD mapped below the website
-Setup mime type only on the website and not on Virtual directory.
- 
-
+        Setup mime type only on the website and not on Virtual directory.
 3.	While creating the VD, use the Connect As button to specify the FID credentials (mentioned at the top)
-
- 
-
- 
-
 4.	Do a test connection of the FID to verify the connection. 
 Authentication & Authorization should pass
- 
-
 5.	After completing the setup, right click on VD and go to advanced settings. It should show information as shown below
  
