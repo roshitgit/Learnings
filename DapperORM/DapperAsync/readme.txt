@@ -4,8 +4,12 @@
 ** vgood (try to implement)
 3.http://www.joesauve.com/async-dapper-and-async-sql-connection-management/
 4.https://blog.tommyparnell.com/using-action-func-to-hide-using-statements/
+
 **Using Action<>, Func<> to hide using statements
 https://blog.tommyparnell.com/using-action-func-to-hide-using-statements/
+
+**Mapping to models generic repository interface w/ multiple implementations
+http://stackoverflow.com/questions/28377915/mapping-to-models-generic-repository-interface-w-multiple-implementations
 
 ** when to use async for db calls
 http://blogs.msdn.com/b/rickandy/archive/2009/11/14/should-my-database-calls-be-asynchronous.aspx
