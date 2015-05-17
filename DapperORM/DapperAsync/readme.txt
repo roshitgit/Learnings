@@ -8,6 +8,9 @@
 **Using Action<>, Func<> to hide using statements
 https://blog.tommyparnell.com/using-action-func-to-hide-using-statements/
 
+** dapper async with helper functions-- must implement this
+https://gist.github.com/Rolive0712/6a6baddd0a6ddcad3eab
+
 **Mapping to models generic repository interface w/ multiple implementations
 http://stackoverflow.com/questions/28377915/mapping-to-models-generic-repository-interface-w-multiple-implementations
 
