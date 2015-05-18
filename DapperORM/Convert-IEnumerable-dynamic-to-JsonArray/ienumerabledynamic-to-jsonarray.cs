@@ -1,11 +1,5 @@
 http://stackoverflow.com/questions/10046496/convert-ienumerabledynamic-to-jsonarray
 
-*** must implement - Getting dynamic ExpandoObject to serialize to JSON as expected
-http://www.patridgedev.com/2011/08/24/getting-dynamic-expandoobject-to-serialize-to-json-as-expected/
-
-
-
-
 [WebGet(UriTemplate = "/tools/data/get?tool={tool}&filters={filters}")]
     public JsonArray GetData(string tool, string[,] filters)
     {
@@ -31,3 +25,9 @@ http://www.patridgedev.com/2011/08/24/getting-dynamic-expandoobject-to-serialize
 
         return returnValue;
     }
+    
+    
+    
+*** must implement - Getting dynamic ExpandoObject to serialize to JSON as expected
+http://www.patridgedev.com/2011/08/24/getting-dynamic-expandoobject-to-serialize-to-json-as-expected/
+
