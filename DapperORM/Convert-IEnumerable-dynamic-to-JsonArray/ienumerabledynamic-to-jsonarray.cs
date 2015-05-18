@@ -31,3 +31,7 @@ http://stackoverflow.com/questions/10046496/convert-ienumerabledynamic-to-jsonar
 *** must implement - Getting dynamic ExpandoObject to serialize to JSON as expected
 http://www.patridgedev.com/2011/08/24/getting-dynamic-expandoobject-to-serialize-to-json-as-expected/
 
+
+***Using C# 4.0 and dynamic to parse JSON
+http://www.drowningintechnicaldebt.com/ShawnWeisfeld/archive/2010/08/22/using-c-4.0-and-dynamic-to-parse-json.aspx
+
