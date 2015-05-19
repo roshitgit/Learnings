@@ -1,0 +1,6 @@
+*** Difference between AJAX Helper and async/await
+They are actually completely different. The key to understanding the difference is to think about the HTTP protocol.
+In the HTTP protocol, you have one request and one response. That's it. The client makes a request, and the server creates and sends a response.
+When you use async and await in a request handler (such as an MVC action), you still only have one response. async doesn't change the HTTP protocol. So, what async/await does is free up the request thread while there is asynchronous work being done. But while that asynchronous work is being done, nothing is sent to the client (the response is not yet created). You can think of async/await as "yielding" to the ASP.NET runtime, but not the client browser.
+AJAX is a different approach. AJAX is a convention for issuing additional HTTP requests from a browser, without changing the current page. You'd use AJAX if you're writing a SPA, or say, if you wanted to load a "placeholder" page and then load the content.
+For more information, see the "Asynchronous Code Is Not a Silver Bullet" section of my MSDN article on async ASP.NET.
