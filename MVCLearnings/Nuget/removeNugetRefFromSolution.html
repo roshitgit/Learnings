@@ -3,7 +3,7 @@ http://stackoverflow.com/questions/8713616/remove-nuget-package-restore-from-sol
 
 Steps:
 1. Disable Nuget restore while solution build from Tools-> Options in VStudio
-2. Right click UI project and do "Unload Project" and edit.
+2. Right click UI project and other Class library projects and do "Unload Project" and edit.
 3. Comment the tags (as shown below) in the edited section
 
 .............
@@ -42,3 +42,11 @@ Steps:
   <Target Name="AfterBuild">
   </Target> -->
 </Project>
+
+4. Next create assemblies folder in solution.
+5. Copy over all dll's from nuget packages folder in the newly created assemblies folder
+6. Check in the assemblies folder then in TFS. (make sure not to have assemblies folder in solution source code. it should not be part of source
+code when we try to publish in short)
+7. Next refer to all 3rd party dll's in code from the newly created assemblies folder.
+8. With this in place, we remove all nuget references from solution.
+ and we do not depend on nuget and code won't restore packages from online repository also while we build
