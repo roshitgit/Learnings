@@ -8,3 +8,6 @@ http://simpleformsauthmvc4.codeplex.com/SourceControl/latest#Dev1.0/SimpleMVCAut
 
 * MVC web api attribute routing
 http://attributerouting.net/
+
+**Newtonsoft.Json.Linq sample
+http://www.software-architects.com/devblog/2014/09/22/Profiling-of-DB-Related-C-Applications
