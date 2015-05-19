@@ -11,6 +11,9 @@ http://stackoverflow.com/questions/6317937/dapper-net-and-stored-proc-with-multi
 http://www.ciiycode.com/0iyJHqqWPqPW/dapper-multi-mapping-with-querymultiple
 http://tiku.io/questions/1079788/dapper-gridreader-already-disposed-error
 
+*StackExchange - dapper-dot-net
+https://github.com/StackExchange/dapper-dot-net
+
 * Dapper.net how to create a map
 http://www.kacode.com/v294921-.html
 
