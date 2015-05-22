@@ -5,6 +5,7 @@ With Dapper Install other packages also
 
 * Set Column Attribues in Dapper
 http://refactorthat.com/2012/03/13/adding-some-snaz-to-dapper/
+http://weizhishi.com/questions/96287/dapper-with-attributes-mapping
 
 * multiple resultsets
 http://stackoverflow.com/questions/6317937/dapper-net-and-stored-proc-with-multiple-result-sets
