@@ -3,9 +3,13 @@ With Dapper Install other packages also
 * install-package Dapper.Contrib
 * install-package Dapper.Extensions
 
+* Dapper.net how to create a map
+http://www.kacode.com/v294921-.html
+
 * Set Column Attribues in Dapper
 http://refactorthat.com/2012/03/13/adding-some-snaz-to-dapper/
 http://weizhishi.com/questions/96287/dapper-with-attributes-mapping
+http://stackoverflow.com/questions/8902674/manually-map-column-names-with-class-properties
 
 * multiple resultsets
 http://stackoverflow.com/questions/6317937/dapper-net-and-stored-proc-with-multiple-result-sets
@@ -14,9 +18,6 @@ http://tiku.io/questions/1079788/dapper-gridreader-already-disposed-error
 
 *StackExchange - dapper-dot-net
 https://github.com/StackExchange/dapper-dot-net
-
-* Dapper.net how to create a map
-http://www.kacode.com/v294921-.html
 
 * net-microorms--dapper-petapoco-and-more
 http://www.nullskull.com/a/1659/net-microorms--dapper-petapoco-and-more.aspx
