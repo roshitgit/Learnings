@@ -8,6 +8,9 @@
 **Using Action<>, Func<> to hide using statements
 https://blog.tommyparnell.com/using-action-func-to-hide-using-statements/
 
+** using stopwatch with async
+http://midnightprogrammer.net/category/C/
+
 ** dapper async with helper functions-- must implement this
 https://gist.github.com/Rolive0712/6a6baddd0a6ddcad3eab
 
