@@ -11,3 +11,6 @@ http://www.codeitive.com/7JzSqPUVWU/optional-parameters-in-web-api-attribute-rou
 
 ****ASP.NET Web API and Protocol Buffers
 http://www.strathweb.com/2013/02/asp-net-web-api-and-protocol-buffers/
+https://damienbod.wordpress.com/2014/01/11/using-protobuf-net-media-formatter-with-web-api-2/
+https://github.com/Rolive0712/WebApi2WebApiContribProtobuf
+http://rushfrisby.com/improving-webapi-performance-with-jil-and-protocol-buffers/
