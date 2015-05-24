@@ -5,6 +5,7 @@ With Dapper Install other packages also
 
 * Dapper.net how to create a map
 http://www.kacode.com/v294921-.html
+https://github.com/randyburden/Slapper.AutoMapper
 
 * Set Column Attribues in Dapper
 http://refactorthat.com/2012/03/13/adding-some-snaz-to-dapper/
