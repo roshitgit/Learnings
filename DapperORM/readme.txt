@@ -10,6 +10,7 @@ http://www.kacode.com/v294921-.html
 http://refactorthat.com/2012/03/13/adding-some-snaz-to-dapper/
 http://weizhishi.com/questions/96287/dapper-with-attributes-mapping
 http://stackoverflow.com/questions/8902674/manually-map-column-names-with-class-properties
+http://stackoverflow.com/questions/8902674/manually-map-column-names-with-class-properties/30200384#30200384
 
 * multiple resultsets
 http://stackoverflow.com/questions/6317937/dapper-net-and-stored-proc-with-multiple-result-sets
@@ -29,6 +30,9 @@ http://farhadtaran.blogspot.in/
 
 * dapper-and-anonymous-types
 http://stackoverflow.com/questions/6147121/dapper-and-anonymous-types
+
+**using-dapper-with-mdx
+http://www.dynamictyped.com/2011/08/20/using-dapper-with-mdx/
 
 * creating-data-repository-using-dapper
 http://www.bradoncode.com/blog/2012/12/creating-data-repository-using-dapper.html
