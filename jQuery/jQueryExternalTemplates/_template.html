@@ -1,0 +1,61 @@
+<script id="NoRecordsTemplate" type="text/x-jquery-tmpl">
+        <tr>
+            <td colspan='${ColSpan}' align='center' style='width: 100%; text-align: center'>${Message}</td>
+        </tr>
+</script>
+<script id="projFinancials" type="text/x-jquery-tmpl">
+        <td align='right'>${SOWDetails.formatCurrency(ProjectYTD)}</td>
+        <td align='right'>${SOWDetails.formatCurrency(ProjectLTD)}</td>
+        <td align='right'>${SOWDetails.formatCurrency(ProjectFY)}</td>
+        <td align='right'>${SOWDetails.formatCurrency(ProjectTotalContract)}</td>
+</script>
+<script id="MonthFinancials" type="text/x-jquery-tmpl">
+        <td align='right'>${SOWDetails.formatCurrency(JanAmount)}</td>
+        <td align='right'>${SOWDetails.formatCurrency(FebAmount)}</td>
+        <td align='right'>${SOWDetails.formatCurrency(MarAmount)}</td>
+        <td align='right'>${SOWDetails.formatCurrency(AprAmount)}</td>
+        <td align='right'>${SOWDetails.formatCurrency(MayAmount)}</td>
+        <td align='right'>${SOWDetails.formatCurrency(JunAmount)}</td>
+        <td align='right'>${SOWDetails.formatCurrency(JulAmount)}</td>
+        <td align='right'>${SOWDetails.formatCurrency(AugAmount)}</td>
+        <td align='right'>${SOWDetails.formatCurrency(SeptAmount)}</td>
+        <td align='right'>${SOWDetails.formatCurrency(OctAmount)}</td>
+        <td align='right'>${SOWDetails.formatCurrency(NovAmount)}</td>
+        <td align='right'>${SOWDetails.formatCurrency(DecAmount)}</td>
+</script>
+<script id="AssignedProjectTemplate" type="text/x-jquery-tmpl">
+    <tr>
+        <td align='left'><b><a id='aProjId' title='${ProjectName}' href='#'>${ProjectID}</a></b></td>
+        <td align='left'>${StartDate}</td>
+        <td align='left'>${EndDate}</td>
+        {{tmpl "#MonthFinancials"}}
+        {{tmpl "#projFinancials"}}
+    </tr>
+</script>
+<script id="FPCForecastTemplate" type="text/x-jquery-tmpl">
+    <tr style="background-color:#FFF1BB">
+        <td align='left'>${SOWID}</td>
+        <td align='left'>${SOWStartDate}</td>
+        <td align='left'>${SOWEndDate}</td>
+        {{tmpl "#MonthFinancials"}}
+        <td align='right'>${SOWDetails.formatCurrency(SOWYTD)}</td>
+        <td align='right'>${SOWDetails.formatCurrency(SOWLTD)}</td>
+        <td align='right'>${SOWDetails.formatCurrency(SOWFY)}</td>
+        <td align='right'>${SOWDetails.formatCurrency(SOWTotalContract)}</td>
+    </tr>
+</script>
+<script id="TotalActualForecastTemplate" type="text/x-jquery-tmpl">
+    <tr>
+        <td class='fieldLabelGridlastRows' style='FONT-WEIGHT: bold; width:260px;'>Total Actual/ Forecast</td>
+        {{tmpl "#MonthFinancials"}}
+        {{tmpl "#projFinancials"}}
+    </tr>
+</script>
+<script id="OverUnderTemplate" type="text/x-jquery-tmpl">
+    <tr>
+        <td class='fieldLabelGridlastRows' style='FONT-WEIGHT: bold; width:260px; color: Red'>Over/ Under</td>
+        {{tmpl "#MonthFinancials"}}
+        {{tmpl "#projFinancials"}}
+    </tr>
+</script>
+
