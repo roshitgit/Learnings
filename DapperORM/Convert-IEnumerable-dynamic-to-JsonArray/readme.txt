@@ -15,3 +15,6 @@ http://stackoverflow.com/questions/16600732/trying-to-return-ienumerabledynamic-
 
 **Searching an IEnumerable<dynamic>
 http://stackoverflow.com/questions/11852736/searching-an-ienumerabledynamic
+
+**Sending Dictionary from ajax
+http://forums.asp.net/t/1756145.aspx?Sending+Dictionary+from+ajax
