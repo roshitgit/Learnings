@@ -16,3 +16,31 @@ namespace DapperCleanDemo.Controllers
         }
     }
 }
+
+
+You could use a dynamic query and map it afterwards. Something like this
+
+var result = conn.Query<dynamic>(query).Select(x => new Tuple<Type1, Type2, Type3, Type4, Type5>( 
+// type initialization here 
+    new Type1(x.Property1,x.Property2),
+    new Type2(x.Property3,x.Property4),
+    new Type3(x.Property5,x.Property6) etc....));
+    
+Edit: With a rather huge result set, another option might be to use multiple querys and then use a Grid Reader. 
+That might work for you.
+
+There's the example taken from the dapper age:
+
+var sql = 
+@"
+select * from Customers where CustomerId = @id
+select * from Orders where CustomerId = @id
+select * from Returns where CustomerId = @id";
+
+using (var multi = connection.QueryMultiple(sql, new {id=selectedId}))
+{
+   var customer = multi.Read<Customer>().Single();
+   var orders = multi.Read<Order>().ToList();
+   var returns = multi.Read<Return>().ToList();
+   ...
+} 
