@@ -9,3 +9,6 @@ http://weblog.west-wind.com/posts/2012/Aug/30/Using-JSONNET-for-dynamic-JSON-par
 
 **Trying to return IEnumerable<dynamic> from ASP.NET Web Api controller
 http://stackoverflow.com/questions/16600732/trying-to-return-ienumerabledynamic-from-asp-net-web-api-controller
+
+**Searching an IEnumerable<dynamic>
+http://stackoverflow.com/questions/11852736/searching-an-ienumerabledynamic
