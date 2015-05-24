@@ -18,3 +18,6 @@ http://stackoverflow.com/questions/11852736/searching-an-ienumerabledynamic
 
 **Sending Dictionary from ajax
 http://forums.asp.net/t/1756145.aspx?Sending+Dictionary+from+ajax
+
+***Parse key/value pair from JSON dictionary result in MVC
+http://stackoverflow.com/questions/21051045/parse-key-value-pair-from-json-dictionary-result-in-mvc
