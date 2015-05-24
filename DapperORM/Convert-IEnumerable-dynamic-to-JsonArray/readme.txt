@@ -6,3 +6,6 @@ http://www.programgood.net/CategoryView,category,jQuery.aspx
 
 **** Using JSON.NET for dynamic JSON parsing
 http://weblog.west-wind.com/posts/2012/Aug/30/Using-JSONNET-for-dynamic-JSON-parsing
+
+**Trying to return IEnumerable<dynamic> from ASP.NET Web Api controller
+http://stackoverflow.com/questions/16600732/trying-to-return-ienumerabledynamic-from-asp-net-web-api-controller
