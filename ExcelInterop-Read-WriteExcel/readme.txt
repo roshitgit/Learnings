@@ -1,6 +1,21 @@
 ** excel connection strings
 https://www.connectionstrings.com/excel/
 
+** github excel reader
+https://github.com/ExcelDataReader/ExcelDataReader
+http://exceldatareader.codeplex.com/
+
+** gist excel reader
+https://gist.github.com/Munawwar/924413
+
+http://www.c-sharpcorner.com/blogs/1768/using-iexceldatareader.aspx
+http://stackoverflow.com/questions/9428397/unable-to-read-excel-sheet-using-excelreader-in-asp-net
+http://codereview.stackexchange.com/questions/47227/reading-data-from-excel-sheet-with-exceldatareader
+http://www.experts-exchange.com/Programming/Languages/.NET/ASP.NET/Q_26889340.html
+
+** nuget package
+https://www.nuget.org/packages/ExcelDataReader/
+
 *Installing 32-bit and 64-bit Microsoft Access Drivers next to each other
 http://techblog.aimms.com/2014/10/27/installing-32-bit-and-64-bit-microsoft-access-drivers-next-to-each-other/
 
