@@ -44,3 +44,26 @@ using (var multi = connection.QueryMultiple(sql, new {id=selectedId}))
    var returns = multi.Read<Return>().ToList();
    ...
 } 
+
+
+***Dapper ORM with dynamic model - How to return no field instead of 'Field' = NULL?
+public static class DapperRowExtensions
+{
+    public static IEnumerable<dynamic> RemoveNullParams(this IEnumerable<dynamic> rows)
+    {
+        foreach (var row in rows)
+        {
+            var item = (IDictionary<string, object>)row;
+            foreach (var key in item.Keys.ToList())
+            {
+                if (item[key] == null)
+                    item.Remove(key);
+            }
+        }
+        return rows;
+    }
+}
+You would then use it on the result from the query:
+
+var result = connection.Query("SELECT...");
+return result.RemoveNullParams();
