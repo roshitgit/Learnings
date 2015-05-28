@@ -27,8 +27,6 @@ http://www.nullskull.com/a/1659/net-microorms--dapper-petapoco-and-more.aspx
 * one-to-many relationship
 http://www.programask.com/question_31578218_best-way-to-extract-a-one-to-many-relationship-with-dapper-dot-net-orm
 
-http://farhadtaran.blogspot.in/
-
 * dapper-and-anonymous-types
 http://stackoverflow.com/questions/6147121/dapper-and-anonymous-types
 
