@@ -7,6 +7,9 @@ With Dapper Install other packages also
 http://www.kacode.com/v294921-.html
 https://github.com/randyburden/Slapper.AutoMapper
 
+** handling nulls in dapper input params
+http://programwith.com/question_4115354_how-can-i-send-a-string-as-null-to-sqlserver-using-dapper
+
 * Set Column Attribues in Dapper
 http://refactorthat.com/2012/03/13/adding-some-snaz-to-dapper/
 http://weizhishi.com/questions/96287/dapper-with-attributes-mapping
