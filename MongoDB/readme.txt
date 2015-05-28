@@ -7,3 +7,6 @@ http://www.codeproject.com/Articles/87757/MongoDB-and-C
 
 ** mongo repository
 http://mongorepository.codeplex.com/SourceControl/latest
+
+** SQL to aggregation mapping chart
+http://docs.mongodb.org/manual/reference/sql-aggregation-comparison/
