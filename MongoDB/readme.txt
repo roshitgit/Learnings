@@ -14,6 +14,7 @@ http://mongorepository.codeplex.com/SourceControl/latest
 http://docs.mongodb.org/manual/reference/sql-aggregation-comparison/
 
 **sql-join-equivalent-in-mongodb
+http://tapoueh.org/blog/2014/02/17-aggregating-nba-data-PostgreSQL-vs-MongoDB
 http://blog.knoldus.com/2013/02/03/joins-now-possible-in-mongodb-2-4/
 http://blog.knoldus.com/2014/03/12/easiest-way-to-implement-joins-in-mongodb-2-4/
 http://stackoverflow.com/questions/2350495/how-do-i-perform-the-sql-join-equivalent-in-mongodb
