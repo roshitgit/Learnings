@@ -15,6 +15,7 @@ http://docs.mongodb.org/manual/reference/sql-aggregation-comparison/
 
 **sql-join-equivalent-in-mongodb
 http://blog.knoldus.com/2013/02/03/joins-now-possible-in-mongodb-2-4/
+http://blog.knoldus.com/2014/03/12/easiest-way-to-implement-joins-in-mongodb-2-4/
 http://stackoverflow.com/questions/2350495/how-do-i-perform-the-sql-join-equivalent-in-mongodb
 https://www.npmjs.com/package/mongo-join
 https://github.com/cbumgard/node-mongo-join
