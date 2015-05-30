@@ -7,6 +7,7 @@ http://www.codeproject.com/Articles/87757/MongoDB-and-C
 http://architects.dzone.com/articles/comparing-mongodb-new
 http://shvetsgroup.com/blog/mongodb
 http://www.thefourtheye.in/2013/04/mongodb-aggregation-framework-basics.html
+http://pauldone.blogspot.in/2014/03/mongoparallelaggregation.html
 
 ** mongo in MVC
 https://www.simple-talk.com/dotnet/.net-framework/mongodb-basics-for-.net-by-example/
