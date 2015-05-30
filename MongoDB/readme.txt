@@ -7,6 +7,11 @@ http://www.codeproject.com/Articles/87757/MongoDB-and-C
 http://architects.dzone.com/articles/comparing-mongodb-new
 http://shvetsgroup.com/blog/mongodb
 
+** mongo in MVC
+https://www.simple-talk.com/dotnet/.net-framework/mongodb-basics-for-.net-by-example/
+http://tattoocoder.azurewebsites.net/building-vnext-web-api-using-mvc-6-mongodb-azure/
+http://www.joe-stevens.com/2011/10/02/a-mongodb-tutorial-using-c-and-asp-net-mvc/
+
 ** mongo repository
 http://mongorepository.codeplex.com/SourceControl/latest
 
