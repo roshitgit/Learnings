@@ -1,5 +1,6 @@
 
 ** command to import data from .txt file into mongodb
+** note to export data to txt file from SQL server, use export utility and select "flat file" in destination path.
 1. open command prompt and navigate to win folder where mongoshell (exe's) are installed.
 2. then type mongoimport as shown below.
 
