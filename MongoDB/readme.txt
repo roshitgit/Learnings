@@ -1,6 +1,10 @@
 *** install mongo on windows (also setup as windows service)
 http://www.mkyong.com/mongodb/how-to-install-mongodb-on-windows/    -- try only this to install
 
+** setup sample database for testing
+https://raw.githubusercontent.com/mongodb/docs-assets/primer-dataset/dataset.json  -- json data
+https://docs.mongodb.org/getting-started/csharp/import-data/  -- import as shown here
+
 **** mongodb-aggregation-framework
 http://dotnet.dzone.com/articles/mongodb-aggregation-framework
 http://geeks.ms/blogs/gperez/archive/2011/12/02/tutorial-mongodb-con-asp-net-mvc-ejemplo-pr-225-ctico.aspx
