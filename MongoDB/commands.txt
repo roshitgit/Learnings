@@ -7,5 +7,6 @@
     c:\Program Files\MongoDB\Server\3.0\bin>mongoimport --db test --collection north
     windb --type csv --file "c:\Roshit\MongoDB\CSVData\NorthwindDB\northwinddb.txt"
     -f id,compname,cname,ctitle,address,c
+Note: Ensure to start the mongodb server (windows service) before running mongoimport
     
 3. after all data is imported, view them from "Robomongo" tool.
