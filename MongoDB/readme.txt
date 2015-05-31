@@ -9,6 +9,9 @@ http://shvetsgroup.com/blog/mongodb
 http://www.thefourtheye.in/2013/04/mongodb-aggregation-framework-basics.html
 http://pauldone.blogspot.in/2014/03/mongoparallelaggregation.html
 
+** mongo import from json file
+https://mlichtenberg.wordpress.com/2013/11/20/importing-json-records-into-mongodb-with-mongoimport/
+
 *** mongodb c# drivers samples
 https://github.com/mongodb/mongo-csharp-driver
 http://www.layerworks.com/blog/2014/11/11/mongodb-shell-csharp-driver-comparison-cheat-cheet
