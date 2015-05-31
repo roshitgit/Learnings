@@ -1,6 +1,29 @@
 *** install mongo on windows (also setup as windows service)
 http://www.mkyong.com/mongodb/how-to-install-mongodb-on-windows/    -- try only this to install
 
+************************* SQL to Mongo Migration
+http://razorsql.com/features/mongodb_import_tool.html
+*Exporting Data from SQL Server to CSV Files for Import to MongoDB Using PowerShell
+  http://arcanecode.com/2014/01/13/exporting-data-from-sql-server-to-csv-files-for-import-to-mongodb-using-powershell/
+*sql-to-nosql-importer
+  https://code.google.com/p/sql-to-nosql-importer/
+  https://github.com/msathis/SQLToNoSQLImporter
+*MongoDB SQL Server Importer
+  https://sql2mongo.codeplex.com/
+  https://azure.microsoft.com/en-us/documentation/articles/documentdb-import-data/
+  https://www.wireclub.com/development/TqnkQwQ8CxUYTVT90/read
+  http://mrbool.com/import-and-export-data-course-introduction-to-mongobd-part-16/23178
+  http://www.easysoft.com/products/data_access/odbc-mongodb-driver/getting-started.html
+  http://softentropy.com/2013/03/09/moving-data-from-sql-server-to-mongodbcouchdbcouchbase/
+
+
+*Mapping Relational Databases and SQL to MongoDB
+http://code.tutsplus.com/articles/mapping-relational-databases-and-sql-to-mongodb--net-35650
+https://www.aquaclusters.com/app/home/project/public/aquadatastudio/wikibook/MongoDB/page/0/Home
+https://www.aquaclusters.com/app/home/project/public/aquadatastudio/wikibook/MongoDB/page/SQL-Mapping/SQL-Mapping
+http://www.querymongo.com/
+
+
 ** setup sample database for testing
 https://raw.githubusercontent.com/mongodb/docs-assets/primer-dataset/dataset.json  -- json data
 https://docs.mongodb.org/getting-started/csharp/import-data/  -- import as shown here
