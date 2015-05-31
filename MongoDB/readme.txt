@@ -1,3 +1,5 @@
+*** install mongo on windows (also setup as windows service)
+http://www.mkyong.com/mongodb/how-to-install-mongodb-on-windows/    -- try only this to install
 
 **** mongodb-aggregation-framework
 http://dotnet.dzone.com/articles/mongodb-aggregation-framework
