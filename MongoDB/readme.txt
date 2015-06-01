@@ -78,3 +78,5 @@ https://github.com/cbumgard/node-mongo-join
 http://www.redotheweb.com/2012/10/12/mongodb-new-aggregation-framework-and-sql-side-by-side.html
 https://blog.onliquid.com/joinless-funnels-in-mongodb/
 http://www.unityjdbc.com/mongojdbc/mongosqltranslate.php
+http://klaus.dk/sqltomongodb/
+https://rickosborne.org/blog/2010/02/playing-around-with-mongodb-and-mapreduce-functions/
