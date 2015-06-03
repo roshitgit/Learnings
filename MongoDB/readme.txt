@@ -1,6 +1,9 @@
 *** install mongo on windows (also setup as windows service)
 http://www.mkyong.com/mongodb/how-to-install-mongodb-on-windows/    -- try only this to install
 
+** windows 7 install
+http://www.nemitek.com/install-mongodb-windows-7
+
 ************************* SQL to Mongo Migration
 http://razorsql.com/features/mongodb_import_tool.html
 *Exporting Data from SQL Server to CSV Files for Import to MongoDB Using PowerShell
