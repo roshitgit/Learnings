@@ -67,6 +67,8 @@ http://www.joe-stevens.com/2011/10/02/a-mongodb-tutorial-using-c-and-asp-net-mvc
 
 ** mongo repository
 http://mongorepository.codeplex.com/SourceControl/latest
+http://stackoverflow.com/questions/30190669/mongodb-create-repository-pattern-with-new-async-methods
+https://github.com/RobThree/MongoRepository
 
 ** SQL to aggregation mapping chart
 http://docs.mongodb.org/manual/reference/sql-aggregation-comparison/
