@@ -25,6 +25,7 @@ http://razorsql.com/features/mongodb_import_tool.html
 ** mongo entities
 http://dotnetcodr.com/2014/08/04/mongodb-in-net-part-3-starting-with-poco-documents/
 http://dotnetcodr.com/2014/08/07/mongodb-in-net-part-4-the-poco-model-insertions-indexes-and-capped-collections/
+http://putridparrot.com/blog/creating-a-simple-database-in-mongodb-with-c/
 
 *Mapping Relational Databases and SQL to MongoDB
 http://code.tutsplus.com/articles/mapping-relational-databases-and-sql-to-mongodb--net-35650
