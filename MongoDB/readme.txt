@@ -19,6 +19,8 @@ http://razorsql.com/features/mongodb_import_tool.html
   http://www.easysoft.com/products/data_access/odbc-mongodb-driver/getting-started.html
   http://softentropy.com/2013/03/09/moving-data-from-sql-server-to-mongodbcouchdbcouchbase/
 
+** mongo entities
+http://dotnetcodr.com/2014/08/04/mongodb-in-net-part-3-starting-with-poco-documents/
 
 *Mapping Relational Databases and SQL to MongoDB
 http://code.tutsplus.com/articles/mapping-relational-databases-and-sql-to-mongodb--net-35650
