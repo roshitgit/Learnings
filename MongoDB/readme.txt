@@ -6,6 +6,8 @@ http://www.nemitek.com/install-mongodb-windows-7
 
 **Custom Serialization with JSON.NET, WebAPI, and BsonDocument
 http://odetocode.com/blogs/scott/archive/2013/09/30/custom-serialization-with-json-net-webapi-and-bsondocument.aspx
+** BSON Serialization with MongoDB C# Driver
+https://darkiri.wordpress.com/2013/02/26/bson-serialization-with-mongodb-c-driver/
 
 ** mongo tutorial
 http://www.tutorialspoint.com/mongodb/
@@ -14,6 +16,10 @@ http://www.c-sharpcorner.com/UploadFile/87b416/getting-started-mongodbwithcsharp
 
 ** mongo mvc
 http://www.drdobbs.com/database/mongodb-with-c-deep-dive/240152181
+http://blog.avangardo.com/2013/12/how-to-return-document-from-mongodb-to-browser-via-mvc-controller/
+http://aspnetscript.com/asp-net/learn-mongodb-asp-net-mvc/
+https://nitinasp.wordpress.com/2014/05/20/implementing-mongodb-in-mvc/
+http://www.c-sharpcorner.com/UploadFile/c7e63f/save-bson-document-in-mongodb-using-C-Sharp-driver/
 
 ************************* SQL to Mongo Migration
 http://razorsql.com/features/mongodb_import_tool.html
