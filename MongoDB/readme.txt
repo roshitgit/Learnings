@@ -4,6 +4,9 @@ http://www.mkyong.com/mongodb/how-to-install-mongodb-on-windows/    -- try only 
 ** windows 7 install
 http://www.nemitek.com/install-mongodb-windows-7
 
+** mongo tutorial
+http://www.tutorialspoint.com/mongodb/
+
 ** mongo mvc
 http://www.drdobbs.com/database/mongodb-with-c-deep-dive/240152181
 
