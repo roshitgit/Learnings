@@ -6,6 +6,8 @@ http://www.nemitek.com/install-mongodb-windows-7
 
 ** mongo tutorial
 http://www.tutorialspoint.com/mongodb/
+http://www.codeproject.com/Articles/87757/MongoDB-and-C
+http://www.c-sharpcorner.com/UploadFile/87b416/getting-started-mongodbwithcsharp/
 
 ** mongo mvc
 http://www.drdobbs.com/database/mongodb-with-c-deep-dive/240152181
