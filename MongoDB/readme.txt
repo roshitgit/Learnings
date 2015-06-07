@@ -14,11 +14,19 @@ http://www.tutorialspoint.com/mongodb/
 http://www.codeproject.com/Articles/87757/MongoDB-and-C
 http://www.c-sharpcorner.com/UploadFile/87b416/getting-started-mongodbwithcsharp/
 
+** mongo web api
+http://blogs.msdn.com/b/henrikn/archive/2012/02/19/using-web-api-with-mongodb.aspx
+https://github.com/jacqinthebox/AddressBook
+https://github.com/dotnetcurry/starting-mongodb-and-web-api
+http://architects.dzone.com/articles/mvc4-webapi-crud-operations
+http://dotnetcodr.com/2014/07/31/mongodb-in-net-part-2-setup/
+
 ** mongo mvc
 http://www.drdobbs.com/database/mongodb-with-c-deep-dive/240152181
 http://blog.avangardo.com/2013/12/how-to-return-document-from-mongodb-to-browser-via-mvc-controller/
 http://aspnetscript.com/asp-net/learn-mongodb-asp-net-mvc/
 https://nitinasp.wordpress.com/2014/05/20/implementing-mongodb-in-mvc/
+https://code.msdn.microsoft.com/Getting-started-with-37dbd5bd
 http://www.c-sharpcorner.com/UploadFile/c7e63f/save-bson-document-in-mongodb-using-C-Sharp-driver/
 
 ************************* SQL to Mongo Migration
