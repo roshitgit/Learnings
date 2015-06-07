@@ -20,6 +20,11 @@ https://github.com/jacqinthebox/AddressBook
 https://github.com/dotnetcurry/starting-mongodb-and-web-api
 http://architects.dzone.com/articles/mvc4-webapi-crud-operations
 http://dotnetcodr.com/2014/07/31/mongodb-in-net-part-2-setup/
+http://www.c-sharpcorner.com/UploadFile/a6fd36/getting-started-with-mongodb-and-mvc/
+https://www.freelancer.com/community/articles/restful-webservices-using-asp-net-web-api
+
+**Building your own API and Securing it with oAuth 2.0 in ASP.NET WebAPI 2
+http://blog.rfaisal.com/2014/01/14/building-your-own-api-and-securing-it-with-oauth-2-0-in-asp-net-webapi-2/
 
 ** mongo mvc
 http://www.drdobbs.com/database/mongodb-with-c-deep-dive/240152181
