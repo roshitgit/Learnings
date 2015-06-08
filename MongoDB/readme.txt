@@ -48,6 +48,9 @@ http://razorsql.com/features/mongodb_import_tool.html
   http://mrbool.com/import-and-export-data-course-introduction-to-mongobd-part-16/23178
   http://www.easysoft.com/products/data_access/odbc-mongodb-driver/getting-started.html
   http://softentropy.com/2013/03/09/moving-data-from-sql-server-to-mongodbcouchdbcouchbase/
+**using mongoimport
+  https://docs.compose.io/importing-exporting/from-csv.html
+  http://stackoverflow.com/questions/15329309/how-to-import-mongodb-objectid-from-csv-file-using-mongoimport
 
 ** mongo entities
 http://dotnetcodr.com/2014/08/04/mongodb-in-net-part-3-starting-with-poco-documents/
