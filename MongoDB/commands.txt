@@ -3,10 +3,14 @@
 ** note to export data to txt file from SQL server, use export utility and select "flat file" in destination path.
 1. open command prompt and navigate to win folder where mongoshell (exe's) are installed.
 2. then type mongoimport as shown below.
-
+ 
+ first way:
     c:\Program Files\MongoDB\Server\3.0\bin>mongoimport --db test --collection north
     windb --type csv --file "c:\Roshit\MongoDB\CSVData\NorthwindDB\northwinddb.txt"
-    -f id,compname,cname,ctitle,address,c
+    -f id,compname,cname,ctitle,address
 Note: Ensure to start the mongodb server (windows service) before running mongoimport
+
+second way to do mongoimport (using headerline switch):
+  mongoimport --d test --c northwindb --type csv --file "c:\Roshit\MongoDB\CSVData\NorthwindDB\northwinddb.txt" --headerline
     
 3. after all data is imported, view them from "Robomongo" tool.
