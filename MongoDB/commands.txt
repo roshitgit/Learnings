@@ -10,7 +10,18 @@
     -f id,compname,cname,ctitle,address
 Note: Ensure to start the mongodb server (windows service) before running mongoimport
 
+
+
+
 second way to do mongoimport (using headerline switch):
-  mongoimport --d test --c northwindb --type csv --file "c:\Roshit\MongoDB\CSVData\NorthwindDB\northwinddb.txt" --headerline
-    
+
+  mongoimport -d mydb -c northwindb --type csv --file "c:\.....locations.csv" --headerline
+
+Note:  
+**** headerline switch only to be used with .csv or .txt files
+** to use headerline, first row in .csv/.txt file should be column names
+*** thereby while exporting data to txt files, check "column names in first data row"
+    in the sql server => tasks => export data utility in the destination tab
+  
+
 3. after all data is imported, view them from "Robomongo" tool.
