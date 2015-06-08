@@ -33,6 +33,10 @@ http://aspnetscript.com/asp-net/learn-mongodb-asp-net-mvc/
 https://nitinasp.wordpress.com/2014/05/20/implementing-mongodb-in-mvc/
 https://code.msdn.microsoft.com/Getting-started-with-37dbd5bd
 http://www.c-sharpcorner.com/UploadFile/c7e63f/save-bson-document-in-mongodb-using-C-Sharp-driver/
+http://www.codeproject.com/Tips/864952/CRUD-Operation-in-MVC-with-MongoDB
+https://www.simple-talk.com/dotnet/.net-framework/mongodb-basics-for-.net-by-example/
+http://tattoocoder.azurewebsites.net/building-vnext-web-api-using-mvc-6-mongodb-azure/
+http://www.joe-stevens.com/2011/10/02/a-mongodb-tutorial-using-c-and-asp-net-mvc/
 
 ************************* SQL to Mongo Migration
 http://razorsql.com/features/mongodb_import_tool.html
@@ -97,10 +101,7 @@ http://www.simonellistonball.com/pdfs/NDC%20-%20MongoDB%20for%20C%23%20Developer
 http://blog.michaelckennedy.net/2013/04/08/optimistic-concurrency-in-mongodb-using-net-and-csharp/
 https://docs.mongodb.org/getting-started/csharp/query/
 
-** mongo in MVC
-https://www.simple-talk.com/dotnet/.net-framework/mongodb-basics-for-.net-by-example/
-http://tattoocoder.azurewebsites.net/building-vnext-web-api-using-mvc-6-mongodb-azure/
-http://www.joe-stevens.com/2011/10/02/a-mongodb-tutorial-using-c-and-asp-net-mvc/
+
 
 ** mongo repository
 http://mongorepository.codeplex.com/SourceControl/latest
