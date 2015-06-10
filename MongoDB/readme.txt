@@ -104,18 +104,3 @@ http://blog.michaelckennedy.net/2013/04/08/optimistic-concurrency-in-mongodb-usi
 https://docs.mongodb.org/getting-started/csharp/query/
 
 
-** SQL to aggregation mapping chart
-http://docs.mongodb.org/manual/reference/sql-aggregation-comparison/
-
-**sql-join-equivalent-in-mongodb
-http://tapoueh.org/blog/2014/02/17-aggregating-nba-data-PostgreSQL-vs-MongoDB
-http://blog.knoldus.com/2013/02/03/joins-now-possible-in-mongodb-2-4/
-http://blog.knoldus.com/2014/03/12/easiest-way-to-implement-joins-in-mongodb-2-4/
-http://stackoverflow.com/questions/2350495/how-do-i-perform-the-sql-join-equivalent-in-mongodb
-https://www.npmjs.com/package/mongo-join
-https://github.com/cbumgard/node-mongo-join
-http://www.redotheweb.com/2012/10/12/mongodb-new-aggregation-framework-and-sql-side-by-side.html
-https://blog.onliquid.com/joinless-funnels-in-mongodb/
-http://www.unityjdbc.com/mongojdbc/mongosqltranslate.php
-http://klaus.dk/sqltomongodb/
-https://rickosborne.org/blog/2010/02/playing-around-with-mongodb-and-mapreduce-functions/
