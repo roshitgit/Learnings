@@ -1,0 +1,9 @@
+http://openmymind.net/mongodb.pdf
+http://blog.mongolab.com/2012/08/why-is-mongodb-wildly-popular/
+http://stackoverflow.xluat.com/questions/tagged/mongodb-csharp?page=6&sort=newest&pagesize=15
+http://insights.dice.com/2013/02/21/why-my-team-went-with-dynamodb-over-mongodb/
+https://evolpin.wordpress.com/2011/08/08/first-attempt-at-nosql-c-and-mongodb/
+http://odetocode.com/blogs/scott/archive/2012/03/19/a-simple-mapreduce-with-mongodb-and-c.aspx
+http://www.reddit.com/r/learnprogramming/comments/2x1aex/mongodb_c/
+http://tebros.com/2011/07/using-mongodb-mapreduce-to-join-2-collections/
+http://stackoverflow.com/questions/4563205/how-to-join-query-in-mongodb
