@@ -25,7 +25,7 @@ Note:
 
   
 Third way is to use "tsv" switch (tab -separated instead of comma separated)
- mongoimport -d mydb -c northwindb --type tsv --file "c:\.....locations.csv" --headerline
+ mongoimport -d mydb -c northwindb --type tsv --file "c:\.....locations.csv" --headerline --ignoreBlanks
  This command works even if there are double-quotes in the data.
  
  
