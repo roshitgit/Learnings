@@ -63,6 +63,7 @@ http://dotnetcodr.com/2014/08/07/mongodb-in-net-part-4-the-poco-model-insertions
 http://putridparrot.com/blog/creating-a-simple-database-in-mongodb-with-c/
 
 *Mapping Relational Databases and SQL to MongoDB
+http://blog.knoldus.com/2013/02/03/joins-now-possible-in-mongodb-2-4/ ----- vgood
 http://code.tutsplus.com/articles/mapping-relational-databases-and-sql-to-mongodb--net-35650
 https://www.aquaclusters.com/app/home/project/public/aquadatastudio/wikibook/MongoDB/page/0/Home
 https://www.aquaclusters.com/app/home/project/public/aquadatastudio/wikibook/MongoDB/page/SQL-Mapping/SQL-Mapping
