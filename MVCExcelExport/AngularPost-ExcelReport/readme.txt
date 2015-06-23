@@ -3,3 +3,5 @@ http://geekswithblogs.net/rgupta/archive/2014/06/23/downloading-file-using-ajax-
 
 ** custom
 http://www.dotnetcurry.com/showarticle.aspx?ID=484
+
+http://stackoverflow.com/questions/14215049/how-to-download-file-using-angularjs-and-calling-mvc-api
