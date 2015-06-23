@@ -1,6 +1,9 @@
 ** excel connection strings
 https://www.connectionstrings.com/excel/
 
+**Creating Reports in Excel 2007 using EPPlus (Header, Footer, Comments, Image, Formatting, Shape and Formula)
+http://zeeshanumardotnet.blogspot.in/2011/06/creating-reports-in-excel-2007-using.html
+
 ** github excel reader
 https://github.com/ExcelDataReader/ExcelDataReader
 http://exceldatareader.codeplex.com/
