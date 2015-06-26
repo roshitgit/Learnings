@@ -11,3 +11,5 @@ https://github.com/azzlack/Microsoft.AspNet.WebApi.MessageHandlers.Compression
 ** In .NET 4.0 with MVC 4, use appcmd.exe to alter the applicationhost.config file to allow json compression
 http://www.hanselman.com/blog/EnablingDynamicCompressionGzipDeflateForWCFDataFeedsODataAndOtherCustomServicesInIIS7.aspx
 appcmd.exe set config -section:system.webServer/httpCompression /+"dynamicTypes.[mimeType='application/json',enabled='True']" /commit:apphost
+
+Path on server => ApplicationHost.config. This file is located in %windir%\system32\inetsrv\config
