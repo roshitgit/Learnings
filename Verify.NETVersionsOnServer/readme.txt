@@ -6,3 +6,6 @@ https://msdn.microsoft.com/en-us/library/hh925568(v=vs.110).aspx
 
 ** using command
 http://stackoverflow.com/questions/139891/whats-the-foolproof-way-to-tell-which-versions-of-net-are-installed-on-a-pro
+
+** finding registry on windows
+http://www.wikihow.com/Open-Regedit
