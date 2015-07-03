@@ -19,6 +19,14 @@ https://facebook.github.io/react/docs/working-with-the-browser.html
 ** davidchang ngreact
 https://github.com/davidchang/ngReact
 
+http://dapperdeveloper.com/2015/01/16/comparison-angularjs-vs-reactjs/
+http://matthiasnehlsen.com/blog/2014/03/31/birdwatch-with-reactjs/
+
+http://reactjsnews.com/isomorphic-javascript-with-react-node/
+
+http://getawesomeness.com/get/react
+https://scotch.io/tutorials/learning-react-getting-started-and-concepts
+
 http://www.quora.com/Pete-Hunt/Posts/Facebooks-React-vs-AngularJS-A-Closer-Look
 https://github.com/Rolive0712/angularjs-tutorials
 
