@@ -24,6 +24,7 @@ http://matthiasnehlsen.com/blog/2014/03/31/birdwatch-with-reactjs/
 
 http://reactjsnews.com/isomorphic-javascript-with-react-node/
 
+** good starting point
 http://getawesomeness.com/get/react
 https://scotch.io/tutorials/learning-react-getting-started-and-concepts
 
