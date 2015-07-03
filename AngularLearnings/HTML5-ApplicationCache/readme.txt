@@ -1,0 +1,10 @@
+http://opensourcesoftwareandme.blogspot.in/2014/02/safely-prevent-template-caching-in-angularjs.html
+http://devcenter.kinvey.com/angular/guides/caching-offline
+
+http://diveintohtml5.info/offline.html
+
+https://developer.mozilla.org/en-US/docs/Web/HTML/Using_the_application_cache
+
+http://www.html5rocks.com/en/tutorials/appcache/beginner/
+
+http://stackoverflow.com/questions/12621969/clear-cache-of-browser-by-command-line
