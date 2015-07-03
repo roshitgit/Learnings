@@ -8,6 +8,9 @@ http://www.virtdb.com/blog/post/optimizing-angularjs-with-react
 http://stackoverflow.com/questions/20947191/using-reactjs-with-angularjs
 http://www.syntaxsuccess.com/viewarticle/547bbd04fa0710440b45e41c
 
+http://www.syntaxsuccess.com/viewarticle/integrating-react-components-in-angular
+http://www.quora.com/Pete-Hunt/Posts/Facebooks-React-vs-AngularJS-A-Closer-Look
+
 ** IE support
 http://stackoverflow.com/questions/29828561/react-js-not-working-with-internet-explorer-9
 http://facebook.github.io/react/docs/working-with-the-browser.html#browser-support-and-polyfills
