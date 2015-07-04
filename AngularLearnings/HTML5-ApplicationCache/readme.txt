@@ -8,3 +8,6 @@ https://developer.mozilla.org/en-US/docs/Web/HTML/Using_the_application_cache
 http://www.html5rocks.com/en/tutorials/appcache/beginner/
 
 http://stackoverflow.com/questions/12621969/clear-cache-of-browser-by-command-line
+
+** tools for browser Application Cache
+https://github.com/coolaj86/browser-app-cache/blob/master/reloadOnUpdate/index.js
