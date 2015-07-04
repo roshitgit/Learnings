@@ -7,9 +7,13 @@ http://davidandsuzi.com/ngreact-react-components-in-angular/
 http://www.virtdb.com/blog/post/optimizing-angularjs-with-react
 http://stackoverflow.com/questions/20947191/using-reactjs-with-angularjs
 http://www.syntaxsuccess.com/viewarticle/547bbd04fa0710440b45e41c
+http://www.programering.com/a/MTMxADNwATY.html
+http://stackoverflow.com/questions/28994378/react-equivalent-for-ng-repeat
+http://stackoverflow.com/questions/31074524/ngreact-causes-a-error-unknown-runtime-error-in-ie8
 
 http://www.syntaxsuccess.com/viewarticle/integrating-react-components-in-angular
 http://www.quora.com/Pete-Hunt/Posts/Facebooks-React-vs-AngularJS-A-Closer-Look
+https://github.com/davidchang/ngReact/tree/master/examples
 
 ** IE support
 http://stackoverflow.com/questions/29828561/react-js-not-working-with-internet-explorer-9
@@ -23,6 +27,11 @@ http://dapperdeveloper.com/2015/01/16/comparison-angularjs-vs-reactjs/
 http://matthiasnehlsen.com/blog/2014/03/31/birdwatch-with-reactjs/
 
 http://reactjsnews.com/isomorphic-javascript-with-react-node/
+
+** ngreact table
+http://davidchang.github.io/ngReact/examples/table/#
+view-source:http://davidchang.github.io/ngReact/examples/table/#
+code: > http://davidchang.github.io/ngReact/examples/table/app.js
 
 ** good starting point
 http://getawesomeness.com/get/react
