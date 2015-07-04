@@ -2,6 +2,8 @@
 *** Faster AngularJS Rendering (AngularJS and ReactJS)
 http://www.williambrownstreet.net/blog/2014/04/faster-angularjs-rendering-angularjs-and-reactjs/
 
+http://bigguns.pl/ie-rendering-angularjs/
+
 **** NgReact - React Components in Angular
 http://davidandsuzi.com/ngreact-react-components-in-angular/
 http://www.virtdb.com/blog/post/optimizing-angularjs-with-react
