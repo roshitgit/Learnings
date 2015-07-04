@@ -11,5 +11,9 @@ http://www.kunal-chowdhury.com/2012/10/application-caching-for-faster-offline-br
 
 http://stackoverflow.com/questions/12621969/clear-cache-of-browser-by-command-line
 
+http://html5doctor.com/go-offline-with-application-cache/
+http://stackoverflow.com/questions/12582782/html5-offline-appcache-force-refresh-of-all-content
+http://mobiforge.com/design-development/using-html5-application-cache-mobile-web-apps
+
 ** tools for browser Application Cache
 https://github.com/coolaj86/browser-app-cache/blob/master/reloadOnUpdate/index.js
