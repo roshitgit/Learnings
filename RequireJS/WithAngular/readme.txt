@@ -5,6 +5,8 @@ http://stackoverflow.com/questions/6184734/how-to-structure-multiple-pages-with-
 http://enterprisewebbook.com/ch6_large_js_apps.html#_writing-amd-modules
 http://www.sitepoint.com/understanding-requirejs-for-effective-javascript-module-loading/
 
+https://cdnjs.com/libraries/backbone.js/tutorials/organizing-backbone-using-modules
+
 ** angular - require seed
 https://www.startersquad.com/blog/angularjs-requirejs/
 https://github.com/jcreamer898/requirejs-angular-starter
