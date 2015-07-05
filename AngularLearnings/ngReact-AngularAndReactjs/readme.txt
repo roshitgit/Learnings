@@ -35,9 +35,11 @@ http://davidchang.github.io/ngReact/examples/table/#
 view-source:http://davidchang.github.io/ngReact/examples/table/#
 code: > http://davidchang.github.io/ngReact/examples/table/app.js
 
-** good starting point
+** good starting point/ tutorials
 http://getawesomeness.com/get/react
+https://www.codementor.io/reactjs/tutorial/react-js-flux-architecture-tutorial
 https://scotch.io/tutorials/learning-react-getting-started-and-concepts
+https://facebook.github.io/react/docs/tutorial.html
 
 http://www.quora.com/Pete-Hunt/Posts/Facebooks-React-vs-AngularJS-A-Closer-Look
 https://github.com/Rolive0712/angularjs-tutorials
