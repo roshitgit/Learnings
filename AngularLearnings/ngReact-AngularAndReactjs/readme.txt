@@ -13,6 +13,9 @@ http://www.programering.com/a/MTMxADNwATY.html
 http://stackoverflow.com/questions/28994378/react-equivalent-for-ng-repeat
 http://stackoverflow.com/questions/31074524/ngreact-causes-a-error-unknown-runtime-error-in-ie8
 
+http://www.ngroutes.com/questions/AU03vMYnX0lsqxww8SmE/ngreact-react-component-does-not-show-a-list-of-items-in-angularjs.html
+http://developers.mobileapptracking.com/addressing-angular-weaknesses-with-react-and-flux/
+
 http://www.syntaxsuccess.com/viewarticle/integrating-react-components-in-angular
 http://www.quora.com/Pete-Hunt/Posts/Facebooks-React-vs-AngularJS-A-Closer-Look
 https://github.com/davidchang/ngReact/tree/master/examples
