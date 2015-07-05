@@ -1,7 +1,7 @@
 
 *** Faster AngularJS Rendering (AngularJS and ReactJS)
 http://www.williambrownstreet.net/blog/2014/04/faster-angularjs-rendering-angularjs-and-reactjs/
-
+http://mono.software/posts/Improving-AngularJS-long-list-rendering-performance-using-ReactJS/
 http://bigguns.pl/ie-rendering-angularjs/
 
 **** NgReact - React Components in Angular
@@ -39,6 +39,9 @@ view-source:http://davidchang.github.io/ngReact/examples/table/#
 code: > http://davidchang.github.io/ngReact/examples/table/app.js
 
 ** good starting point/ tutorials
+http://www.slideshare.net/borisdinkevich/using-reactjs-in-angularjs
+https://github.com/enaqx/awesome-react#react-and-angular
+http://jsdevs.com/react-js-libraries/
 http://getawesomeness.com/get/react
 https://www.codementor.io/reactjs/tutorial/react-js-flux-architecture-tutorial
 https://scotch.io/tutorials/learning-react-getting-started-and-concepts
