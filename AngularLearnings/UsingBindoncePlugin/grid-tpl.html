@@ -1,0 +1,168 @@
+<style>
+    .tooltip.top {
+        margin-top: -10px;
+    }
+</style>
+<div class="spinner" ng-show="loadingGrid">
+</div>
+<div class="wrapper">
+    <table id="Grid" ng-table="tableParams" show-filter="true" template-pagination="custom/pager"
+           class="table table-striped table-bordered span12">
+        <thead>
+            <tr>
+                <th id="th-header-type" class="sortable type-column" ng-class="{'sort-asc': tableParams.isSortBy('Type', 'asc'),'sort-desc': tableParams.isSortBy('Type', 'desc')}"
+                    ng-click="tableParams.sorting({'Type' : tableParams.isSortBy('Type', 'asc') ? 'desc' : 'asc'})">
+                    <div>Type</div>
+                    <input type="text" style="width: 100%" ng-model="params.filter()['Type']" name="filter-Type"
+                           ng-click="$event.stopPropagation()" />
+
+                </th>
+                <th id="th-header-application" class="sortable app-column" ng-class="{'sort-asc': tableParams.isSortBy('AppName', 'asc'),'sort-desc': tableParams.isSortBy('AppName', 'desc')}"
+                    ng-click="tableParams.sorting({'AppName' : tableParams.isSortBy('AppName', 'asc') ? 'desc' : 'asc'})">
+                    <div>
+                        ID - Name
+                    </div>
+                    <input type="text" style="width: 100%;" ng-model="params.filter()['AppName']" name="filter-AppName"
+                           ng-click="$event.stopPropagation()" />
+                </th>
+                <th id="th-header-description" class="sortable desc-column" ng-class="{'sort-asc': tableParams.isSortBy('Description', 'asc'),'sort-desc': tableParams.isSortBy('Description', 'desc')}"
+                    ng-click="tableParams.sorting({'Description' : tableParams.isSortBy('Description', 'asc') ? 'desc' : 'asc'})">
+                    <div>
+                        Description
+                    </div>
+                    <input type="text" style="width: 100%;" ng-model="params.filter()['Description']"
+                           name="filter-Description" ng-click="$event.stopPropagation()" />
+                </th>
+                <th id="th-header-date" class="sortable date-column" ng-class="{'sort-asc': tableParams.isSortBy('DueDateSort', 'asc'),'sort-desc': tableParams.isSortBy('DueDateSort', 'desc')}"
+                    ng-click="tableParams.sorting({'DueDateSort' : tableParams.isSortBy('DueDateSort', 'asc') ? 'desc' : 'asc'})">
+                    <div>
+                        Due Date
+                    </div>
+                    <input type="text" style="width: 100%;" ng-model="params.filter()['DueDate']" name="filter-DueDate"
+                           ng-click="$event.stopPropagation()" />
+
+                </th>
+                <th id="th-header-manager" class="sortable manager-column" ng-class="{'sort-asc': tableParams.isSortBy('Manager', 'asc'),'sort-desc': tableParams.isSortBy('Manager', 'desc')}"
+                    ng-click="tableParams.sorting({'Manager' : tableParams.isSortBy('Manager', 'asc') ? 'desc' : 'asc'})">
+                    <div>
+                        Manager
+                    </div>
+                    <input type="text" style="width: 100%;" ng-model="params.filter()['Manager']" name="filter-Manager"
+                           ng-click="$event.stopPropagation()" />
+                </th>
+                <th id="th-header-priority" class="sortable priority-column" ng-class="{'sort-asc': tableParams.isSortBy('PriorityScore', 'asc'),'sort-desc': tableParams.isSortBy('PriorityScore', 'desc')}"
+                    ng-click="tableParams.sorting({'PriorityScore' : tableParams.isSortBy('PriorityScore', 'asc') ? 'desc' : 'asc'})">
+                    <div>
+                        Priority
+                    </div>
+                    <input type="text" style="width: 100%" ng-model="params.filter()['PriorityScore']"
+                           name="filter-PriorityScore" ng-click="$event.stopPropagation()" />
+
+                </th>
+                <th id="th-header-status" class="sortable status-column" ng-class="{'sort-asc': tableParams.isSortBy('Status', 'asc'),'sort-desc': tableParams.isSortBy('Status', 'desc')}"
+                    ng-click="tableParams.sorting({'Status' : tableParams.isSortBy('Status', 'asc') ? 'desc' : 'asc'})">
+                    <div tooltip-html-unsafe="Anything with a due date prior to today will be overdue
+                        <br />Anything that is 'Currently' due (in the next 90) will be: Due in &lt;= 90<br />All others that are beyond 90 days (up to 12 months out) will be: Due in &gt;90" tooltip-trigger="mouseenter" tooltip-append-to-body="true">
+                        Status
+                    </div>
+                    <input type="text" style="width: 100%" ng-model="params.filter()['Status']" name="filter-Status" ng-click="$event.stopPropagation()" />
+
+                </th>
+                <th id="th-header-age" class="sortable age-column" ng-class="{'sort-asc': tableParams.isSortBy('AgeInDays', 'asc'),'sort-desc': tableParams.isSortBy('AgeInDays', 'desc')}"
+                    ng-click="tableParams.sorting({'AgeInDays' : tableParams.isSortBy('AgeInDays', 'asc') ? 'desc' : 'asc'})">
+                    <div tooltip="# of Days" tooltip-trigger="mouseenter" tooltip-append-to-body="true">
+                        Age
+                    </div>
+                    <input type="text" style="width: 100%;" ng-model="params.filter()['AgeInDays']" name="filter-AgeInDays"
+                           ng-click="$event.stopPropagation()" />
+                </th>
+                <th id="th-header-action" class="action-column">
+                    <div>
+                        Activities
+                    </div>
+                </th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr bindonce ng-repeat="element in $data">
+                <td data-title="'Type'" sortable="'Type'">
+                    <span class="type-cell" bo-bind="element.Type"></span>
+                </td>
+                <td data-title="'Application'" sortable="'AppName'" class="app-cell">
+                    <a bo-href="element.Application" target="_blank" tooltip="{{element.AppName}}"
+                       tooltip-trigger="mouseenter" bo-bind="element.AppName"></a>
+                </td>
+                <td class="desc-cell" data-title="'Description'" sortable="'Description'">
+                    <i tooltip="Click here for information on detailed description on commitment record"
+                       tooltip-trigger="mouseenter" class="icon-plus-sign pull-left clsOpenView" ng-click="openView(element.ExecutionRunID)"></i>
+                    <span class="inner-desc-cell" tooltip-html-unsafe="element.DescriptionTooltip" tooltip-placement="top"
+                          tooltip-trigger="mouseenter" bo-bind="element.Description"></span>
+                </td>
+                <td data-title="'Due Date'" class="date-cell" sortable="'DueDateSort'" bo-bind="element.DueDate"></td>
+                <td data-title="'Manager'" sortable="'Manager'">
+                    <span class="manager-cell" tooltip="{{element.Manager}}"
+                          tooltip-trigger="mouseenter" bo-bind="element.Manager"></span>
+                </td>
+                <td data-title="'Priority'" sortable="'PriorityScore'" style="text-align: right;" bo-bind="element.PriorityScore"></td>
+                <td data-title="'Status'" sortable="'Status'" class="status-cell {{element.color}}"
+                    bo-class="{'completed': element.Complete}">
+                    <span bo-bind="element.Status"></span>
+                </td>
+                <td data-title="'Age'" sortable="'AgeInDays'" style="text-align: right;" bo-bind="element.AgeInDays"></td>
+                <td data-title="'Action'" class="action-cell">
+                    <a style="cursor: pointer;" bo-href="element.ActionURL" tooltip-html-unsafe="{{element.ActionDescription}}"
+                       tooltip-trigger="mouseenter" tooltip-placement="left" target="_blank">
+                        <i class="icon-edit">
+                        </i>
+                    </a>&nbsp;<a style="cursor: default;" tooltip-html-unsafe="{{element.ActionHelp}}" tooltip-trigger="mouseenter"
+                                 tooltip-placement="left">
+                        <i class="icon-question-sign"></i>
+                    </a>&nbsp;<a style="cursor: pointer;" bo-href="element.InfoLink" tooltip-html-unsafe="{{element.InfoDescription}}"
+                                 tooltip-trigger="mouseenter" tooltip-placement="left" target="_blank">
+                        <i class="icon-info-sign">
+                        </i>
+                    </a>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+<div style="clear: both;">
+</div>
+<script type="text/ng-template" id="custom/pager">
+    <div class="row-fluid actions-toolbar">
+        <div class="actions-toolbar-inner">
+            <div class="span3">
+                <div class="control-group">
+                    <label class="control-label" for="pageSize">
+                        Show Records:
+                        <select id="pageSize" name="pageSize" class="span5" ng-model="params.selectedCount" ng-change="params.count(params.selectedCount)">
+                            <option>25</option>
+                            <option>50</option>
+                            <option selected="selected">100</option>
+                        </select>
+                    </label>
+                </div>
+            </div>
+            <div class="span3">
+                <p>
+                    Showing {{params.beginning}}-{{params.ending}} of {{params.total()}} Results
+                </p>
+            </div>
+            <div class="span6">
+                <div class="pagination pagination-right">
+                    <ul class="pager ng-cloak">
+                        <li ng-repeat="page in pages"
+                            ng-class="{'disabled': !page.active, 'previous': page.type == 'prev', 'next': page.type == 'next'}">
+                            <a ng-if="page.type == 'first'" ng-click="params.page(page.number)">First</a>
+                            <a ng-if="page.type == 'prev'" ng-click="params.page(page.number)">&laquo; Previous</a>
+                            <a ng-if="page.type == 'page'" ng-click="params.page(page.number)">{{page.number}}</a>
+                            <a ng-if="page.type == 'next'" ng-click="params.page(page.number)">Next &raquo;</a>
+                            <a ng-if="page.type == 'last'" ng-click="params.page(page.number)">Last</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</script>
