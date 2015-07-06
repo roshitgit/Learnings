@@ -17,7 +17,9 @@ http://www.reddit.com/r/angularjs/comments/2cvo16/speeding_up_angularjs_with_sim
 
 https://github.com/ifyio/angularjs-lazy-loading-with-requirejs
 
+** using bindonce plugin
 https://github.com/Pasvaz/bindonce
+http://plnkr.co/edit/0DGOrk?p=preview
 
 https://www.exratione.com/2013/12/considering-speed-and-slowness-in-angularjs/
 
