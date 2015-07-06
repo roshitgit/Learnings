@@ -1,3 +1,5 @@
+** All you want to know about react
+https://github.com/enaqx/awesome-react#react-and-angular
 
 *** Faster AngularJS Rendering (AngularJS and ReactJS)
 http://www.williambrownstreet.net/blog/2014/04/faster-angularjs-rendering-angularjs-and-reactjs/
@@ -40,7 +42,6 @@ code: > http://davidchang.github.io/ngReact/examples/table/app.js
 
 ** good starting point/ tutorials
 http://www.slideshare.net/borisdinkevich/using-reactjs-in-angularjs
-https://github.com/enaqx/awesome-react#react-and-angular
 http://jsdevs.com/react-js-libraries/
 http://getawesomeness.com/get/react
 https://www.codementor.io/reactjs/tutorial/react-js-flux-architecture-tutorial
