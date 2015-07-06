@@ -5,6 +5,8 @@ https://www.airpair.com/angularjs/posts/angularjs-performance-large-applications
 http://blog.mgechev.com/2015/03/02/immutability-in-angularjs-immutablejs/
 https://github.com/scalyr/angular
 
+http://www.angulargrid.com/
+
 http://bahmutov.calepin.co/improving-angular-web-app-performance-example.html
 http://www.williambrownstreet.net/blog/2013/07/angularjs-my-solution-to-the-ng-repeat-performance-problem/
 http://www.josebalius.com/why-i-stopped-using-ng-grid-and-rolled-my-own-with-reactjs/
