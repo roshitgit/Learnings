@@ -6,6 +6,14 @@ http://www.williambrownstreet.net/blog/2014/04/faster-angularjs-rendering-angula
 http://mono.software/posts/Improving-AngularJS-long-list-rendering-performance-using-ReactJS/
 http://bigguns.pl/ie-rendering-angularjs/
 
+https://www.packtpub.com/books/content/interfacing-react-components-angular-applications
+
+http://blog.stephenn.com/2014/03/javascript-apps-and-rendering-big-lists.html
+
+** mustache and react
+http://plnkr.co/edit/Slowpr?p=preview
+http://plnkr.co/edit/5FCsQO?p=preview
+
 **** NgReact - React Components in Angular
 http://davidandsuzi.com/ngreact-react-components-in-angular/
 http://www.virtdb.com/blog/post/optimizing-angularjs-with-react
@@ -47,6 +55,8 @@ http://getawesomeness.com/get/react
 https://www.codementor.io/reactjs/tutorial/react-js-flux-architecture-tutorial
 https://scotch.io/tutorials/learning-react-getting-started-and-concepts
 https://facebook.github.io/react/docs/tutorial.html
+
+https://github.com/josebalius/ngReactGrid
 
 http://www.quora.com/Pete-Hunt/Posts/Facebooks-React-vs-AngularJS-A-Closer-Look
 https://github.com/Rolive0712/angularjs-tutorials
