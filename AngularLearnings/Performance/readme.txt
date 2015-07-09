@@ -1,6 +1,8 @@
 ** AngularJS Performance in Large Applications
 https://www.airpair.com/angularjs/posts/angularjs-performance-large-applications
 
+http://www.slideshare.net/damienklinnert/angular-performance-tuning-for-large
+
 ** Boost the Performance of an AngularJS Application Using Immutable Data
 http://blog.mgechev.com/2015/03/02/immutability-in-angularjs-immutablejs/
 https://github.com/scalyr/angular
