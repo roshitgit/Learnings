@@ -3,6 +3,13 @@ https://www.youtube.com/watch?v=NmNFLDL1d6k&list=PLvG9ngQqIEIQvFOeHd3ZvIwWm4kEQQ
 https://egghead.io/
 https://www.airpair.com/angularjs/posts/top-10-mistakes-angularjs-developers-make
 
+http://stackoverflow.com/questions/24549167/ng-table-pager-template-is-not-allowing-any-custom-data-binding-like-ng-click-c
+http://angular-ui.github.io/ng-grid/
+http://stackoverflow.com/questions/24627714/angular-ng-table-dynamic-headers-doesnt-work-inside
+https://www.airpair.com/angularjs/posts/component-based-angularjs-directives
+https://jptacek.com/2014/02/angularJS-templates/
+https://docs.angularjs.org/tutorial/step_02
+
 *Defining optional parameters with AngularJS UI Router
 http://benfoster.io/blog/ui-router-optional-parameters
 
