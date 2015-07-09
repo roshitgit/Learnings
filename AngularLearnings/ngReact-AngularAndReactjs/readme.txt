@@ -1,6 +1,10 @@
 ** All you want to know about react
 https://github.com/enaqx/awesome-react#react-and-angular
 
+** Performance Comparison for React, Angular and Knockout
+https://gist.github.com/RichAyotte/a7b8780341d5e75beca7
+demo- https://cdn.rawgit.com/RichAyotte/a7b8780341d5e75beca7/raw/62d170eec900380b05561fe3f5528e639afc6e92/demo.html
+
 *** Faster AngularJS Rendering (AngularJS and ReactJS)
 http://www.williambrownstreet.net/blog/2014/04/faster-angularjs-rendering-angularjs-and-reactjs/
 http://mono.software/posts/Improving-AngularJS-long-list-rendering-performance-using-ReactJS/
