@@ -1,5 +1,7 @@
 ** All you want to know about react
 https://github.com/enaqx/awesome-react#react-and-angular
+http://pythonhackers.com/p/enaqx/awesome-react
+http://getawesomeness.com/get/react
 
 ** Performance Comparison for React, Angular and Knockout
 https://gist.github.com/RichAyotte/a7b8780341d5e75beca7
@@ -55,7 +57,6 @@ code: > http://davidchang.github.io/ngReact/examples/table/app.js
 ** good starting point/ tutorials
 http://www.slideshare.net/borisdinkevich/using-reactjs-in-angularjs
 http://jsdevs.com/react-js-libraries/
-http://getawesomeness.com/get/react
 https://www.codementor.io/reactjs/tutorial/react-js-flux-architecture-tutorial
 https://scotch.io/tutorials/learning-react-getting-started-and-concepts
 https://facebook.github.io/react/docs/tutorial.html
