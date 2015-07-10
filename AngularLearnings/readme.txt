@@ -1,3 +1,6 @@
+** all download versions
+https://code.angularjs.org/
+
 * All about angular in YouTube (very good samples. directives, services, factory)
 https://www.youtube.com/watch?v=NmNFLDL1d6k&list=PLvG9ngQqIEIQvFOeHd3ZvIwWm4kEQQgRY&index=1
 https://egghead.io/
