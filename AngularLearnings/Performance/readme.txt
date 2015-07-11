@@ -3,6 +3,8 @@ https://www.airpair.com/angularjs/posts/angularjs-performance-large-applications
 
 http://www.slideshare.net/damienklinnert/angular-performance-tuning-for-large
 
+** event broadcast
+http://stackoverflow.com/questions/19446755/on-and-broadcast-in-angular  --- correct way
 http://gonzalo123.com/2014/09/08/sharing-scope-between-controllers-with-angularjs/
 
 ** ng-model-options and debounce
