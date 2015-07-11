@@ -3,6 +3,8 @@ https://www.airpair.com/angularjs/posts/angularjs-performance-large-applications
 
 http://www.slideshare.net/damienklinnert/angular-performance-tuning-for-large
 
+http://gonzalo123.com/2014/09/08/sharing-scope-between-controllers-with-angularjs/
+
 ** ng-model-options and debounce
 https://docs.angularjs.org/api/ng/directive/ngModelOptions
 
