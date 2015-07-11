@@ -4,6 +4,9 @@
 * http://stackoverflow.com/questions/7541032/caching-specific-javascript-and-css-files
 * blog.janjonas.net/2011-08-21/microsoft-iis-7-enable-client-side-browser-caching-static-content-web-config
 
+http://stackoverflow.com/questions/3929284/how-do-i-disable-caching-of-an-individual-file-in-iis-7-using-weserver-config-se
+http://goobbe.com/questions/3464829/how-to-configure-static-content-cache-per-folder-and-extension-in-iis7
+
 ******************************** Static and dynamic compression in IIS 7/7.5 ************************8
 
 * http://www.iis.net/configreference/system.webserver/urlcompression
