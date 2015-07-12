@@ -7,6 +7,9 @@ http://www.nemitek.com/install-mongodb-windows-7
 ** mongo mapreduce
 http://www.zorched.net/2010/10/04/mongodb-mapreduce-functions-for-grouping/#
 
+** mongo dynamic
+http://blog.abodit.com/2011/09/dynamic-persistence-with-mongodb-look-no-classes-polymorphism-in-c/
+
 **Custom Serialization with JSON.NET, WebAPI, and BsonDocument
 http://odetocode.com/blogs/scott/archive/2013/09/30/custom-serialization-with-json-net-webapi-and-bsondocument.aspx
 ** BSON Serialization with MongoDB C# Driver
