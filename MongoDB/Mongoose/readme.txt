@@ -1,3 +1,5 @@
+
+** joins using mongoose
 http://mongoosejs.com/docs/populate.html
 http://start.jcolemorrison.com/mongodb-joins-with-mongoosejs/
 http://www.luiselizondo.net/joins-on-mongodb-with-mongoose-and-nodejs/
