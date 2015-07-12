@@ -6,6 +6,13 @@ http://www.nemitek.com/install-mongodb-windows-7
 
 ** mongo mapreduce
 http://www.zorched.net/2010/10/04/mongodb-mapreduce-functions-for-grouping/#
+http://tebros.com/2011/07/using-mongodb-mapreduce-to-join-2-collections/ ---- vgood
+http://blog.knoldus.com/2013/02/03/joins-now-possible-in-mongodb-2-4/ ----- vgood
+http://stackoverflow.com/questions/5681851/mongodb-combine-data-from-multiple-collections-into-one-how --- vgood
+http://blog.joshsoftware.com/2013/03/29/mongodb-map-re-reduce-joins-performance-tuning/ ---vgood
+http://stackoverflow.com/questions/9696940/merging-two-collections-in-mongodb --vgood
+http://www.pal-blog.de/entwicklung/mongodb/mapreduce-multiple-mongodb-collections-into-one.html ---vgood
+http://www.cloveretl.com/blog/joining-multiple-mongodb-collections-in-cloveretl/ --vgood
 
 ** mongo dynamic
 http://blog.abodit.com/2011/09/dynamic-persistence-with-mongodb-look-no-classes-polymorphism-in-c/
@@ -32,6 +39,8 @@ https://www.freelancer.com/community/articles/restful-webservices-using-asp-net-
 **Building your own API and Securing it with oAuth 2.0 in ASP.NET WebAPI 2
 http://blog.rfaisal.com/2014/01/14/building-your-own-api-and-securing-it-with-oauth-2-0-in-asp-net-webapi-2/
 
+
+
 ** mongo mvc
 http://www.drdobbs.com/database/mongodb-with-c-deep-dive/240152181
 http://blog.avangardo.com/2013/12/how-to-return-document-from-mongodb-to-browser-via-mvc-controller/
@@ -52,7 +61,7 @@ http://dotnetcodr.com/2014/08/07/mongodb-in-net-part-4-the-poco-model-insertions
 http://putridparrot.com/blog/creating-a-simple-database-in-mongodb-with-c/
 
 *Mapping Relational Databases and SQL to MongoDB
-http://blog.knoldus.com/2013/02/03/joins-now-possible-in-mongodb-2-4/ ----- vgood
+
 http://code.tutsplus.com/articles/mapping-relational-databases-and-sql-to-mongodb--net-35650
 https://www.aquaclusters.com/app/home/project/public/aquadatastudio/wikibook/MongoDB/page/0/Home
 https://www.aquaclusters.com/app/home/project/public/aquadatastudio/wikibook/MongoDB/page/SQL-Mapping/SQL-Mapping
