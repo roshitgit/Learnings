@@ -67,5 +67,10 @@ http://shvetsgroup.com/blog/mongodb
 http://www.thefourtheye.in/2013/04/mongodb-aggregation-framework-basics.html
 http://pauldone.blogspot.in/2014/03/mongoparallelaggregation.html
 
-
-
+http://stackoverflow.com/questions/30450281/unwind-then-group-aggregation-in-mongodb-c-sharp
+http://odetocode.com/blogs/scott/archive/2012/03/19/a-simple-mapreduce-with-mongodb-and-c.aspx
+http://www.codeproject.com/Articles/524602/Beginners-guide-to-using-MongoDB-and-the-offic
+http://www.c-sharpcorner.com/uploadfile/b19d5a/mongo-database-with-query-in-C-Sharp-net/
+http://ilearnasigoalong.blogspot.in/2014/06/a-way-to-join-in-mongodb-using.html
+https://docs.mongodb.org/getting-started/csharp/query/
+http://mikaelkoskinen.net/post/mongodb-aggregation-framework-examples-in-c
