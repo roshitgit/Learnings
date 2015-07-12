@@ -13,6 +13,16 @@ http://blog.joshsoftware.com/2013/03/29/mongodb-map-re-reduce-joins-performance-
 http://stackoverflow.com/questions/9696940/merging-two-collections-in-mongodb --vgood
 http://www.pal-blog.de/entwicklung/mongodb/mapreduce-multiple-mongodb-collections-into-one.html ---vgood
 http://www.cloveretl.com/blog/joining-multiple-mongodb-collections-in-cloveretl/ --vgood
+http://www.noppanit.com/merge-documents-two-collections-together-mongodb/ -- vgood
+http://www.mongovue.com/2010/11/03/yet-another-mongodb-map-reduce-tutorial/
+http://venublog.com/2014/04/05/mongodb-map-reduce-how-to-avoid-global-locks/
+http://edgystuff.tumblr.com/post/54709368492/how-to-speed-up-mongodb-map-reduce-by-20x --vgood
+http://thejackalofjavascript.com/mapreduce-in-mongodb/
+http://www.tutorialspoint.com/mongodb/mongodb_map_reduce.htm
+http://wiki.summercode.com/mongodb_aggregation_functions_and_ruby_map_reduce_basics
+http://openmymind.net/2011/1/20/Understanding-Map-Reduce/
+https://www.ruby-forum.com/topic/3275100
+http://benfoster.io/blog/map-reduce-in-mongodb-and-ravendb
 
 ** mongo dynamic
 http://blog.abodit.com/2011/09/dynamic-persistence-with-mongodb-look-no-classes-polymorphism-in-c/
