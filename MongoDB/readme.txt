@@ -6,6 +6,7 @@ http://www.nemitek.com/install-mongodb-windows-7
 
 ** mongo mapreduce
 http://www.zorched.net/2010/10/04/mongodb-mapreduce-functions-for-grouping/#
+http://www.widecodes.com/0NxWWPjjUU/join-operation-with-mongodb-mapreduce.html -- vgood
 http://tebros.com/2011/07/using-mongodb-mapreduce-to-join-2-collections/ ---- vgood
 http://docs.mongodb.org/manual/core/map-reduce/#MapReduce-Outputoptions
 http://openapp.blogspot.in/2013/01/join-collections-in-mongodb.html --vgood
