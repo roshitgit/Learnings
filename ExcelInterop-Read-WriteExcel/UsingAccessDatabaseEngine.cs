@@ -23,6 +23,8 @@ To read .xls or .xlsx excel format files using .NET MVC, carry out following ste
     
 3.  To debug with access database engine, its important to install the correct version on local/ development machine.
     If MS office products are of 32-bit on machine, then install AccessDataBaseEngine targetting 32-bit and vice versa.
+    If incorrect version is installed, then excel files on local will get corrupted and u can't open file.
+    to resolve, uninstall access engine and restart machine.
     
     
     
