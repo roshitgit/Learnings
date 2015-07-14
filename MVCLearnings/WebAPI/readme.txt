@@ -13,6 +13,15 @@ http://www.c-sharpcorner.com/UploadFile/dacca2/asynchronous-controller-of-web-ap
 
 http://bitoftech.net/2014/03/05/new-asp-net-web-api-2-ihttpactionresult-cors-tutorial/
 
+** return anonymous or dynamic
+http://stackoverflow.com/questions/28416144/can-i-return-an-anonymous-object-in-c-sharp
+http://stackoverflow.com/questions/22464832/web-api-ihttpactionresult-httpcontent
+
+*** Posting dynamic data to Web API
+http://www.neovolve.com/2015/02/25/posting-dynamic-data-to-web-api/
+
+http://www.c-sharpcorner.com/UploadFile/dacca2/a-new-way-to-send-response-using-ihttpactionresult/
+
 ** web api tutorial
 http://www.dotnet-tricks.com/Tutorial/webapilist
 
