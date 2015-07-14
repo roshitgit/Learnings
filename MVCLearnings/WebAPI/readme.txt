@@ -19,3 +19,6 @@ https://github.com/Rolive0712/WebApi2WebApiContribProtobuf
 http://rushfrisby.com/improving-webapi-performance-with-jil-and-protocol-buffers/
 http://www.codeproject.com/Articles/538588/WebAPIplusfollow-up-pluswhatplusaboutplusprotocolp
 http://stackoverflow.com/questions/24095579/web-api-howto-improve-performance-with-protobuf
+
+*** web api return types
+http://www.asp.net/web-api/overview/getting-started-with-aspnet-web-api/action-results
