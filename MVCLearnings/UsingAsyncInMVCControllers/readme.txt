@@ -6,6 +6,8 @@ http://blog.tonysneed.com/2013/03/22/async-services-asp-net-web-api-entity-frame
 ** why to async controllers and async methods in MVC controllers   (must read and implement)
 http://tech.pro/tutorial/1252/asynchronous-controllers-in-asp-net-mvc
 
+http://www.c-sharpcorner.com/UploadFile/dbd951/why-do-we-need-async-action-methods-in-Asp-Net-mvc4-applicat/
+
 http://www.asp.net/mvc/overview/performance/using-asynchronous-methods-in-aspnet-mvc-4 -- vgood must read
 
 **Asynchronous Programming in Web API /ASP.NET MVC ( must read)
