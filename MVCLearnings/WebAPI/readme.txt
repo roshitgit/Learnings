@@ -5,6 +5,14 @@ http://blog.developers.ba/8-ways-improve-asp-net-web-api-performance/
 
 http://blog.developers.ba/asp-net-web-api-gzip-compression-actionfilter/
 
+http://stackoverflow.com/questions/27303970/how-to-return-a-new-type-from-web-api-post
+http://stackoverflow.com/questions/29769261/return-taskt-as-plain-task-breaks-webapi
+http://aspnetboilerplate.com/Pages/Documents/Dynamic-Web-API
+https://weblog.west-wind.com/posts/2012/Mar/09/Using-an-alternate-JSON-Serializer-in-ASPNET-Web-API
+http://www.c-sharpcorner.com/UploadFile/dacca2/asynchronous-controller-of-web-api-2-with-entity-framework-6/
+
+http://bitoftech.net/2014/03/05/new-asp-net-web-api-2-ihttpactionresult-cors-tutorial/
+
 ** web api tutorial
 http://www.dotnet-tricks.com/Tutorial/webapilist
 
