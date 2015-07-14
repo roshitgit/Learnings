@@ -15,6 +15,7 @@ http://bitoftech.net/2014/03/05/new-asp-net-web-api-2-ihttpactionresult-cors-tut
 
 ** return anonymous or dynamic
 http://stackoverflow.com/questions/28416144/can-i-return-an-anonymous-object-in-c-sharp
+http://lookitskris.azurewebsites.net/webapi-async-calls-with-ihttpactionresult/
 http://www.strathweb.com/2014/02/dynamic-action-return-web-api-2-1/
 http://www.codeproject.com/Tips/810698/Dynamic-ASP-NET-Web-API-Controller-Part-Dynamic-DT
 https://aspguy.wordpress.com/2013/09/10/web-api-and-returning-a-razor-view/
