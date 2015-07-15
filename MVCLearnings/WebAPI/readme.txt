@@ -1,5 +1,7 @@
 ** web api dynamic support
 http://www.neovolve.com/2015/02/24/dynamic-types-in-web-api/
+https://wizardsofsmart.wordpress.com/2013/03/21/web-api-and-dynamic-data-access/ -- vgood
+https://gist.github.com/panesofglass/5212462 -- same . vgood
 
 ** Using CORS package and IHTTPActionResult
 http://bitoftech.net/2014/03/05/new-asp-net-web-api-2-ihttpactionresult-cors-tutorial/
