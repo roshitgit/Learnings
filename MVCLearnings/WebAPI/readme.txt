@@ -1,6 +1,10 @@
 ** Using CORS package and IHTTPActionResult
 http://bitoftech.net/2014/03/05/new-asp-net-web-api-2-ihttpactionresult-cors-tutorial/
 
+http://chimera.labs.oreilly.com/books/1234000001708/ch17.html#_unit_testing_a_mediatypeformatter
+http://www.codeproject.com/Tips/810698/Dynamic-ASP-NET-Web-API-Controller-Part-Dynamic-DT
+http://www.strathweb.com/2014/02/dynamic-action-return-web-api-2-1/
+
 * Web API exception handling
 http://www.asp.net/web-api/overview/error-handling/exception-handling
 http://blog.developers.ba/8-ways-improve-asp-net-web-api-performance/
