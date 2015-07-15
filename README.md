@@ -1,4 +1,0 @@
-Learnings
-=========
-
-Important Information
