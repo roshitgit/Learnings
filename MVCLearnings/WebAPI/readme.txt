@@ -1,3 +1,6 @@
+** Using CORS package and IHTTPActionResult
+http://bitoftech.net/2014/03/05/new-asp-net-web-api-2-ihttpactionresult-cors-tutorial/
+
 * Web API exception handling
 http://www.asp.net/web-api/overview/error-handling/exception-handling
 http://blog.developers.ba/8-ways-improve-asp-net-web-api-performance/
