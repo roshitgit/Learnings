@@ -1,3 +1,10 @@
+Serialization ways
+1. Protocol buffers (from google)
+2. JSON.NET (Default in web api)
+3. Message Pack
+4. ServiceStack.Text
+
+
 ** web api dynamic support
 http://www.neovolve.com/2015/02/24/dynamic-types-in-web-api/
 https://wizardsofsmart.wordpress.com/2013/03/21/web-api-and-dynamic-data-access/ -- vgood
