@@ -7,4 +7,6 @@ https://code.google.com/p/protobuf-net/wiki/GettingStarted
 
 http://stackoverflow.com/questions/tagged/protobuf-net
 
+https://github.com/mostlygeek/CSharp-Protocol-Buffer-Test/blob/master/Protobuf-Test/Main.cs
+
 http://www.codeproject.com/Articles/33296/Serialization-and-De-serialization
