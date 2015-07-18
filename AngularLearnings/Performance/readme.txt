@@ -1,5 +1,11 @@
-** AngularJS Performance in Large Applications
+** good performance tips
+https://github.com/Pasvaz/bindonce/issues/25#issuecomment-25457970
+http://stackoverflow.com/questions/13651578/how-to-unwatch-an-expression
+https://coderwall.com/p/d_aisq/speeding-up-angularjs-s-digest-loop
+http://bahmutov.calepin.co/improving-angular-web-app-performance-example.html
 https://www.airpair.com/angularjs/posts/angularjs-performance-large-applications
+http://blog.mgechev.com/2015/04/11/immutability-in-angularjs-immutablejs-part-2/
+http://excellencenodejsblog.com/angularjs-ngrepeat-performance-watchers/
 
 http://www.slideshare.net/damienklinnert/angular-performance-tuning-for-large
 
@@ -16,7 +22,7 @@ https://github.com/scalyr/angular
 
 http://www.angulargrid.com/
 
-http://bahmutov.calepin.co/improving-angular-web-app-performance-example.html
+
 http://www.williambrownstreet.net/blog/2013/07/angularjs-my-solution-to-the-ng-repeat-performance-problem/
 http://www.josebalius.com/why-i-stopped-using-ng-grid-and-rolled-my-own-with-reactjs/
 http://tech.small-improvements.com/2013/09/10/angularjs-performance-with-large-lists/
