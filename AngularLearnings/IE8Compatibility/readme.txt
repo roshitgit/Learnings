@@ -6,3 +6,5 @@ http://stackoverflow.com/questions/27384301/angular-1-3-one-way-binding-ie8-supp
 Not that it would not be a solution to replace every :: binding, but I don't think it would be an efficient one or pretty for that matter. If IE8 support is crucial for you, I would suggest using this very popular bind once library: 
 https://github.com/Pasvaz/bindonce. 
 I've used it before 1.3 came along and it served me well.
+
+https://github.com/angular-ui/bootstrap/issues/359
