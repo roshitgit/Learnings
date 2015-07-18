@@ -1,6 +1,9 @@
 *** install mongo on windows (also setup as windows service)
 http://www.mkyong.com/mongodb/how-to-install-mongodb-on-windows/    -- try only this to install
 
+http://devproconnections.com/database-development/exploring-mongodb-document-database-primer-net-developers
+http://docs.espressologic.com/docs/rest-apis/data-integration/mongo-examples
+
 ** windows 7 install
 http://www.nemitek.com/install-mongodb-windows-7
 
