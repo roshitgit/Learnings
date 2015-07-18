@@ -3,6 +3,7 @@ https://code.angularjs.org/
 
 ** angular interpolate and provider service --- vgood
 https://github.com/pussinboots/angularjs-interpolate-interceptor
+https://github.com/ranjan077/interpolation-angular
 
 * All about angular in YouTube (very good samples. directives, services, factory)
 https://www.youtube.com/watch?v=NmNFLDL1d6k&list=PLvG9ngQqIEIQvFOeHd3ZvIwWm4kEQQgRY&index=1
