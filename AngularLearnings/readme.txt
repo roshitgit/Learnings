@@ -20,6 +20,7 @@ http://stackoverflow.com/questions/20561116/how-to-have-more-than-one-controller
 http://stackoverflow.com/questions/20087627/how-to-create-separate-angularjs-controller-files
 http://www.teebow.net/splitting-angularjs-controllers-separate-files/
 http://stackoverflow.com/questions/25819661/how-to-split-single-controller-in-multiple-js-files-in-angularjs
+http://gojuyou.com/questions/5070164/how-to-write-2-files-for-one-controller-in-angularjs
 
 ** sharing-scope-between-controllers-with-angularjs
 http://gonzalo123.com/2014/09/08/sharing-scope-between-controllers-with-angularjs/
