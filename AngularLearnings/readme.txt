@@ -1,6 +1,9 @@
 ** all download versions
 https://code.angularjs.org/
 
+** john papa - angular style guide
+https://github.com/johnpapa/angular-styleguide
+
 ** all about Value,Factory,Service,Provider,Constant --- vgood
 http://tutorials.jenkov.com/angularjs/dependency-injection.html
 
