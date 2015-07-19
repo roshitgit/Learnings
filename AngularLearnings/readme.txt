@@ -4,6 +4,10 @@ https://code.angularjs.org/
 ** john papa - angular style guide
 https://github.com/johnpapa/angular-styleguide
 
+** controller-As syntax  ---vgood (better to use to avoid using $scopes)
+http://www.thoughtdelimited.org/thoughts/post.cfm/using-the-controller-as-syntax-with-angularjs-controllers
+http://www.johnpapa.net/angularjss-controller-as-and-the-vm-variable/
+
 ** all about Value,Factory,Service,Provider,Constant --- vgood
 http://tutorials.jenkov.com/angularjs/dependency-injection.html
 
