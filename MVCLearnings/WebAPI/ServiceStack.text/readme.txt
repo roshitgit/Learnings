@@ -9,6 +9,9 @@ http://stackoverflow.com/questions/19050672/servicestack-text-output-utc-offset
 http://stackoverflow.com/questions/17359558/servicestack-jsonserializer-not-serializing-object-members-when-inheritance
 http://stackoverflow.com/questions/14387202/how-to-use-a-custom-json-serializer-in-servicestack
 
+** ServiceStackJsonFormatter.cs - github/ gist
+https://gist.github.com/mrchief/4043834
+
 ** use ServiceStack.JsonSerializer in MVC
 http://docs.servicestack.net/text-serializers/json-csv-jsv-serializers
 http://docs.servicestack.net/text-serializers/json-serializer
