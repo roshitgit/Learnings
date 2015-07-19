@@ -5,6 +5,9 @@ https://code.angularjs.org/
 http://stackoverflow.com/questions/20561116/how-to-have-more-than-one-controllers-in-angularjs-correctly
 http://stackoverflow.com/questions/20087627/how-to-create-separate-angularjs-controller-files
 
+** using debounce and resove effectively
+https://scotch.io/tutorials/making-skinny-angularjs-controllers --- vgood
+
 ** angular interpolate and provider service --- vgood
 https://github.com/pussinboots/angularjs-interpolate-interceptor
 https://github.com/ranjan077/interpolation-angular
