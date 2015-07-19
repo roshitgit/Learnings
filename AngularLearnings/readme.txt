@@ -14,6 +14,10 @@ http://tutorials.jenkov.com/angularjs/dependency-injection.html
 ** setup multiple controllers for same module in separate files
 http://stackoverflow.com/questions/20561116/how-to-have-more-than-one-controllers-in-angularjs-correctly
 http://stackoverflow.com/questions/20087627/how-to-create-separate-angularjs-controller-files
+http://www.teebow.net/splitting-angularjs-controllers-separate-files/
+
+** sharing-scope-between-controllers-with-angularjs
+http://gonzalo123.com/2014/09/08/sharing-scope-between-controllers-with-angularjs/
 
 ** add/ remove email using simple directive and without directive
 http://stackoverflow.com/questions/19629039/angularjs-how-to-share-functionality-between-controllers?rq=1
