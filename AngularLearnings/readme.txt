@@ -1,6 +1,9 @@
 ** all download versions
 https://code.angularjs.org/
 
+** all about Value,Factory,Service,Provider,Constant --- vgood
+http://tutorials.jenkov.com/angularjs/dependency-injection.html
+
 ** setup multiple controllers for same module in separate files
 http://stackoverflow.com/questions/20561116/how-to-have-more-than-one-controllers-in-angularjs-correctly
 http://stackoverflow.com/questions/20087627/how-to-create-separate-angularjs-controller-files
