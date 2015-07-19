@@ -4,6 +4,9 @@ https://code.angularjs.org/
 ** john papa - angular style guide
 https://github.com/johnpapa/angular-styleguide
 
+** angular- useful functions
+http://artandlogic.com/2013/05/angularjs-best-practices-ive-been-doing-it-wrong-part-3-of-3/
+
 ** controller-As syntax  ---vgood (better to use to avoid using $scopes)
 http://www.thoughtdelimited.org/thoughts/post.cfm/using-the-controller-as-syntax-with-angularjs-controllers
 http://www.johnpapa.net/angularjss-controller-as-and-the-vm-variable/
