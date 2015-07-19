@@ -1,3 +1,6 @@
+** all serializer performance comparison
+http://blog.davidroossien.com/?tag=netjson
+
 Serialization ways
 1. Protocol buffers (from google)
 2. JSON.NET (Default in web api)
