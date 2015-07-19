@@ -1,3 +1,7 @@
+
+*** load test with async -- try this out
+http://www.dotnetcurry.com/aspnet-mvc/948/webapi-async-performance-aspnet-mvc-application
+
 ** all serializer performance comparison
 http://blog.davidroossien.com/?tag=netjson
 
