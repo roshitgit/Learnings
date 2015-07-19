@@ -5,6 +5,9 @@ https://code.angularjs.org/
 http://stackoverflow.com/questions/20561116/how-to-have-more-than-one-controllers-in-angularjs-correctly
 http://stackoverflow.com/questions/20087627/how-to-create-separate-angularjs-controller-files
 
+** add/ remove email using simple directive and without directive
+http://stackoverflow.com/questions/19629039/angularjs-how-to-share-functionality-between-controllers?rq=1
+
 ** using debounce and resove effectively
 https://scotch.io/tutorials/making-skinny-angularjs-controllers --- vgood
 
