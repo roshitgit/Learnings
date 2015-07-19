@@ -6,6 +6,8 @@ http://blogs.askcts.com/2014/04/23/getting-started-with-servicestack-part-one/
 http://www.slideshare.net/Fabio.Cozzolino/introduction-to-service-stack
 http://stackoverflow.com/questions/19050672/servicestack-text-output-utc-offset
 
+http://stackoverflow.com/questions/17359558/servicestack-jsonserializer-not-serializing-object-members-when-inheritance
+
 ** use ServiceStack.JsonSerializer in MVC
 http://docs.servicestack.net/text-serializers/json-csv-jsv-serializers
 http://docs.servicestack.net/text-serializers/json-serializer
