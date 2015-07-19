@@ -12,6 +12,7 @@ http://www.johnpapa.net/angularjss-controller-as-and-the-vm-variable/
 http://tutorials.jenkov.com/angularjs/dependency-injection.html
 
 ** setup multiple controllers for same module in separate files
+http://tiku.io/questions/4321642/call-function-from-another-controller-angular-js
 http://stackoverflow.com/questions/20561116/how-to-have-more-than-one-controllers-in-angularjs-correctly
 http://stackoverflow.com/questions/20087627/how-to-create-separate-angularjs-controller-files
 http://www.teebow.net/splitting-angularjs-controllers-separate-files/
