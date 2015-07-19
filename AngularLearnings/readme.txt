@@ -19,6 +19,7 @@ http://tiku.io/questions/4321642/call-function-from-another-controller-angular-j
 http://stackoverflow.com/questions/20561116/how-to-have-more-than-one-controllers-in-angularjs-correctly
 http://stackoverflow.com/questions/20087627/how-to-create-separate-angularjs-controller-files
 http://www.teebow.net/splitting-angularjs-controllers-separate-files/
+http://stackoverflow.com/questions/25819661/how-to-split-single-controller-in-multiple-js-files-in-angularjs
 
 ** sharing-scope-between-controllers-with-angularjs
 http://gonzalo123.com/2014/09/08/sharing-scope-between-controllers-with-angularjs/
