@@ -13,3 +13,4 @@ Better to check for performance gain and do POC before using in production
 */
 
 http://blog.developers.ba/replace-json-net-jil-json-serializer-asp-net-web-api/
+https://github.com/jbattermann/Nancy.Serialization.Jil--- this should be used
