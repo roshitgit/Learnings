@@ -6,6 +6,10 @@ https://github.com/johnpapa/angular-styleguide
 
 ** create hoverable ui tooltip
 http://stackoverflow.com/questions/20267967/create-hoverable-popover-using-angular-ui-bootstrap
+http://www.bootply.com/H4Zii7Mb6l
+
+** tooltip with "late" evaluation:
+https://github.com/angular-ui/bootstrap/issues/1450
 
 ** controller state --- vvimp - plz read and implement as explained
 http://jonathancreamer.com/the-state-of-angularjs-controllers/
