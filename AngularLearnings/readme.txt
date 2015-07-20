@@ -4,12 +4,24 @@ https://code.angularjs.org/
 ** john papa - angular style guide
 https://github.com/johnpapa/angular-styleguide
 
+** controller state --- vvimp - plz read and implement as explained
+http://jonathancreamer.com/the-state-of-angularjs-controllers/
+
+** using $controller service --vgood: to split controllers into 2 and to do scope inheritance/ sharing
+http://stackoverflow.com/questions/27866620/use-case-for-controller-service-in-angularjs
+http://jasonwatmore.com/post/2014/03/25/AngularJS-A-better-way-to-implement-a-base-controller.aspx
+
 ** angular- useful functions
 http://artandlogic.com/2013/05/angularjs-best-practices-ive-been-doing-it-wrong-part-3-of-3/
 
 ** controller-As syntax  ---vgood (better to use to avoid using $scopes)
+http://toddmotto.com/digging-into-angulars-controller-as-syntax/
+http://blog.thoughtram.io/angularjs/2015/01/02/exploring-angular-1.3-bindToController.html
 http://www.thoughtdelimited.org/thoughts/post.cfm/using-the-controller-as-syntax-with-angularjs-controllers
 http://www.johnpapa.net/angularjss-controller-as-and-the-vm-variable/
+
+** good use of directive
+http://jsfiddle.net/simpulton/geaab/
 
 ** all about Value,Factory,Service,Provider,Constant --- vgood
 http://tutorials.jenkov.com/angularjs/dependency-injection.html
