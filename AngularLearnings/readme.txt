@@ -11,6 +11,9 @@ http://jonathancreamer.com/the-state-of-angularjs-controllers/
 http://stackoverflow.com/questions/27866620/use-case-for-controller-service-in-angularjs
 http://jasonwatmore.com/post/2014/03/25/AngularJS-A-better-way-to-implement-a-base-controller.aspx
 
+** using $injector and $controller
+http://jan.varwig.org/archive/angularjs-controllers-patterns-for-successful-use
+
 ** angular- useful functions
 http://artandlogic.com/2013/05/angularjs-best-practices-ive-been-doing-it-wrong-part-3-of-3/
 
