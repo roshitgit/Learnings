@@ -3,6 +3,9 @@ https://code.angularjs.org/
 
 ** cool angular tables
 http://angularjs4u.com/tables/top-10-angularjs-table-demos/
+http://www.jitendrazaa.com/blog/webtech/web/pagination-and-sorting-of-data-table-using-angularjs/
+https://github.com/esvit/ng-table/wiki/Configuring-your-table-with-ngTableParams   --- ngtable sample
+http://ng-table.com/#/
 
 ** john papa - angular style guide
 https://github.com/johnpapa/angular-styleguide
