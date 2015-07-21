@@ -1,8 +1,14 @@
 ** all download versions
 https://code.angularjs.org/
 
+** cool angular tables
+http://angularjs4u.com/tables/top-10-angularjs-table-demos/
+
 ** john papa - angular style guide
 https://github.com/johnpapa/angular-styleguide
+
+** paginate anything
+http://www.michaelbromley.co.uk/blog/108/paginate-almost-anything-in-angularjs
 
 ** create hoverable ui tooltip
 http://stackoverflow.com/questions/20267967/create-hoverable-popover-using-angular-ui-bootstrap
