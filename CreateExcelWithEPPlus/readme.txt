@@ -7,9 +7,13 @@ http://epplus.codeplex.com/wikipage?title=WebapplicationExample
 http://stackoverflow.com/questions/18728995/asp-net-mvc-epplus-download-excel-file
 http://soham-blog-read-write-excel.blogspot.com/2011/12/readwrite-excelspreadsheet-in-net-using.html
 http://blog.dileno.com/archive/201506/creating-an-excel-file-with-epplus/
+http://thebesthacker.com/question/excel-date-column-returning-int-using-epplus.html
 http://goobbe.com/questions/4365427/how-to-append-data-into-excel-file
 http://solvedstack.com/questions/create-excel-xls-and-xlsx-file-from-c
+http://www.cnetion.com/i-am-not-able-to-filter-date-to-month-year-date-with-generated-excel-using-epp-qq-AUvBfn51ivICeoL1jipK.php
 http://www.codeotel.com/7SmJPWeXgX/auto-column-width-in-epplus.html
+http://gotoanswer.com/?q=EPPLUS+how+to+know+the+format+of+the+Worksheet+cell
+http://rootslash.net/351193/epplus-how-to-know-the-format-of-the-worksheet-cell
 
 http://www.c-sharpcorner.com/uploadfile/vendettamit/web-application-export-to-excel-advanced-using-open-source-library-epplus/ -- vgood example. check it
 
