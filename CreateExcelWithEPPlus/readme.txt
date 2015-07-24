@@ -9,11 +9,16 @@ http://soham-blog-read-write-excel.blogspot.com/2011/12/readwrite-excelspreadshe
 http://blog.dileno.com/archive/201506/creating-an-excel-file-with-epplus/
 http://thebesthacker.com/question/excel-date-column-returning-int-using-epplus.html
 http://goobbe.com/questions/4365427/how-to-append-data-into-excel-file
+http://technico.qnownow.com/creating-charts-in-excel-through-c/
+http://stackoverflow.com/questions/30972175/epplus-how-can-i-assign-border-around-each-cell-after-i-apply-loadfromcollectio
 http://solvedstack.com/questions/create-excel-xls-and-xlsx-file-from-c
 http://www.cnetion.com/i-am-not-able-to-filter-date-to-month-year-date-with-generated-excel-using-epp-qq-AUvBfn51ivICeoL1jipK.php
 http://www.codeotel.com/7SmJPWeXgX/auto-column-width-in-epplus.html
 http://gotoanswer.com/?q=EPPLUS+how+to+know+the+format+of+the+Worksheet+cell
 http://rootslash.net/351193/epplus-how-to-know-the-format-of-the-worksheet-cell
+
+** outer border
+http://stackoverflow.com/questions/2265342/excel-range-borderaround-border-is-always-black
 
 ** return bytes with mvc
 http://blog.newslacker.net/2012/04/epplus-creating-excel-file.html
