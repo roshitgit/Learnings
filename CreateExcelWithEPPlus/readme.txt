@@ -13,6 +13,15 @@ http://technico.qnownow.com/creating-charts-in-excel-through-c/
 http://stackoverflow.com/questions/30972175/epplus-how-can-i-assign-border-around-each-cell-after-i-apply-loadfromcollectio
 http://solvedstack.com/questions/create-excel-xls-and-xlsx-file-from-c
 http://www.cnetion.com/i-am-not-able-to-filter-date-to-month-year-date-with-generated-excel-using-epp-qq-AUvBfn51ivICeoL1jipK.php
+
+http://www.codeproject.com/Tips/659666/Export-very-large-data-to-Excel-file
+
+http://stackoverflow.com/questions/5738123/using-epplus-with-a-memorystream
+
+http://stackoverflow.com/questions/151005/create-excel-xls-and-xlsx-file-from-c-sharp
+
+http://stackoverflow.com/questions/6583136/how-can-i-speed-up-creating-excel-excel-spreadsheets-from-c
+
 http://www.codeotel.com/7SmJPWeXgX/auto-column-width-in-epplus.html
 http://gotoanswer.com/?q=EPPLUS+how+to+know+the+format+of+the+Worksheet+cell
 http://rootslash.net/351193/epplus-how-to-know-the-format-of-the-worksheet-cell
