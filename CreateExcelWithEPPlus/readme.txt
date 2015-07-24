@@ -15,6 +15,11 @@ http://www.codeotel.com/7SmJPWeXgX/auto-column-width-in-epplus.html
 http://gotoanswer.com/?q=EPPLUS+how+to+know+the+format+of+the+Worksheet+cell
 http://rootslash.net/351193/epplus-how-to-know-the-format-of-the-worksheet-cell
 
+** return bytes with mvc
+http://blog.newslacker.net/2012/04/epplus-creating-excel-file.html
+
+http://goobbe.com/questions/2792282/c-sharp-epplus-openxml-count-rows
+
 http://danlb.blogspot.in/2014/05/writing-excel-files-using-epplus.html
 
 ** content and statistics
