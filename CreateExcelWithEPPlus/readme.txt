@@ -15,6 +15,12 @@ http://www.codeotel.com/7SmJPWeXgX/auto-column-width-in-epplus.html
 http://gotoanswer.com/?q=EPPLUS+how+to+know+the+format+of+the+Worksheet+cell
 http://rootslash.net/351193/epplus-how-to-know-the-format-of-the-worksheet-cell
 
+http://danlb.blogspot.in/2014/05/writing-excel-files-using-epplus.html
+
+** content and statistics
+http://epplus.codeplex.com/wikipage?title=ContentSheetExample
+http://epplus.codeplex.com/wikipage?title=StatisticsSheetExample
+
 http://www.c-sharpcorner.com/uploadfile/vendettamit/web-application-export-to-excel-advanced-using-open-source-library-epplus/ -- vgood example. check it
 
 https://epplus.codeplex.com/wikipage?title=WebapplicationExample
