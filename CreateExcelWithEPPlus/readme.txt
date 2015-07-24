@@ -9,3 +9,6 @@ http://soham-blog-read-write-excel.blogspot.com/2011/12/readwrite-excelspreadshe
 http://blog.dileno.com/archive/201506/creating-an-excel-file-with-epplus/
 http://goobbe.com/questions/4365427/how-to-append-data-into-excel-file
 http://solvedstack.com/questions/create-excel-xls-and-xlsx-file-from-c
+http://www.codeotel.com/7SmJPWeXgX/auto-column-width-in-epplus.html
+
+https://gist.github.com/SamWM/1031793 -- good formatting examples
