@@ -11,6 +11,9 @@ http://goobbe.com/questions/4365427/how-to-append-data-into-excel-file
 http://solvedstack.com/questions/create-excel-xls-and-xlsx-file-from-c
 http://www.codeotel.com/7SmJPWeXgX/auto-column-width-in-epplus.html
 
+http://www.c-sharpcorner.com/uploadfile/vendettamit/web-application-export-to-excel-advanced-using-open-source-library-epplus/ -- vgood example. check it
+
+https://epplus.codeplex.com/wikipage?title=WebapplicationExample
 https://gist.github.com/SamWM/1031793 -- good formatting examples
 /Learnings/edit/master/CreateExcelWithEPPlus/readme.txt
 https://www.paragon-inc.com/resources/blogs-posts/easy_excel_interaction_pt4
