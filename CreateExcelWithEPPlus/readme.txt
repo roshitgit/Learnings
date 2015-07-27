@@ -14,6 +14,10 @@ http://stackoverflow.com/questions/30972175/epplus-how-can-i-assign-border-aroun
 http://solvedstack.com/questions/create-excel-xls-and-xlsx-file-from-c
 http://www.cnetion.com/i-am-not-able-to-filter-date-to-month-year-date-with-generated-excel-using-epp-qq-AUvBfn51ivICeoL1jipK.php
 
+** styling
+http://stackoverflow.com/questions/20551404/epplus-how-to-style-merged-cells
+https://www.paragon-inc.com/resources/blogs-posts/easy_excel_interaction_pt5
+
 http://www.codeproject.com/Tips/659666/Export-very-large-data-to-Excel-file
 
 http://stackoverflow.com/questions/5738123/using-epplus-with-a-memorystream
