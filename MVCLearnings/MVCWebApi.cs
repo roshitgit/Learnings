@@ -4,44 +4,6 @@
     MVC controller.
  * Both MVC regular controller & Web API controller can be used within an app.*/
 
-//Code Conventions:
-//Regular MVC Controller:
-public class ChartsController : Controller
-    {
-        public JsonResult GetData(<params>)
-        {
-            try
-            {
-                var list = chartsRepo.Get(<params>);
-                return Json(list, JsonRequestBehavior.AllowGet);
-            }
-            catch (Exception ex)
-            {
-                return Json(new { ErrorMessage = ex.Message });
-            }
-        }
-  }
-  
-  
-//Web API controller:
-public class ChartsController : ApiController
-    {
-        [System.Web.Http.HttpGet]
-        [System.Web.Http.ActionName("GetData")] 
-        public List<MonthWiseRiskIssues> GetData(string Id)
-        {
-            try
-            {
-                return chartsRepo.GetDataFromDB(Id);
-            }
-            catch (Exception ex)
-            {
-                throw new HttpResponseException(new HttpResponseMessage(HttpStatusCode.InternalServerError));
-            }
-        }
-    
-    }
-    
 
 ***************Dependency Injection *********************8
 To use DI with VS2010 & MVC 4 Web API/Intranet Templates, download nuget package mentioned below
