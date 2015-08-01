@@ -1,3 +1,7 @@
+** MVC forms auth
+http://blog.stevensanderson.com/2008/08/25/using-the-browsers-native-login-prompt/
+
+
 * MVC classic mode changes
 http://weblogs.asp.net/imranbaloch/routes-for-classic-and-integrated-mode
 http://www.asp.net/mvc/overview/older-versions-1/deployment/using-asp-net-mvc-with-different-versions-of-iis-cs
