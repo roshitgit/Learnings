@@ -4,6 +4,7 @@ http://devcenter.kinvey.com/angular/guides/caching-offline
 http://diveintohtml5.info/offline.html
 
 https://developer.mozilla.org/en-US/docs/Web/HTML/Using_the_application_cache
+http://www.codemag.com/Article/1112051
 
 http://www.html5rocks.com/en/tutorials/appcache/beginner/
 
