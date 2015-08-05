@@ -7,3 +7,4 @@ http://blogs.msdn.com/b/yaohuang1/archive/2012/05/13/asp-net-web-api-introducing
 http://www.c-sharpcorner.com/UploadFile/2b481f/creating-the-help-page-in-Asp-Net-web-api/
 
 http://stackoverflow.com/questions/24284413/webapi-help-page-description -- vgood
+http://www.c-sharpcorner.com/UploadFile/d132a2/workaround-in-Asp-Net-webapi-help-page/ ---vgood
