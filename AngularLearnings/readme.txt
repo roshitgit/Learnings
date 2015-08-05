@@ -7,6 +7,9 @@ http://www.jitendrazaa.com/blog/webtech/web/pagination-and-sorting-of-data-table
 https://github.com/esvit/ng-table/wiki/Configuring-your-table-with-ngTableParams   --- ngtable sample
 http://ng-table.com/#/
 
+** nice example with angular, grunt and web api
+https://damienbod.wordpress.com/2015/03/28/asp-net-5-angularjs-application-using-angular-ui-router/
+
 ** john papa - angular style guide
 https://github.com/johnpapa/angular-styleguide
 
