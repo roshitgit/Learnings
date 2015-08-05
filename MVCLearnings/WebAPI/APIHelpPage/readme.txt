@@ -5,3 +5,5 @@ http://blogs.msdn.com/b/yaohuang1/archive/2012/05/21/asp-net-web-api-generating-
 http://www.codeproject.com/Articles/826307/AngularJS-With-MVC-Web-API
 http://blogs.msdn.com/b/yaohuang1/archive/2012/05/13/asp-net-web-api-introducing-iapiexplorer-apiexplorer.aspx
 http://www.c-sharpcorner.com/UploadFile/2b481f/creating-the-help-page-in-Asp-Net-web-api/
+
+http://stackoverflow.com/questions/24284413/webapi-help-page-description -- vgood
