@@ -10,6 +10,9 @@
 10.http://sharecoding.wordpress.com/tag/angularjs-cross-domain/
 11.http://draptik.github.io/blog/2013/08/19/angularjs-and-cors/
 
+** angular CORS and using $resource
+https://github.com/draptik/angulardemorestful
+
 https://github.com/tjoudeh/AngularJSAuthentication -- vgood
 
 'use strict';
