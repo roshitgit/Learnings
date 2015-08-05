@@ -10,3 +10,4 @@ http://stackoverflow.com/questions/24284413/webapi-help-page-description -- vgoo
 http://www.c-sharpcorner.com/UploadFile/d132a2/workaround-in-Asp-Net-webapi-help-page/ ---vgood
 https://visualstudiomagazine.com/articles/2014/09/01/web-api-documentation-tools.aspx ---vgood
 http://blogs.msdn.com/b/yaohuang1/archive/2012/09/30/asp-net-web-api-help-page-part-1-basic-help-page-customizations.aspx ------vgood
+http://blogs.msdn.com/b/yaohuang1/archive/2012/08/15/introducing-the-asp-net-web-api-help-page-preview.aspx ---vgood
