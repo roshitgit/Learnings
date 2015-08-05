@@ -11,6 +11,8 @@ Serialization ways
 3. Message Pack
 4. ServiceStack.Text
 
+** using multiple complex object in api methods and using "JOBJECT"
+http://blog.travisgosselin.com/web-api-signatures-with-multiple-complex-parameters/
 
 ** web api dynamic support
 http://www.neovolve.com/2015/02/24/dynamic-types-in-web-api/
