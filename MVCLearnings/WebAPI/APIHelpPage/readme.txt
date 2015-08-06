@@ -17,6 +17,7 @@ http://blogs.msdn.com/b/yaohuang1/archive/2012/08/15/introducing-the-asp-net-web
 
 *** using swagger for api documentation
 http://bitoftech.net/2014/08/25/asp-net-web-api-documentation-using-swagger/
+https://github.com/tjoudeh/WebApiSwagger
 
 http://www.dotnetpickles.com/2015/05/how-to-create-help-pages-documents-for.html ---vgood
 http://gsferreira.com/archive/2014/06/add-documentation-to-your-web-api-in-5-steps/ ----vgood
