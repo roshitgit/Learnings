@@ -15,9 +15,6 @@ https://visualstudiomagazine.com/articles/2014/09/01/web-api-documentation-tools
 http://blogs.msdn.com/b/yaohuang1/archive/2012/09/30/asp-net-web-api-help-page-part-1-basic-help-page-customizations.aspx ------vgood
 http://blogs.msdn.com/b/yaohuang1/archive/2012/08/15/introducing-the-asp-net-web-api-help-page-preview.aspx ---vgood
 
-*** using swagger for api documentation
-http://bitoftech.net/2014/08/25/asp-net-web-api-documentation-using-swagger/
-https://github.com/tjoudeh/WebApiSwagger
 
 http://www.dotnetpickles.com/2015/05/how-to-create-help-pages-documents-for.html ---vgood
 http://gsferreira.com/archive/2014/06/add-documentation-to-your-web-api-in-5-steps/ ----vgood
