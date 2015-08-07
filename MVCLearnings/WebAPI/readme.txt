@@ -4,6 +4,9 @@ https://msdn.microsoft.com/en-us/library/2fc472t2.aspx
 *** load test with async -- try this out
 http://www.dotnetcurry.com/aspnet-mvc/948/webapi-async-performance-aspnet-mvc-application
 
+** web api exception handling using attribute
+http://code.jon.fazzaro.com/tag/code/
+
 ** all serializer performance comparison
 http://blog.davidroossien.com/?tag=netjson
 
