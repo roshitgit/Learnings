@@ -8,6 +8,12 @@ https://github.com/domaindrivendev/Swashbuckle/issues/184
 https://github.com/domaindrivendev/Ahoy/tree/master/test/WebSites/BasicApi
 
 ** swagger ui issues
+https://groups.google.com/forum/#!topic/swagger-swaggersocket/EHxe1evyORo
+http://databasefaq.com/index.php/answer/77883/swagger-swagger-ui-swashbuckle-swagger-20-how-to-send-authorization-header-with-a-request-in-swagger-ui
+http://iswwwup.com/t/5de2f113dd69/swashbuckle-swagger-and-webapi.html
+https://github.com/swagger-api/swagger-ui#customize
+http://blog.wassupy.com/2015/03/fixing-500-undefined-error-in.html
+http://stackoverflow.com/questions/29995706/how-can-i-make-url-path-in-swashbuckle-swaggerwork-when-api-is-served-from-insid--must see
 https://github.com/domaindrivendev/Swashbuckle/issues/205
 https://github.com/domaindrivendev/Swashbuckle/issues/142
 https://github.com/domaindrivendev/Swashbuckle#swagger-ui-showing-cant-read-swagger-json-from
