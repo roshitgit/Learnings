@@ -10,4 +10,7 @@ https://github.com/domaindrivendev/Ahoy/tree/master/test/WebSites/BasicApi
 ** swagger demo api using mvc web api & apicontroller
 https://github.com/billpratt/SwaggerDemoApi
 
+** cool youtube video
+https://www.youtube.com/watch?v=Wk5fCrZh7Tc
+
 -- nuget: https://www.nuget.org/packages/Swashbuckle/6.0.0-beta6
