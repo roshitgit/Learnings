@@ -7,6 +7,12 @@ http://mattfrear.com/2015/04/21/generating-swagger-example-responses-with-swashb
 https://github.com/domaindrivendev/Swashbuckle/issues/184
 https://github.com/domaindrivendev/Ahoy/tree/master/test/WebSites/BasicApi
 
+** Swashbuckle full documentation
+https://github.com/domaindrivendev/Swashbuckle
+
+** swashbuckle and errors with bindingredirect
+http://stackoverflow.com/questions/25407672/step-by-step-to-run-swashbuckle-on-asp-net-web-api
+
 ** swagger demo api using mvc web api & apicontroller
 https://github.com/billpratt/SwaggerDemoApi
 
