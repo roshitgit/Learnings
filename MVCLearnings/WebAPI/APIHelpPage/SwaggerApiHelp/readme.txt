@@ -7,6 +7,11 @@ http://mattfrear.com/2015/04/21/generating-swagger-example-responses-with-swashb
 https://github.com/domaindrivendev/Swashbuckle/issues/184
 https://github.com/domaindrivendev/Ahoy/tree/master/test/WebSites/BasicApi
 
+** swagger ui issues
+https://github.com/domaindrivendev/Swashbuckle/issues/205
+https://github.com/domaindrivendev/Swashbuckle/issues/142
+https://github.com/domaindrivendev/Swashbuckle#swagger-ui-showing-cant-read-swagger-json-from
+
 ** Swashbuckle full documentation
 https://github.com/domaindrivendev/Swashbuckle
 
