@@ -1,3 +1,5 @@
+** web api adding and fixing bindingredirects in web.conlfig
+https://msdn.microsoft.com/en-us/library/2fc472t2.aspx
 
 *** load test with async -- try this out
 http://www.dotnetcurry.com/aspnet-mvc/948/webapi-async-performance-aspnet-mvc-application
