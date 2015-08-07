@@ -10,6 +10,9 @@ https://github.com/domaindrivendev/Ahoy/tree/master/test/WebSites/BasicApi
 ** Swashbuckle full documentation
 https://github.com/domaindrivendev/Swashbuckle
 
+** Swashbuckle custom index page for UI
+https://github.com/domaindrivendev/Swashbuckle/blob/master/Swashbuckle.Core/SwaggerUi/CustomAssets/index.html
+
 ** swashbuckle and errors with bindingredirect
 http://stackoverflow.com/questions/25407672/step-by-step-to-run-swashbuckle-on-asp-net-web-api
 
