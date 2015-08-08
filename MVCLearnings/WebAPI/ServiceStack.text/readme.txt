@@ -1,11 +1,15 @@
 https://servicestack.net/download
 https://servicestack.net/
-http://www.strathweb.com/2013/01/replace-json-net-with-servicestack-text-in-asp-net-web-api/
+http://www.strathweb.com/2013/01/replace-json-net-with-servicestack-text-in-asp-net-web-api/ --- must see and try out
 
 https://github.com/ServiceStack/ServiceStack/wiki/Mvc-integration
 http://blogs.askcts.com/2014/04/23/getting-started-with-servicestack-part-one/
 http://www.slideshare.net/Fabio.Cozzolino/introduction-to-service-stack
 http://stackoverflow.com/questions/19050672/servicestack-text-output-utc-offset
+
+https://components.xamarin.com/view/servicestacktext
+http://codereply.com/answer/5o5wok/serializing-expandoobject-servicestacktext.html
+http://www.ienablemuch.com/2012/05/anonymous-type-dynamic-servicestack.html
 
 ** good example of using web api routes with verbs
 http://www.dotnetcurry.com/aspnet/1056/introducing-service-stack-tutorial
