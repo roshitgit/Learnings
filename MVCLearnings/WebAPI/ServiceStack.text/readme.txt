@@ -1,4 +1,5 @@
 https://servicestack.net/download
+https://servicestack.net/
 http://www.strathweb.com/2013/01/replace-json-net-with-servicestack-text-in-asp-net-web-api/
 
 https://github.com/ServiceStack/ServiceStack/wiki/Mvc-integration
@@ -6,8 +7,14 @@ http://blogs.askcts.com/2014/04/23/getting-started-with-servicestack-part-one/
 http://www.slideshare.net/Fabio.Cozzolino/introduction-to-service-stack
 http://stackoverflow.com/questions/19050672/servicestack-text-output-utc-offset
 
+** good example of using web api routes with verbs
+http://www.dotnetcurry.com/aspnet/1056/introducing-service-stack-tutorial
+
 ** alternate json serializer
 https://weblog.west-wind.com/posts/2012/Mar/09/Using-an-alternate-JSON-Serializer-in-ASPNET-Web-API
+
+**  dynamic-expandoobject-to-serialize-to-json-as-expected
+http://www.patridgedev.com/2011/08/24/getting-dynamic-expandoobject-to-serialize-to-json-as-expected/
 
 **web-api-to-servicestack-jobject-to-jsonobject
 http://stackoverflow.com/questions/20636410/converting-web-api-to-servicestack-jobject-to-jsonobject
