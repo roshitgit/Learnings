@@ -9,10 +9,19 @@ https://github.com/domaindrivendev/Ahoy/tree/master/test/WebSites/BasicApi
 https://alexanderzeitler.com/articles/Deploying-a-ASP-NET-MVC-6-API-as-Azure-API-App-in-Azure-App-Services/
 https://github.com/domaindrivendev/Ahoy/tree/master/test/WebSites
 
+** excellent article. must try features
+https://azure.microsoft.com/en-in/documentation/articles/app-service-api-dotnet-swashbuckle-customize/
+
 ** important swagger config to get method info
 http://setiasunny.blogspot.in/2015/01/web-api-help-page-with-swashbuckler.html
 
 ** url change
+https://github.com/domaindrivendev/Swashbuckle/issues/414
+http://www.paraesthesia.com/archive/2015/02/13/advanced-object-serialization-in-web-api/
+https://github.com/domaindrivendev/Swashbuckle/blob/master/Swashbuckle.Dummy.Core/App_Start/SwaggerConfig.cs
+https://github.com/domaindrivendev/Swashbuckle/blob/swagger_2.0/README.md
+https://github.com/domaindrivendev/Swashbuckle/blob/22fedb920951b1e9f0423ccc548f90c8a023ab5c/Swashbuckle.Core/Bootstrapper.cs--vgood(must try)
+http://stackoverflow.com/questions/30121364/custom-route-for-swashbuckle
 https://github.com/domaindrivendev/Swashbuckle#custom-routes --- perfect to change name "swagger" in url to something else
 http://stackoverflow.com/questions/25796951/can-the-base-url-change-in-swagger
 
