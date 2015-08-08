@@ -7,8 +7,11 @@ http://mattfrear.com/2015/04/21/generating-swagger-example-responses-with-swashb
 https://github.com/domaindrivendev/Swashbuckle/issues/184
 https://github.com/domaindrivendev/Ahoy/tree/master/test/WebSites/BasicApi
 https://alexanderzeitler.com/articles/Deploying-a-ASP-NET-MVC-6-API-as-Azure-API-App-in-Azure-App-Services/
+https://github.com/domaindrivendev/Ahoy/tree/master/test/WebSites
 
 ** swagger ui issues
+https://github.com/domaindrivendev/Swashbuckle/issues/305
+http://databasefaq.com/index.php/answer/126586/c-rest-aspnet-web-api-swagger-swashbuckle-how-can-i-make-url-path-in-swashbuckle-swaggerwork-when-api-is-served-from-inside-another-project
 https://groups.google.com/forum/#!topic/swagger-swaggersocket/EHxe1evyORo
 http://databasefaq.com/index.php/answer/77883/swagger-swagger-ui-swashbuckle-swagger-20-how-to-send-authorization-header-with-a-request-in-swagger-ui
 http://iswwwup.com/t/5de2f113dd69/swashbuckle-swagger-and-webapi.html
