@@ -6,6 +6,9 @@ http://blogs.askcts.com/2014/04/23/getting-started-with-servicestack-part-one/
 http://www.slideshare.net/Fabio.Cozzolino/introduction-to-service-stack
 http://stackoverflow.com/questions/19050672/servicestack-text-output-utc-offset
 
+** alternate json serializer
+https://weblog.west-wind.com/posts/2012/Mar/09/Using-an-alternate-JSON-Serializer-in-ASPNET-Web-API
+
 **web-api-to-servicestack-jobject-to-jsonobject
 http://stackoverflow.com/questions/20636410/converting-web-api-to-servicestack-jobject-to-jsonobject
 
