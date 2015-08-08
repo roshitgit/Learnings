@@ -6,6 +6,7 @@ http://setiasunny.blogspot.com/2015/01/web-api-help-page-with-swashbuckler.html
 http://mattfrear.com/2015/04/21/generating-swagger-example-responses-with-swashbuckle/
 https://github.com/domaindrivendev/Swashbuckle/issues/184
 https://github.com/domaindrivendev/Ahoy/tree/master/test/WebSites/BasicApi
+https://alexanderzeitler.com/articles/Deploying-a-ASP-NET-MVC-6-API-as-Azure-API-App-in-Azure-App-Services/
 
 ** swagger ui issues
 https://groups.google.com/forum/#!topic/swagger-swaggersocket/EHxe1evyORo
