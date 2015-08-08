@@ -9,6 +9,10 @@ https://github.com/domaindrivendev/Ahoy/tree/master/test/WebSites/BasicApi
 https://alexanderzeitler.com/articles/Deploying-a-ASP-NET-MVC-6-API-as-Azure-API-App-in-Azure-App-Services/
 https://github.com/domaindrivendev/Ahoy/tree/master/test/WebSites
 
+** url change
+https://github.com/domaindrivendev/Swashbuckle#custom-routes --- perfect to change name "swagger" in url to something else
+http://stackoverflow.com/questions/25796951/can-the-base-url-change-in-swagger
+
 ** swagger demo
 http://petstore.swagger.io/
 
