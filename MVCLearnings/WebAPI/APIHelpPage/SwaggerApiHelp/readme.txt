@@ -9,6 +9,9 @@ https://github.com/domaindrivendev/Ahoy/tree/master/test/WebSites/BasicApi
 https://alexanderzeitler.com/articles/Deploying-a-ASP-NET-MVC-6-API-as-Azure-API-App-in-Azure-App-Services/
 https://github.com/domaindrivendev/Ahoy/tree/master/test/WebSites
 
+** swagger demo
+http://petstore.swagger.io/
+
 ** good youtube videos
 https://www.youtube.com/watch?v=NfeTGsuwCBw
 
@@ -16,6 +19,7 @@ https://www.youtube.com/watch?v=NfeTGsuwCBw
 https://www.youtube.com/watch?v=Wk5fCrZh7Tc
 
 ** swagger ui issues
+http://stackoverflow.com/questions/20838536/swagger-not-able-to-retrieve-operations-from-servicestack-resources-service
 https://github.com/domaindrivendev/Swashbuckle/issues/305
 http://databasefaq.com/index.php/answer/126586/c-rest-aspnet-web-api-swagger-swashbuckle-how-can-i-make-url-path-in-swashbuckle-swaggerwork-when-api-is-served-from-inside-another-project
 https://groups.google.com/forum/#!topic/swagger-swaggersocket/EHxe1evyORo
