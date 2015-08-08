@@ -6,6 +6,9 @@ http://blogs.askcts.com/2014/04/23/getting-started-with-servicestack-part-one/
 http://www.slideshare.net/Fabio.Cozzolino/introduction-to-service-stack
 http://stackoverflow.com/questions/19050672/servicestack-text-output-utc-offset
 
+**web-api-to-servicestack-jobject-to-jsonobject
+http://stackoverflow.com/questions/20636410/converting-web-api-to-servicestack-jobject-to-jsonobject
+
 http://stackoverflow.com/questions/17359558/servicestack-jsonserializer-not-serializing-object-members-when-inheritance
 http://stackoverflow.com/questions/14387202/how-to-use-a-custom-json-serializer-in-servicestack
 
