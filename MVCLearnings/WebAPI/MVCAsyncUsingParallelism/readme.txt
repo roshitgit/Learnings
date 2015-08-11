@@ -2,8 +2,9 @@
 https://www.youtube.com/watch?v=RqPwOEjudD4
 http://blogs.msdn.com/b/dotnet/archive/2012/04/03/async-in-4-5-worth-the-await.aspx
 
-** excellent article to use LINQ operations on Task<dynamic>  ------- must read
+** excellent articles to use LINQ operations on Task<dynamic>  ------- must read
 https://wizardsofsmart.wordpress.com/2013/03/21/web-api-and-dynamic-data-access/
+https://gist.github.com/panesofglass/5212462
 
 **Web API async method with AngularJS
 http://stackoverflow.com/questions/28238418/web-api-async-method-with-angularjs
