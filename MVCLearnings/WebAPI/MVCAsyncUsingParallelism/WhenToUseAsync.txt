@@ -1,3 +1,5 @@
+http://www.asp.net/mvc/overview/performance/using-asynchronous-methods-in-aspnet-mvc-4
+http://stackoverflow.com/questions/23927343/changing-my-server-side-webapi-to-get-the-benefits-of-async-await
 *****************Processing Asynchronous Requests
 
 In web applications that sees a large number of concurrent requests at start-up or has a bursty load 
