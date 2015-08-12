@@ -1,0 +1,14 @@
+Change these values if working on async and await with MVC web api
+http://blogs.msdn.com/b/tmarq/archive/2007/07/21/asp-net-thread-usage-on-iis-7-0-and-6-0.aspx   --must read
+http://blogs.msdn.com/b/rickandy/archive/2009/11/14/should-my-database-calls-be-asynchronous.aspx -- must read
+
+http://blogs.msdn.com/b/tmarq/archive/2010/04/14/performing-asynchronous-work-or-tasks-in-asp-net-applications.aspx -- must read
+
+1. maxConcurrentRequestsPerCPU 
+2. maxConcurrentThreadsPerCPU
+3. requestQueueLimit
+
+** web.config
+  <system.web>
+        <applicationPool maxConcurrentRequestsPerCPU="12" maxConcurrentThreadsPerCPU="0" requestQueueLimit="5000"/>
+    </system.web>
