@@ -1,3 +1,4 @@
+https://github.com/Glimpse/Glimpse/blob/master/source/Glimpse.Mvc3.MusicStore.Sample/Controllers/HomeController.cs#L115-L116
 public class ConnectionProvider
     {
         DbConnection conn;
