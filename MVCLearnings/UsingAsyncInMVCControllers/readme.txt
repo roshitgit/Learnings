@@ -1,4 +1,6 @@
 
+** bad effects of async await
+http://www.tugberkugurlu.com/archive/asynchronousnet-client-libraries-for-your-http-api-and-awareness-of-async-await-s-bad-effects
 
 **Build Async Services with ASP.NET Web API and Entity Framework 6   (must read and implement)
 http://blog.tonysneed.com/2013/03/22/async-services-asp-net-web-api-entity-framework-6/
