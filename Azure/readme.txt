@@ -5,3 +5,6 @@ https://azure.microsoft.com/en-us/documentation/articles/web-sites-dotnet-deploy
 http://alexwolfthoughts.com/deploying-an-mvc-code-first-application-to-windows-azure/
 http://www.iis.net/learn/publish/troubleshooting-web-deploy/web-deploy-error-codes#ERROR_DESTINATION_INVALID
 
+** publish to azure using GIT, bitbucket
+https://azure.microsoft.com/en-us/documentation/articles/web-sites-publish-source-control/
+
