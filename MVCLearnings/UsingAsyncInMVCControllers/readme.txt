@@ -1,3 +1,5 @@
+** async await best practices
+https://msdn.microsoft.com/en-us/magazine/jj991977.aspx
 
 ** bad effects of async await
 http://www.tugberkugurlu.com/archive/asynchronousnet-client-libraries-for-your-http-api-and-awareness-of-async-await-s-bad-effects
