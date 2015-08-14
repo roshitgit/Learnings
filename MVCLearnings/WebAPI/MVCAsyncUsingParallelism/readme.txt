@@ -1,3 +1,6 @@
+**  understand deadlocks in async --- must read
+http://blog.stephencleary.com/2012/07/dont-block-on-async-code.html
+
 ** How and Why's of async and await
 https://msdn.microsoft.com/en-us/magazine/Dn802603.aspx
 https://msdn.microsoft.com/en-us/library/hh191443.aspx
