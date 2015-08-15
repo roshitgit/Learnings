@@ -3,6 +3,13 @@ http://blog.stephencleary.com/2012/07/dont-block-on-async-code.html
 
 ** best practice
 http://www.c-sharpcorner.com/UploadFile/dacca2/asynchronous-programming-in-C-Sharp-5-0-part-6-3-best-practices/
+http://www.anujvarma.com/async-await-in-web-api-controller/
+
+***** What should my actions be returning?
+A. Typed Objects/Collections: Customer or IEnumerable<Order>
+B. HttpResponseMessage
+C. IHttpActionResult
+http://iswwwup.com/t/a7403961037f/asp-net-webapi-action-return-types.html
 
 ** How and Why's of async and await
 https://msdn.microsoft.com/en-us/magazine/Dn802603.aspx
