@@ -4,6 +4,10 @@ http://blog.stephencleary.com/2012/07/dont-block-on-async-code.html
 ** web api exceptions
 http://adamprescott.net/tag/asp-net-web-api/
 http://stackoverflow.com/questions/10732644/best-practice-to-return-errors-in-asp-net-web-api
+http://stackoverflow.com/questions/13269267/how-to-translate-exceptions-from-tasks-returned-by-asynchronous-asp-net-web-api
+http://dotnetcodr.com/2013/01/07/exception-handling-in-async-methods-in-net4-5-mvc4-with-c/
+http://weblogs.asp.net/fredriknormen/asp-net-web-api-exception-handling --- try this
+http://blog.tonysneed.com/2013/04/01/more-fun-async-asp-net-web-api/
 
 ** best practice
 http://www.c-sharpcorner.com/UploadFile/dacca2/asynchronous-programming-in-C-Sharp-5-0-part-6-3-best-practices/
@@ -19,6 +23,7 @@ http://iswwwup.com/t/a7403961037f/asp-net-webapi-action-return-types.html
 ** How and Why's of async and await
 https://msdn.microsoft.com/en-us/magazine/Dn802603.aspx
 https://msdn.microsoft.com/en-us/library/hh191443.aspx
+https://msdn.microsoft.com/en-us/library/vstudio/hh191443(v=vs.110).aspx --- good read
 
 ** mvc async using httpclient, webclient
 https://github.com/RickAndMSFT/Async-ASP.NET
