@@ -4,6 +4,9 @@ http://www.dotnetcurry.com/aspnet-mvc/948/webapi-async-performance-aspnet-mvc-ap
 ** web api adding and fixing bindingredirects in web.conlfig
 https://msdn.microsoft.com/en-us/library/2fc472t2.aspx
 
+** uploading-files-asynchronously
+http://www.codeguru.com/csharp/.net/uploading-files-asynchronously-using-asp.net-web-api.htm
+
 *** load test with async -- try this out
 http://www.dotnetcurry.com/aspnet-mvc/948/webapi-async-performance-aspnet-mvc-application
 
