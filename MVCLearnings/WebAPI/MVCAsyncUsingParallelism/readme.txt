@@ -1,6 +1,9 @@
 **  understand deadlocks in async --- must read
 http://blog.stephencleary.com/2012/07/dont-block-on-async-code.html
 
+** web api exceptions
+http://adamprescott.net/tag/asp-net-web-api/
+
 ** best practice
 http://www.c-sharpcorner.com/UploadFile/dacca2/asynchronous-programming-in-C-Sharp-5-0-part-6-3-best-practices/
 http://www.anujvarma.com/async-await-in-web-api-controller/
