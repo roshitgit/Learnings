@@ -3,10 +3,12 @@ http://blog.stephencleary.com/2012/07/dont-block-on-async-code.html
 
 ** web api exceptions
 http://adamprescott.net/tag/asp-net-web-api/
+http://stackoverflow.com/questions/10732644/best-practice-to-return-errors-in-asp-net-web-api
 
 ** best practice
 http://www.c-sharpcorner.com/UploadFile/dacca2/asynchronous-programming-in-C-Sharp-5-0-part-6-3-best-practices/
 http://www.anujvarma.com/async-await-in-web-api-controller/
+http://stackoverflow.com/questions/28588652/web-api-2-return-content-with-ihttpactionresult-for-non-ok-response
 
 ***** What should my actions be returning?
 A. Typed Objects/Collections: Customer or IEnumerable<Order>
