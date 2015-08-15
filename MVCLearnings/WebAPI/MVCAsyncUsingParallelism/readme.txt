@@ -8,6 +8,10 @@ http://stackoverflow.com/questions/13269267/how-to-translate-exceptions-from-tas
 http://dotnetcodr.com/2013/01/07/exception-handling-in-async-methods-in-net4-5-mvc4-with-c/
 http://weblogs.asp.net/fredriknormen/asp-net-web-api-exception-handling --- try this
 http://blog.tonysneed.com/2013/04/01/more-fun-async-asp-net-web-api/
+http://www.brytheitguy.com/?p=10 --- vgood. try this
+
+** wep api request transform and exception handling
+http://www.tugberkugurlu.com/archive/dealing-with-asynchrony-inside-the-asp-net-web-api-http-message-handlers---vgood
 
 ** best practice
 http://www.c-sharpcorner.com/UploadFile/dacca2/asynchronous-programming-in-C-Sharp-5-0-part-6-3-best-practices/
