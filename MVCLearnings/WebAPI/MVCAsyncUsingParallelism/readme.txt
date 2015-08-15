@@ -2,7 +2,10 @@
 http://blog.stephencleary.com/2012/07/dont-block-on-async-code.html
 
 ** web api exceptions
+http://blogs.msdn.com/b/pfxteam/archive/2011/09/28/task-exception-handling-in-net-4-5.aspx ---good read
 http://adamprescott.net/tag/asp-net-web-api/
+https://gist.github.com/darrelmiller/8548166 --- good read and try it
+http://odetocode.com/blogs/scott/archive/2013/04/08/webapi-tip-8-working-with-tasks.aspx -- good one
 http://stackoverflow.com/questions/10732644/best-practice-to-return-errors-in-asp-net-web-api
 http://stackoverflow.com/questions/13269267/how-to-translate-exceptions-from-tasks-returned-by-asynchronous-asp-net-web-api
 http://dotnetcodr.com/2013/01/07/exception-handling-in-async-methods-in-net4-5-mvc4-with-c/
