@@ -8,7 +8,7 @@ Angular $http methods return a promise. Therefore by nature it's already an asyn
 Now the question is in what circumstance you wish to make your web api method to be async/await???
 Ans=>
 If your method has asynchronous work to do, then it should be async.
-As @l3arnon commented, async on the server and async on the client are completely different. 
+async on the server and async on the client are completely different. 
 Async on the client is all about remaining responsive to the end-user (not blocking the UI thread). 
 Async on the server is all about scalability (not blocking thread pool threads).
 
