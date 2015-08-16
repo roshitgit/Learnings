@@ -1,6 +1,14 @@
 **  understand deadlocks in async --- must read
 http://blog.stephencleary.com/2012/07/dont-block-on-async-code.html
 
+** question
+http://stackoverflow.com/questions/27367454/is-it-worth-it-to-make-web-api-async-method
+Question=> 
+Angular $http methods return a promise. Therefore by nature it's already an async call to the web api.. Now the question is in what circumstance you wish to make your web api method to be async/await???/
+Ans=>
+If your method has asynchronous work to do, then it should be async.
+As @l3arnon commented, async on the server and async on the client are completely different. Async on the client is all about remaining responsive to the end-user (not blocking the UI thread). Async on the server is all about scalability (not blocking thread pool threads).
+
 ** web api throttling
 http://blog.maartenballiauw.be/post/2013/05/28/Throttling-ASPNET-Web-API-calls.aspx -- must implement
 
