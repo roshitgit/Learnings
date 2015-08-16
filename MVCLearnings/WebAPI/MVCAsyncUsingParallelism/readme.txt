@@ -1,6 +1,9 @@
 **  understand deadlocks in async --- must read
 http://blog.stephencleary.com/2012/07/dont-block-on-async-code.html
 
+** web api throttling
+http://blog.maartenballiauw.be/post/2013/05/28/Throttling-ASPNET-Web-API-calls.aspx -- must implement
+
 ** web api exceptions
 http://blogs.msdn.com/b/pfxteam/archive/2011/09/28/task-exception-handling-in-net-4-5.aspx ---good read
 http://adamprescott.net/tag/asp-net-web-api/
