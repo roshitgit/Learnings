@@ -1,3 +1,6 @@
+** async examples
+https://github.com/jskeet/DemoCode/tree/master/AsyncIntro
+
 **  understand deadlocks in async --- must read
 http://blog.stephencleary.com/2012/07/dont-block-on-async-code.html
 
