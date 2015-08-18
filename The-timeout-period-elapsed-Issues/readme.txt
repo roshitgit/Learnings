@@ -12,6 +12,10 @@ http://blogs.msdn.com/b/tmarq/archive/2007/07/21/asp-net-thread-usage-on-iis-7-0
 1. <system.web>
         <applicationPool maxConcurrentRequestsPerCPU="5000" maxConcurrentThreadsPerCPU="0" requestQueueLimit="5000"/>
  </system.web>
+ using appcmd.exe
+appcmd.exe set config -section:system.webServer/asp /limits.scriptTimeout:"00:02:00" /commit:apphost
+appcmd.exe set config -section:system.webServer/asp /limits.queueConnectionTestTime:"00:00:05" /commit:apphost
+appcmd.exe set config -section:system.webServer/asp /limits.requestQueueMax:"1000" /commit:apphost
  
  http://www.iis.net/configreference/system.webserver/asp/limits
  https://www.iis.net/configreference/system.applicationhost/sites/site/limits
