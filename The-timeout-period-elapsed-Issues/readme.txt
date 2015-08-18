@@ -22,3 +22,7 @@ http://blogs.msdn.com/b/tmarq/archive/2007/07/21/asp-net-thread-usage-on-iis-7-0
             requestQueueMax="1000" />
       </asp>
    <system.webServer>
+   using APPCMD
+a. appcmd.exe set config -section:system.applicationHost/sites "/[name='Default Web Site'].limits.maxBandwidth:65536" /commit:apphost
+b. appcmd.exe set config -section:system.applicationHost/sites "/[name='Default Web Site'].limits.maxConnections:1024" /commit:apphost
+c. appcmd.exe set config -section:system.applicationHost/sites "/[name='Default Web Site'].limits.connectionTimeout:00:01:00" /commit:apphost
