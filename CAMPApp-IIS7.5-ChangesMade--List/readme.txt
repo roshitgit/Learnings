@@ -14,4 +14,9 @@
 appcmd.exe set config -section:system.webServer/asp /limits.processorThreadMax:"50" /commit:apphost
 
 4. Modified and applied json compression using appcmd.exe which modified applicationhost.config file on server.
+appcmd path=> %windir%\system32\inetsrv\
+appcmd.exe set config -section:system.webServer/httpCompression /-"dynamicTypes.[mimeType='application/json']"
+appcmd.exe set config -section:system.webServer/httpCompression /+"dynamicTypes.[mimeType='application/json',enabled='True']"
+
+
 
