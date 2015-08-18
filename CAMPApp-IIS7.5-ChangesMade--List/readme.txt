@@ -9,3 +9,9 @@
    => Click on Application Pool
    => Click on advanced settings on the actions panel
    => In the window, change "Queue Length" from default 1000 to 5000
+   
+3. Modified processorThreadMax.
+appcmd.exe set config -section:system.webServer/asp /limits.processorThreadMax:"50" /commit:apphost
+
+4. Modified and applied json compression using appcmd.exe which modified applicationhost.config file on server.
+
