@@ -1,3 +1,5 @@
+** These are the list of changes made on server after migrating to .net 4.5 on win 2008 r2 server (IIS 7.5)
+
 1. Modified "Request Filtering" on website to "4294967295" bytes
    => Click on website
    => Double click "Request Filtering" under "Features View"
@@ -12,6 +14,8 @@
    
 3. Modified processorThreadMax.
 appcmd.exe set config -section:system.webServer/asp /limits.processorThreadMax:"50" /commit:apphost
+   Modified requestQueueMax
+appcmd.exe set config -section:system.webServer/asp /limits.requestQueueMax:"5000" /commit:apphost
 
 4. Modified and applied json compression using appcmd.exe which modified applicationhost.config file on server.
 appcmd path=> %windir%\system32\inetsrv\
