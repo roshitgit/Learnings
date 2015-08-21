@@ -48,8 +48,6 @@ http://www.4byte.cn/question/436557/dapper-reader-disposed-exception.html
 * dapper-net-samples
 https://liangwu.wordpress.com/2012/08/16/dapper-net-samples/
 
-* using-dapper-querymultiple-in-oracle
-http://sohu.io/questions/1119657/using-dapper-querymultiple-in-oracle
 
 generic repository
 * www.contentedcoder.com/2012/12/creating-data-repository-using-dapper.html
