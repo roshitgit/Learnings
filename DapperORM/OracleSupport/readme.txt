@@ -1,5 +1,8 @@
 http://stackoverflow.com/questions/7390015/using-dapper-with-oracle-stored-procedures-which-return-cursors
 
+** good one
+http://stackoverflow.com/questions/26503100/ora-12154-tnscould-not-resolve-the-connect-identifier-specified-oracle-asp-n
+
 * using-dapper-querymultiple-in-oracle
 http://sohu.io/questions/1119657/using-dapper-querymultiple-in-oracle
 http://goobbe.com/questions/6869902/using-dapper-querymultiple-in-oracle
