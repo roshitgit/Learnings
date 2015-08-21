@@ -1,5 +1,8 @@
 http://stackoverflow.com/questions/7390015/using-dapper-with-oracle-stored-procedures-which-return-cursors
 
+** good oracle support
+https://github.com/jonwagner/Insight.Database
+
 ** good one
 http://stackoverflow.com/questions/26503100/ora-12154-tnscould-not-resolve-the-connect-identifier-specified-oracle-asp-n
 
