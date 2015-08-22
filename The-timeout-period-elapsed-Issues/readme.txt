@@ -4,6 +4,9 @@ http://www.smarterasp.net/support/kb/a1540/the-timeout-period-elapsed-prior-to-o
 http://www.codeproject.com/Questions/423588/The-timeout-period-elapsed-prior-to-obtaining-a-co
 http://www.codeguru.com/csharp/.net/net_asp/article.php/c19395/Tuning-Up-ADONET-Connection-Pooling-in-ASPNET-Applications.htm
 
+*************** check this test and figure out ways to test connection pooling and timeouts ------ pretty good
+https://jamessdixon.wordpress.com/2013/01/22/ado-net-and-connection-pooling/
+
 Try out these changes on IIS to eliminate these issues:
 http://securitywing.com/8-effective-ways-to-improve-iis-7-5-performance/
 https://msdn.microsoft.com/en-US/library/Ee377050(v=BTS.70).aspx
