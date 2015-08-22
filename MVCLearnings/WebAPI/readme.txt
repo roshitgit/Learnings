@@ -4,6 +4,9 @@ http://www.dotnetcurry.com/aspnet-mvc/948/webapi-async-performance-aspnet-mvc-ap
 ** web api adding and fixing bindingredirects in web.conlfig
 https://msdn.microsoft.com/en-us/library/2fc472t2.aspx
 
+** good one on web api attribute routing
+https://books.google.co.in/books?id=7aE8BAAAQBAJ&pg=PA54&lpg=PA54&dq=mvc+web+api+parallel+programming&source=bl&ots=fvW1LS-rPC&sig=qYT2ZwYFDqHFTxKejOUwZaHUBB0&hl=en&sa=X&ved=0CDkQ6AEwBTgKahUKEwjx7Ofw3rzHAhWRA44KHcwKAL4#v=onepage&q=mvc%20web%20api%20parallel%20programming&f=false
+
 ** uploading-files-asynchronously
 http://www.codeguru.com/csharp/.net/uploading-files-asynchronously-using-asp.net-web-api.htm
 
