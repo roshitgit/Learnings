@@ -1,3 +1,18 @@
+** difference between async await and TPL
+A) The Task Parallel Library was designed for parallel programming - when you have a lot of work to do and want to split up that work among multiple threads so you can use all the CPU cores. TPL is best suited for CPU-intensive work.
+
+B) Async and await are for asynchronous programming - when you have an operation (or many operations) that will complete in the future, and you want to do other things in the meantime. Async is best suited for I/O-bound work.
+
+There is some overlap. For example, you can treat a parallel computation as an asynchronous operation so it doesn't tie up your UI thread. Also, both the TPL and async/await make use of the Task type, though they use it in very different ways.
+
+note: 
+Asynchronous : Responsiveness.
+TPL (parallel programming) : better Performance with reduction in execution time
+
+
+
+
+
 ** async await best practices
 https://msdn.microsoft.com/en-us/magazine/jj991977.aspx
 
