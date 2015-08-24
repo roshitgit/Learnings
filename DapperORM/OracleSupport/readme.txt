@@ -1,7 +1,13 @@
 http://stackoverflow.com/questions/7390015/using-dapper-with-oracle-stored-procedures-which-return-cursors
 
+**** generic database 
+http://www.codeproject.com/Articles/601307/Generic-Database-Access
+
 ** good oracle support
 https://github.com/jonwagner/Insight.Database
+
+http://coderclubs.com/questions/1119657/using-dapper-querymultiple-in-oracle ---- vgood
+https://code.google.com/p/dapper-dot-net/source/browse/#git%2FDapper%20NET35 ---- vvgood
 
 ** good one
 http://stackoverflow.com/questions/26503100/ora-12154-tnscould-not-resolve-the-connect-identifier-specified-oracle-asp-n
