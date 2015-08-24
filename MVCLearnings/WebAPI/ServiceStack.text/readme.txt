@@ -1,3 +1,14 @@
+*** steps to use servicestack.text in MVC 4+ Web API with Angular/Jquery applications
+step1 => download servicestack.text in MVC app from nuget using "Install-Package ServiceStack.Text"
+step2 => Add formatter & setup formatter as shown in link below
+       http://www.strathweb.com/2013/01/replace-json-net-with-servicestack-text-in-asp-net-web-api
+step3 => If you are using "JObject" while posting object to MVC APIController using Angular/ JQuery,
+       then replace "JObject" with "ServiceStack.Text.JsonObject" in the code.
+       
+       
+       
+
+
 https://servicestack.net/download
 https://servicestack.net/
 http://www.strathweb.com/2013/01/replace-json-net-with-servicestack-text-in-asp-net-web-api/ --- must see and try out
