@@ -1,5 +1,6 @@
 https://github.com/Glimpse/Glimpse/blob/master/source/Glimpse.Mvc3.MusicStore.Sample/Controllers/HomeController.cs#L115-L116
 http://stackoverflow.com/questions/6147121/dapper-and-anonymous-types
+http://www.databaseskill.com/958667/
 
 public class ConnectionProvider
     {
