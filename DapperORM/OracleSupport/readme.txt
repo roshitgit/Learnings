@@ -1,5 +1,8 @@
 http://stackoverflow.com/questions/7390015/using-dapper-with-oracle-stored-procedures-which-return-cursors
 
+*** very good info - must read
+http://www.oracle.com/technetwork/database/windows/downloads/odpmbetainstall-1696475.html
+
 **** generic database 
 http://www.codeproject.com/Articles/601307/Generic-Database-Access
 
