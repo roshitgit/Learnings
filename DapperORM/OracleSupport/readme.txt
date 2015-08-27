@@ -1,5 +1,15 @@
 http://stackoverflow.com/questions/7390015/using-dapper-with-oracle-stored-procedures-which-return-cursors
 
+** must read and implement - dynamically creating repository instance at runtime
+http://iswwwup.com/t/7be578b8e8cc/dapper-query-with-different-database.html
+
+ ** fluent api to connect to any database using dapper
+https://github.com/beardeddev/dapper-fluent
+http://www.mrdustpan.com/command-query-objects-with-dapper
+https://github.com/sakirayan78/Dapper-UnitOfWork-Repository
+https://github.com/bbraithwaite/SmsQuiz/tree/bd4103a8c9a289e39d0807ea9bcd990f1c020df9
+http://www.codeproject.com/Articles/750269/Extending-IDbConnection-and-getting-help-from-Dapp
+
 *** very good info - must read
 http://www.oracle.com/technetwork/database/windows/downloads/odpmbetainstall-1696475.html
 
