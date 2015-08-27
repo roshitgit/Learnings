@@ -1,0 +1,11 @@
+http://blogs.msdn.com/b/spike/archive/2008/12/19/unable-to-find-the-requested-net-framework-data-provider-it-may-not-be-installed.aspx
+http://zeeshanumardotnet.blogspot.com/2011/11/unable-to-find-requested-net-framework.html
+https://answers.laserfiche.com/questions/51324/unable-to-find-requested-net-data-provider-when-configuring-WF-server-at--911
+http://forum.linqpad.net/discussion/371/entity-framework-oracle-unable-to-find-the-requested-net-framework-data-provider-it-may-not-be
+http://forums.asp.net/t/1734918.aspx?Unable+to+find+the+requested+Net+Framework+Data+Provider+It+may+not+be+installed+
+http://stackoverflow.com/questions/17452328/unable-to-find-the-requested-net-framework-data-provider-in-oracle
+http://stackoverflow.com/questions/25389319/odp-net-managed-unable-to-find-requested-net-framework-data-provider
+http://stackoverflow.com/questions/17528252/odp-net-error-unable-to-find-the-requested-net-framework-data-provider
+https://community.oracle.com/thread/2571139
+http://docs.telerik.com/data-access/developers-guide/database-specifics/oracle/data-access-tasks-oracle-execute-sp-result-set
+http://www.wikiguga.com/topic/025c630d6b1bb87684e04ad53d568826
