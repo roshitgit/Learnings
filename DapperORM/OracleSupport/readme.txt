@@ -1,7 +1,15 @@
+**** oracle-stored-procedures-which-return-cursors
 http://stackoverflow.com/questions/7390015/using-dapper-with-oracle-stored-procedures-which-return-cursors
 
 ** must read and implement - dynamically creating repository instance at runtime
 http://iswwwup.com/t/7be578b8e8cc/dapper-query-with-different-database.html
+
+http://stackoverflow.com/questions/17832123/dapper-oracle-clob-type
+
+*** oracle dynamic params
+https://gist.github.com/vijaysg/3096151
+
+http://stackoverflow.com/questions/11048910/oraclecommand-sql-parameters-binding
 
  ** fluent api to connect to any database using dapper
 https://github.com/beardeddev/dapper-fluent
