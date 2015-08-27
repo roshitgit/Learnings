@@ -3,6 +3,21 @@ With Dapper Install other packages also
 * install-package Dapper.Contrib
 * install-package Dapper.Extensions
 
+http://devpacks.com/nuget/tag/dapper -- all package list
+
+** dapper with transaction support
+http://blog.akra-tech.com/post/C
+
+http://coderissues.com/questions/31246977/dal-with-dapper-and-c-sharp
+
+http://www.nudoq.org/#!/Packages/Dapper.Rainbow.PostgreSql
+
+**** all tests
+https://github.com/StackExchange/dapper-dot-net/blob/master/Tests/Tests.cs ------ vgood
+
+*****DapperRainbow-VS-DapperContrib
+http://en.efreedom.net/Question/1-10030285/DapperRainbow-VS-DapperContrib
+
 * Dapper.net how to create a map
 http://www.kacode.com/v294921-.html
 https://github.com/randyburden/Slapper.AutoMapper
@@ -22,7 +37,7 @@ http://www.ciiycode.com/0iyJHqqWPqPW/dapper-multi-mapping-with-querymultiple
 http://tiku.io/questions/1079788/dapper-gridreader-already-disposed-error
 
 *StackExchange - dapper-dot-net
-https://github.com/StackExchange/dapper-dot-net
+https://github.com/StackExchange/dapper-dot-net ------- all about dapper
 
 * net-microorms--dapper-petapoco-and-more
 http://www.nullskull.com/a/1659/net-microorms--dapper-petapoco-and-more.aspx
