@@ -10,6 +10,8 @@ https://community.oracle.com/thread/2571139
 http://docs.telerik.com/data-access/developers-guide/database-specifics/oracle/data-access-tasks-oracle-execute-sp-result-set
 http://www.wikiguga.com/topic/025c630d6b1bb87684e04ad53d568826
 
+https://docs.oracle.com/cd/B28359_01/win.111/b28375/featConfig.htm   ---- vgood must try
+
 https://msdn.microsoft.com/en-us/library/dd0w4a2z(v=vs.90).aspx
 http://www.oracle.com/webfolder/technetwork/tutorials/obe/db/hol08/dotnet/getstarted-c/getstarted_c_otn.htm
 http://docs.oracle.com/cd/E48297_01/doc/win.121/e41125/featConfig.htm
