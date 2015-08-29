@@ -11,6 +11,8 @@ http://docs.telerik.com/data-access/developers-guide/database-specifics/oracle/d
 http://www.wikiguga.com/topic/025c630d6b1bb87684e04ad53d568826
 
 https://docs.oracle.com/cd/B28359_01/win.111/b28375/featConfig.htm   ---- vgood must try
+https://blog.vijay.name/2012/07/dapper-micro-orm-for-oracle-and-microsoft-net/ ---- vgood
+http://www.programask.com/question_41211013_dapper-and-varchars ---- vgood
 http://cloudbings.com/questions/1173281/dapper-and-ormlite-idbconnectionfactory-in-servicestack
 
 https://msdn.microsoft.com/en-us/library/dd0w4a2z(v=vs.90).aspx
