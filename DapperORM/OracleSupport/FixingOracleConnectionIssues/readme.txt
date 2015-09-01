@@ -10,6 +10,16 @@ https://community.oracle.com/thread/2571139
 http://docs.telerik.com/data-access/developers-guide/database-specifics/oracle/data-access-tasks-oracle-execute-sp-result-set
 http://www.wikiguga.com/topic/025c630d6b1bb87684e04ad53d568826
 
+** generic dbfactory
+http://stackoverflow.com/questions/9218847/how-do-i-handle-database-connections-with-dapper-in-net
+http://stackoverflow.com/questions/23023534/managing-connection-with-non-buffered-queries-in-dapper
+http://www.symbolsource.org/Public/Metadata/NuGet/Project/DapperContext/0.1.1-alpha/Release/.NETFramework,Version%3Dv3.5/DapperContext/DapperContext/DbConnectionFactory.cs?ImageName=DapperContext
+https://github.com/beardeddev/dapper-fluent
+
+-- vgood. passing parameters
+http://www.codeproject.com/Articles/55890/Don-t-hard-code-your-DataProviders 
+http://www.codeproject.com/Articles/63147/Handling-database-connections-more-easily
+
 https://docs.oracle.com/cd/B28359_01/win.111/b28375/featConfig.htm   ---- vgood must try
 https://blog.vijay.name/2012/07/dapper-micro-orm-for-oracle-and-microsoft-net/ ---- vgood
 http://www.programask.com/question_41211013_dapper-and-varchars ---- vgood
