@@ -1,3 +1,6 @@
+*** must try using dapper with oracle 11g
+http://coder11.com/2014/01/27/dapper-net/
+
 **** oracle-stored-procedures-which-return-cursors
 http://stackoverflow.com/questions/7390015/using-dapper-with-oracle-stored-procedures-which-return-cursors
 
@@ -43,7 +46,6 @@ http://www.oracle.com/technetwork/issue-archive/2014/14-mar/o24odp-2147205.html
 http://docs.oracle.com/cd/E51173_01/win.122/e17732/intro005.htm#ODPNT148
 http://docs.oracle.com/cd/E51173_01/win.122/e17732/intro003.htm#ODPNT137
 http://stackoverflow.com/questions/17456024/why-would-oracle-manageddataaccess-not-work-when-oracle-dataaccess-does
-http://coder11.com/2014/01/27/dapper-net/
 
 http://goobbe.com/questions/7417196/using-datareader-in-dapper-with-oracle
 
