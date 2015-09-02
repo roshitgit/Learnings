@@ -7,3 +7,6 @@ http://www.asp.net/mvc/overview/performance/using-asynchronous-methods-in-aspnet
 http://www.joesauve.com/async-dapper-and-async-sql-connection-management/ ---very good must try
 
 https://gist.github.com/panesofglass/5212462 --- perfect. must try
+
+*** SqlMapperExtensionsAsync -- must see and try
+https://github.com/StackExchange/dapper-dot-net/blob/master/Dapper.Contrib%20NET45/SqlMapperExtensionsAsync.cs
