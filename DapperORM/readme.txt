@@ -3,6 +3,9 @@ With Dapper Install other packages also
 * install-package Dapper.Contrib
 * install-package Dapper.Extensions
 
+** using dapper contrib
+https://github.com/xliang/dapper-net-sample
+
 http://devpacks.com/nuget/tag/dapper -- all package list
 
 ** dapper with transaction support
