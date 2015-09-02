@@ -3,6 +3,12 @@ With Dapper Install other packages also
 * install-package Dapper.Contrib
 * install-package Dapper.Extensions
 
+***Why doesn't Dapper dot net open and close the connection itself?
+http://stackoverflow.com/questions/12628983/why-doesnt-dapper-dot-net-open-and-close-the-connection-itself
+
+****non-buffered-queries-in-dapper
+http://stackoverflow.com/questions/23023534/managing-connection-with-non-buffered-queries-in-dapper
+
 ** using dapper contrib
 https://github.com/xliang/dapper-net-sample
 
