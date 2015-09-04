@@ -7,6 +7,8 @@ http://www.codeguru.com/csharp/.net/net_asp/article.php/c19395/Tuning-Up-ADONET-
 ******* perfect way to implement idisposable
 https://msdn.microsoft.com/en-us/library/ff647790.aspx
 
+http://www.codeproject.com/Articles/63147/Handling-database-connections-more-easily
+
 ** vgood- must learn
 http://blogs.msdn.com/b/spike/archive/2008/07/31/timeout-expired-the-timeout-period-elapsed-prior-to-completion-of-the-operation-or-the-server-is-not-responding.aspx
 
