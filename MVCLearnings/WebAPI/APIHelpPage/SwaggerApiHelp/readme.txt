@@ -1,3 +1,9 @@
+** Swashbuckle custom index page for UI
+https://github.com/domaindrivendev/Swashbuckle/blob/master/Swashbuckle.Core/SwaggerUi/CustomAssets/index.html
+
+****** vvgood example--- refer this all the time
+https://github.com/domaindrivendev/Swashbuckle/blob/master/Swashbuckle.Core/Application/SwaggerUiConfig.cs
+
 *** using swagger for api documentation in mvc web api
 http://bitoftech.net/2014/08/25/asp-net-web-api-documentation-using-swagger/
 https://github.com/tjoudeh/WebApiSwagger
@@ -50,10 +56,6 @@ https://github.com/domaindrivendev/Swashbuckle#swagger-ui-showing-cant-read-swag
 
 ** Swashbuckle full documentation
 https://github.com/domaindrivendev/Swashbuckle
-
-** Swashbuckle custom index page for UI
-https://github.com/domaindrivendev/Swashbuckle/blob/master/Swashbuckle.Core/SwaggerUi/CustomAssets/index.html
-https://github.com/domaindrivendev/Swashbuckle/blob/master/Swashbuckle.Core/Application/SwaggerUiConfig.cs
 
 ** swashbuckle and errors with bindingredirect
 http://stackoverflow.com/questions/25407672/step-by-step-to-run-swashbuckle-on-asp-net-web-api
