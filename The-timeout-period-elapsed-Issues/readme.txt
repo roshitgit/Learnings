@@ -4,6 +4,9 @@ http://www.smarterasp.net/support/kb/a1540/the-timeout-period-elapsed-prior-to-o
 http://www.codeproject.com/Questions/423588/The-timeout-period-elapsed-prior-to-obtaining-a-co
 http://www.codeguru.com/csharp/.net/net_asp/article.php/c19395/Tuning-Up-ADONET-Connection-Pooling-in-ASPNET-Applications.htm
 
+******* perfect way to implement idisposable
+https://msdn.microsoft.com/en-us/library/ff647790.aspx
+
 ** vgood- must learn
 http://blogs.msdn.com/b/spike/archive/2008/07/31/timeout-expired-the-timeout-period-elapsed-prior-to-completion-of-the-operation-or-the-server-is-not-responding.aspx
 
