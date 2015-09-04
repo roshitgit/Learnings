@@ -1,6 +1,9 @@
 ** Swashbuckle custom index page for UI
 https://github.com/domaindrivendev/Swashbuckle/blob/master/Swashbuckle.Core/SwaggerUi/CustomAssets/index.html
 
+*** list of all swagger custom assets
+https://github.com/domaindrivendev/Swashbuckle/tree/master/Swashbuckle.Core/SwaggerUi/CustomAssets
+
 ****** vvgood example--- refer this all the time
 https://github.com/domaindrivendev/Swashbuckle/blob/master/Swashbuckle.Core/Application/SwaggerUiConfig.cs
 
