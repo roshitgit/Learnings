@@ -35,6 +35,10 @@ http://www.paraesthesia.com/archive/2015/02/13/advanced-object-serialization-in-
 https://github.com/domaindrivendev/Swashbuckle/blob/master/Swashbuckle.Dummy.Core/App_Start/SwaggerConfig.cs
 https://github.com/domaindrivendev/Swashbuckle/blob/swagger_2.0/README.md
 https://github.com/domaindrivendev/Swashbuckle/blob/22fedb920951b1e9f0423ccc548f90c8a023ab5c/Swashbuckle.Core/Bootstrapper.cs--vgood(must try)
+
+** custom route
+https://github.com/domaindrivendev/Swashbuckle/issues/299
+https://github.com/domaindrivendev/Swashbuckle/issues/481
 http://stackoverflow.com/questions/30121364/custom-route-for-swashbuckle
 https://github.com/domaindrivendev/Swashbuckle#custom-routes --- perfect to change name "swagger" in url to something else
 http://stackoverflow.com/questions/25796951/can-the-base-url-change-in-swagger
