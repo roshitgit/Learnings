@@ -4,6 +4,11 @@ https://github.com/domaindrivendev/Swashbuckle/blob/master/Swashbuckle.Core/Swag
 *** list of all swagger custom assets
 https://github.com/domaindrivendev/Swashbuckle/tree/master/Swashbuckle.Core/SwaggerUi/CustomAssets
 
+http://stackoverflow.com/questions/31636969/swagger-swashbuckle-hide-header/32260771#32260771
+
+** hide header
+https://github.com/domaindrivendev/Swashbuckle/issues/476
+
 ****** vvgood example--- refer this all the time
 https://github.com/domaindrivendev/Swashbuckle/blob/master/Swashbuckle.Core/Application/SwaggerUiConfig.cs
 
