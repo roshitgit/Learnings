@@ -7,6 +7,9 @@ http://blogs.msdn.com/b/taylaf/archive/2010/02/23/introducing-the-tfsconnection-
 https://msdn.microsoft.com/en-us/library/bb286958.aspx
 https://msdn.microsoft.com/en-us/library/bb130146.aspx
 https://www.visualstudio.com/integrate/api/git/pull-requests
+
+** TFS API
+https://tfsapi.codeplex.com/releases/view/106884
 https://tfsapi.codeplex.com
 
 http://www.codeproject.com/Articles/865357/The-TFS-plus-Git-API-Disaster
