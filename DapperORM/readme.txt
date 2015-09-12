@@ -9,6 +9,9 @@ http://stackoverflow.com/questions/12628983/why-doesnt-dapper-dot-net-open-and-c
 ****non-buffered-queries-in-dapper
 http://stackoverflow.com/questions/23023534/managing-connection-with-non-buffered-queries-in-dapper
 
+*** using output params and return values with dapper
+http://stackoverflow.com/questions/22353881/passing-output-parameters-to-stored-procedure-using-dapper-in-c-sharp-code
+
 ** using dapper contrib
 https://github.com/xliang/dapper-net-sample
 
