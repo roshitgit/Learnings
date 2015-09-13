@@ -4,3 +4,6 @@ http://stackoverflow.com/questions/16521471/relation-between-commonjs-amd-and-re
 
 **Learning JavaScript Design Patterns
 http://addyosmani.com/resources/essentialjsdesignpatterns/book/#detailcommonjs
+
+** very good example. must try
+http://davidbcalhoun.com/2014/what-is-amd-commonjs-and-umd/
