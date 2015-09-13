@@ -5,6 +5,7 @@ https://github.com/domaindrivendev/Swashbuckle/blob/master/Swashbuckle.Core/Swag
 https://github.com/domaindrivendev/Swashbuckle/tree/master/Swashbuckle.Core/SwaggerUi/CustomAssets
 
 http://stackoverflow.com/questions/31636969/swagger-swashbuckle-hide-header/32260771#32260771
+http://blog.greatrexpectations.com/2015/03/18/custom-operation-names-with-swashbuckle-5-0/
 
 ** hide header
 https://github.com/domaindrivendev/Swashbuckle/issues/476
@@ -13,7 +14,8 @@ https://github.com/domaindrivendev/Swashbuckle/issues/476
 https://github.com/domaindrivendev/Swashbuckle/blob/master/Swashbuckle.Core/Application/SwaggerUiConfig.cs
 
 *** using swagger for api documentation in mvc web api
-http://bitoftech.net/2014/08/25/asp-net-web-api-documentation-using-swagger/
+http://bitoftech.net/2014/08/25/asp-net-web-api-documentation-using-swagger/   ------ very good
+
 https://github.com/tjoudeh/WebApiSwagger
 http://www.wmpratt.com/swagger-and-asp-net-web-api-part-1/
 http://setiasunny.blogspot.com/2015/01/web-api-help-page-with-swashbuckler.html
