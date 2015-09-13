@@ -1,4 +1,4 @@
-*** pass JObject via HTTPPost to MVC controller
+*** pass JObject via HTTPPost to MVC controller ------------------- very good must try. check type conversion
 http://geekswithblogs.net/Aligned/archive/2013/01/17/using-json.net-jobject-with-webapi-gets.aspx
 
 ** web api load test
