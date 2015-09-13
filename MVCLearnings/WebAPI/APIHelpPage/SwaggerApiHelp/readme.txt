@@ -7,6 +7,10 @@ https://github.com/domaindrivendev/Swashbuckle/tree/master/Swashbuckle.Core/Swag
 http://stackoverflow.com/questions/31636969/swagger-swashbuckle-hide-header/32260771#32260771
 http://blog.greatrexpectations.com/2015/03/18/custom-operation-names-with-swashbuckle-5-0/
 
+*** swashbuckle 5.0 source code
+https://github.com/domaindrivendev/Swashbuckle
+https://github.com/domaindrivendev/Swashbuckle/tree/6229f556354e059dfece704702b1c2fc2553bf82
+
 *** sample xml comments in mvc controller
 https://github.com/tjoudeh/WebApiSwagger/blob/master/WebApiSwagger/Controllers/StudentsController.cs
 http://www.rubydoc.info/gems/swagger-docs/0.1.4/file/README.md
