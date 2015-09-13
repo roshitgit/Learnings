@@ -9,6 +9,9 @@ http://blog.greatrexpectations.com/2015/03/18/custom-operation-names-with-swashb
 
 *** sample xml comments in mvc controller
 https://github.com/tjoudeh/WebApiSwagger/blob/master/WebApiSwagger/Controllers/StudentsController.cs
+http://www.rubydoc.info/gems/swagger-docs/0.1.4/file/README.md
+
+http://www.khalidabuhakmeh.com/fix-swashbuckle-and-swaggers-duplicate-parameters-issue-for-webapi
 
 ** hide header
 https://github.com/domaindrivendev/Swashbuckle/issues/476
