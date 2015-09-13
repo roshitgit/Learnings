@@ -57,6 +57,8 @@ http://petstore.swagger.io/
 ** good youtube videos
 https://www.youtube.com/watch?v=NfeTGsuwCBw
 
+https://github.com/domaindrivendev/Swashbuckle/blob/6229f556354e059dfece704702b1c2fc2553bf82/Swashbuckle.Core/Application/HttpConfigurationExtensions.cs ------- very good for custom routes
+
 ** customizing swagger ui
 https://www.youtube.com/watch?v=Wk5fCrZh7Tc
 
