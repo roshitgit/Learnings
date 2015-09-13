@@ -7,6 +7,9 @@ https://github.com/domaindrivendev/Swashbuckle/tree/master/Swashbuckle.Core/Swag
 http://stackoverflow.com/questions/31636969/swagger-swashbuckle-hide-header/32260771#32260771
 http://blog.greatrexpectations.com/2015/03/18/custom-operation-names-with-swashbuckle-5-0/
 
+*** sample xml comments in mvc controller
+https://github.com/tjoudeh/WebApiSwagger/blob/master/WebApiSwagger/Controllers/StudentsController.cs
+
 ** hide header
 https://github.com/domaindrivendev/Swashbuckle/issues/476
 
