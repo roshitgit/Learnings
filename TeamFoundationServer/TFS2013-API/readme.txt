@@ -14,6 +14,7 @@ https://tfsapi.codeplex.com
 
 http://www.codeproject.com/Articles/865357/The-TFS-plus-Git-API-Disaster
 http://blogs.microsoft.co.il/shair/2012/05/28/tfs-api-part-47-vs11-manage-iterations-dates/ ---- vgood
+http://adamprescott.net/2009/12/22/link-tfs-work-items-programmatically/ --- vgood
 
 http://stackoverflow.com/questions/9266437/tfs-api-how-to-fetch-work-items-from-specific-team-project
 
