@@ -9,6 +9,10 @@ https://msdn.microsoft.com/en-us/library/bb130146.aspx
 https://www.visualstudio.com/integrate/api/git/pull-requests
 
 ** TFS API
+http://blogs.microsoft.co.il/shair/tfs-api  -------- very good examples
+http://blogs.microsoft.co.il/shair/tfs-api/1
+http://blogs.microsoft.co.il/shair/tfs-api/2
+
 https://tfsapi.codeplex.com/releases/view/106884
 https://tfsapi.codeplex.com
 
