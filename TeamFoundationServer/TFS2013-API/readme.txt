@@ -13,6 +13,11 @@ http://blogs.microsoft.co.il/shair/tag/tfs-api  -------- very good examples
 http://blogs.microsoft.co.il/shair/tag/tfs-api/page/2/
 http://blogs.microsoft.co.il/shair/tag/tfs-api/page/3/
 
+https://mikesdotnet.wordpress.com/2013/06/24/querying-the-tfs-work-item-store-through-the-api/
+http://stackoverflow.com/questions/9266437/tfs-api-how-to-fetch-work-items-from-specific-team-project
+
+http://geekswithblogs.net/TarunArora/archive/2011/07/10/tfs-2010-sdk-get-projects-iterations-area-path-queries-and.aspx --- -check this out
+
 https://tfsapi.codeplex.com/releases/view/106884
 https://tfsapi.codeplex.com
 
