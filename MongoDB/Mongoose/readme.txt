@@ -15,5 +15,11 @@ https://scotch.io/tutorials/using-mongoosejs-in-node-js-and-mongodb-applications
 *** all about mongodb and mongoose
 http://www.slideshare.net/YnonPerek/getting-started-with-mongodb-and-mongoose
 
+** using dbref
+https://github.com/goulash1971/mongoose-dbref
+
+** perfect example to use joins
+http://stackoverflow.com/questions/14363065/mongoose-mongodb-query-joins-but-i-come-from-a-sql-background
+
 using async.js
 http://codereview.stackexchange.com/questions/44776/optimizing-async-joins-for-mongodb-mongoose-using-async-js
