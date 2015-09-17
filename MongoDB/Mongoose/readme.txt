@@ -12,5 +12,8 @@ https://alexanderzeitler.com/articles/mongoose-referencing-schema-in-properties-
 http://blog.mongodb.org/post/52299826008/the-mean-stack-mistakes-youre-probably-making
 https://scotch.io/tutorials/using-mongoosejs-in-node-js-and-mongodb-applications
 
+*** all about mongodb and mongoose
+http://www.slideshare.net/YnonPerek/getting-started-with-mongodb-and-mongoose
+
 using async.js
 http://codereview.stackexchange.com/questions/44776/optimizing-async-joins-for-mongodb-mongoose-using-async-js
