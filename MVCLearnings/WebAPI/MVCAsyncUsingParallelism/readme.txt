@@ -4,6 +4,9 @@ https://github.com/jskeet/DemoCode/tree/master/AsyncIntro
 **  understand deadlocks in async --- must read
 http://blog.stephencleary.com/2012/07/dont-block-on-async-code.html
 
+*** async await FAQ
+http://blogs.msdn.com/b/pfxteam/archive/2012/04/12/async-await-faq.aspx
+
 *** good example to use async / await
 http://stackoverflow.com/questions/17145028/asp-net-c5-asynchronous-web-applications-using-async-await
 
