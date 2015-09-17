@@ -1,6 +1,9 @@
 ** all download versions
 https://code.angularjs.org/
 
+** using constant in angular
+http://www.dotnet-tricks.com/Tutorial/angularjs/W69E040815-CRUD-Operations-with-AngularJS,-RequireJS-and-WebAPI.html
+
 ** cool angular tables
 http://angularjs4u.com/tables/top-10-angularjs-table-demos/
 http://www.jitendrazaa.com/blog/webtech/web/pagination-and-sorting-of-data-table-using-angularjs/
