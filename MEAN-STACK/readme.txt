@@ -1,5 +1,8 @@
 ** tutorial
 https://thinkster.io/mean-stack-tutorial/
+http://www.bradoncode.com/tutorials/learn-mean-stack-tutorial/
+http://adrianmejia.com/blog/2014/10/03/mean-stack-tutorial-mongodb-expressjs-angularjs-nodejs/
+https://github.com/bbraithwaite/NorthwindNode
 
 ** MEAN.IO
 http://mean.io/#!/
