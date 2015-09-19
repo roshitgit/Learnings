@@ -10,8 +10,11 @@ http://tiku.io/questions/3153632/how-do-you-do-a-join-on-an-array-in-mongoose-mo
 
 http://stackoverflow.com/questions/13026486/how-to-populate-a-sub-document-in-mongoose-after-creating-it --- vgood
 
-*** good samples
+*** good samples--github projects
 https://github.com/Automattic/mongoose
+https://github.com/Cron-J/Hapi-Mongoose-Angular-Node.js
+https://github.com/Hyra/Frickle
+https://github.com/jakeoverall/theFullestStack
 
 *** using autopopulate
 https://www.npmjs.com/package/mongoose-autopopulate
