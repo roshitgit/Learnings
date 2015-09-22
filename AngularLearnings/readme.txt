@@ -1,6 +1,9 @@
 ** all download versions
 https://code.angularjs.org/
 
+*** angular material design (animation effects)
+https://material.angularjs.org/latest/#/
+
 ** using constant in angular
 http://www.dotnet-tricks.com/Tutorial/angularjs/W69E040815-CRUD-Operations-with-AngularJS,-RequireJS-and-WebAPI.html
 
