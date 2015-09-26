@@ -7,6 +7,9 @@ https://material.angularjs.org/latest/#/
 ** using constant in angular
 http://www.dotnet-tricks.com/Tutorial/angularjs/W69E040815-CRUD-Operations-with-AngularJS,-RequireJS-and-WebAPI.html
 
+** good organization of angular code
+https://github.com/techdev-solutions/jaxenter-showcase-angular
+
 ** cool angular tables
 http://angularjs4u.com/tables/top-10-angularjs-table-demos/
 http://www.jitendrazaa.com/blog/webtech/web/pagination-and-sorting-of-data-table-using-angularjs/
