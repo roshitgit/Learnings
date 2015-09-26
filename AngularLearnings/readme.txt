@@ -9,6 +9,7 @@ http://www.dotnet-tricks.com/Tutorial/angularjs/W69E040815-CRUD-Operations-with-
 
 ** good organization of angular code
 https://github.com/techdev-solutions/jaxenter-showcase-angular
+https://jaxenter.com/building-modular-applications-with-angularjs-115590.html --- github code explanation
 
 ** cool angular tables
 http://angularjs4u.com/tables/top-10-angularjs-table-demos/
