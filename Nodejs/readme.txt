@@ -6,3 +6,6 @@ http://www.devsaran.com/blog/10-best-nodejs-frameworks-developers
 
 ** nodejs Vs traditional web apps
 http://www.dotnetcurry.com/aspnet-mvc/1135/using-nodejs-express-mongodb-meanstack-in-aspnet-mvc
+
+** best example to learn nodejs
+https://scotch.io/tutorials/creating-a-single-page-todo-app-with-node-and-angular
