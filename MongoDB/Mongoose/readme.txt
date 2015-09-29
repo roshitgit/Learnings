@@ -8,6 +8,15 @@ http://www.kdelemme.com/2014/07/28/read-multiple-collections-mongodb-avoid-callb
 http://w3facility.org/question/mongodb-mongoose-join-collections/
 http://tiku.io/questions/3153632/how-do-you-do-a-join-on-an-array-in-mongoose-mongodb-with-node-js
 
+** good example for joins
+https://coderwall.com/p/6v5rcw/querying-sub-documents-and-sub-sub-documents-in-mongoose
+https://github.com/AlexZeitler/mongoose-schema-reference-sample
+https://books.google.co.in/books?id=RyEHBAAAQBAJ&pg=PA157&lpg=PA157&dq=node+mongoose+joins&source=bl&ots=DRVOMOBNFV&sig=uVDLHP62GQiDUXQfQo8NLP0Chos&hl=en&sa=X&ved=0CEgQ6AEwBzgKahUKEwjUub3r4ZzIAhWDUY4KHZm8CUA#v=onepage&q=node%20mongoose%20joins&f=false
+https://gist.github.com/kdelemme/9659364
+http://www.javabeat.net/mongoose-nodejs-mongodb/
+http://www.slideshare.net/yuriybogomolov/ybo-mongo-dbmeetup
+http://codereview.stackexchange.com/questions/42171/seeding-mongodb-using-mongoose-models
+
 http://stackoverflow.com/questions/13026486/how-to-populate-a-sub-document-in-mongoose-after-creating-it --- vgood
 
 *** good samples--github projects
