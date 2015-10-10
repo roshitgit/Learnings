@@ -7,6 +7,9 @@ http://www.codeproject.com/Tips/661754/Using-Parallel-Extension-Extras-with-SqlC
 ** parallel for loop
 http://www.aspsnippets.com/Articles/Parallelism---Parallel-Task-Execution-in-.Net-4.0.aspx
 
+** efficient parallel for ---- vgoood
+http://tipsandtricks.runicsoft.com/CSharp/ParallelClass.html
+
 http://dotnetcodr.com/2013/01/03/async-controllers-and-actions-in-net4-5-mvc4-with-c/
 
 ** TPL good examples and explanation
