@@ -9,5 +9,11 @@ http://www.aspsnippets.com/Articles/Parallelism---Parallel-Task-Execution-in-.Ne
 
 http://dotnetcodr.com/2013/01/03/async-controllers-and-actions-in-net4-5-mvc4-with-c/
 
+** TPL good examples and explanation
+http://www.codeproject.com/Articles/161434/Task-Parallel-Library-of-n
+
+** using threadlocalstorage
+http://weblogs.asp.net/pawanmishra/understanding-thread-local-storage-tls-in-tpl
+
 **The .NET 4.5 async/await feature in Promise and Practice
 https://www.simple-talk.com/dotnet/.net-framework/the-.net-4.5-asyncawait-feature-in-promise-and-practice/
