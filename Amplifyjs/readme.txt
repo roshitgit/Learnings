@@ -10,6 +10,9 @@ http://stackoverflow.com/questions/13313439/amplifyjs-decoders-and-ajax-beforese
 
 http://devdays.com/2014/06/05/single-page-apps-retrieving-caching-server-requests-using-amplifyjs/
 
+** polling service with amplify and requirejs
+http://www.stefanprodan.com/2012/09/ajax-polling-with-amplify-and-requirejs-for-asp-net-mvc/
+
 ***** AmplifyJS takes care of detecting the browser capabilities and using the appropriate storage mechanism that is supported.
 http://www.aliaspooryorik.com/blog/index.cfm/e/posts.details/post/caching-ajax-data-locally-with-amplifyjs-395
 
