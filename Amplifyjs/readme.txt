@@ -1,6 +1,7 @@
 **  ajax requests
 http://amplifyjs.com/api/request/
 
+http://www.scriptscoop.com/t/ad77912d38b3/jquery-amplifyjs-decoders-and-ajax-beforesend.html ------ vgood
 http://elijahmanor.com/mocking-jquery-ajax-with-amplifyjs-request/
 
 ** amplify and status code
