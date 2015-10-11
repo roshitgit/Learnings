@@ -6,6 +6,8 @@ http://www.codeproject.com/Tips/661754/Using-Parallel-Extension-Extras-with-SqlC
 
 ** parallel for loop
 http://www.aspsnippets.com/Articles/Parallelism---Parallel-Task-Execution-in-.Net-4.0.aspx
+http://www.robmulcahey.com/blog/2008/05/30/ParallelForAggregate.aspx ---- vgoood
+http://davefancher.com/2011/03/10/parallel-programming-in-net-4/ ------- vgood
 
 ** efficient parallel for ---- vgoood
 http://tipsandtricks.runicsoft.com/CSharp/ParallelClass.html
