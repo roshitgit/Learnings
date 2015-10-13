@@ -1,6 +1,9 @@
 *** pass JObject via HTTPPost to MVC controller ------------------- very good must try. check type conversion
 http://geekswithblogs.net/Aligned/archive/2013/01/17/using-json.net-jobject-with-webapi-gets.aspx
 
+** self host web api
+http://www.asp.net/web-api/overview/older-versions/self-host-a-web-api
+
 ** web api load test
 http://www.dotnetcurry.com/aspnet-mvc/948/webapi-async-performance-aspnet-mvc-application
 
