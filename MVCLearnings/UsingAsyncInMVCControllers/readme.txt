@@ -12,6 +12,7 @@ TPL (parallel programming) : better Performance with reduction in execution time
 
 *** good read
 https://msdn.microsoft.com/en-us/library/hh211418(v=vs.110).aspx
+https://github.com/jskeet/DemoCode/tree/master/AsyncIntro  
 http://www.tagwith.com/question_4026503_some-questions-concerning-the-combination-of-ado-net-dapper-queryasync-and-glim
 
 
