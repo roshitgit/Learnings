@@ -1,6 +1,10 @@
 *** Parallel Programming in Asp.net MVC using Task Parallel Library
 http://vizagtechie.blogspot.in/2013/03/parallel-programming-in-aspnet-mvc.html
 
+** efficient parallel for
+https://msdn.microsoft.com/en-us/library/dd997393(v=vs.110).aspx
+https://pragmaticpattern.wordpress.com/2013/07/03/c-parallel-programming-increment-variable-safely-across-multiple-threads/
+
 *** parallelism and handling sql connection thread safe issues
 http://www.codeproject.com/Tips/661754/Using-Parallel-Extension-Extras-with-SqlConnection
 
