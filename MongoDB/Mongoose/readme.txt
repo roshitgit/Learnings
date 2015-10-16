@@ -1,5 +1,7 @@
 
 ** joins using mongoose
+https://github.com/goulash1971/mongoose-joins
+https://github.com/ironboy/mongoosepopulate
 http://mongoosejs.com/docs/populate.html
 http://start.jcolemorrison.com/mongodb-joins-with-mongoosejs/
 http://www.luiselizondo.net/joins-on-mongodb-with-mongoose-and-nodejs/
