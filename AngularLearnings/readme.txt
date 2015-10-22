@@ -1,6 +1,14 @@
 ** all download versions
 https://code.angularjs.org/
 
+*** chrome help
+https://developer.chrome.com/devtools/docs/timeline
+
+*** angular do's and dont's
+http://www.toptal.com/angular-js/top-18-most-common-angularjs-developer-mistakes
+http://clintberry.com/2013/modular-angularjs-application-design/
+http://ruoyusun.com/2013/05/25/things-i-wish-i-were-told-about-angular-js.html
+
 *** angular material design (animation effects)
 https://material.angularjs.org/latest/#/
 
