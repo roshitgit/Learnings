@@ -10,3 +10,7 @@ http://stackoverflow.com/questions/26354021/injecting-ui-router-resolve-to-direc
 http://stackoverflow.com/questions/29178305/injecting-resolves-into-directive-controllers
 https://scotch.io/tutorials/making-skinny-angularjs-controllers
 http://milestone.topics.it/2014/03/angularjs-ui-router-and-breadcrumbs.html
+
+** good articles on directives
+http://www.ng-newsletter.com/posts/directives.html
+http://www.tutorialspoint.com/angularjs/angularjs_custom_directives.htm
