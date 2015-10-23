@@ -7,6 +7,9 @@ http://www.sitepoint.com/understanding-requirejs-for-effective-javascript-module
 
 https://cdnjs.com/libraries/backbone.js/tutorials/organizing-backbone-using-modules
 
+*** very good example to use require with angular
+https://www.youtube.com/watch?v=Id9ryNSjVgI ---- must try
+
 ** angular - require seed
 https://www.startersquad.com/blog/angularjs-requirejs/
 https://github.com/jcreamer898/requirejs-angular-starter
