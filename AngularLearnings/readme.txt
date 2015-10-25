@@ -1,6 +1,9 @@
 ** all download versions
 https://code.angularjs.org/
 
+** angular ui router (using $stateProvider) very good example
+http://joelhooks.com/blog/2013/07/22/the-basics-of-using-ui-router-with-angularjs/
+
 *** chrome help
 https://developer.chrome.com/devtools/docs/timeline
 
