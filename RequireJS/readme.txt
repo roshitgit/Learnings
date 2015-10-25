@@ -10,3 +10,6 @@ http://robdodson.me/a-require-dot-js-multipage-shimmed-site-how-to/
 http://orizens.com/wp/topics/a-journey-from-require-js-to-browserify/
 
 http://stackoverflow.com/questions/16259098/cant-load-bootstrap-with-requirejs --- download with order requirejs plugin
+
+Shim Scripts Loader Using jQuery Mobile, Backbone.js and Require.js   ----- vgood way showing usage of exports
+https://www.youtube.com/watch?v=TCPtEGlYuEQ&index=31&list=PLeASnFxIxx-KL6l-lIX5A5HEfG0PLxEfI
