@@ -29,7 +29,7 @@ http://bitoftech.net/2014/08/25/asp-net-web-api-documentation-using-swagger/   -
 https://github.com/tjoudeh/WebApiSwagger
 http://www.wmpratt.com/swagger-and-asp-net-web-api-part-1/
 http://setiasunny.blogspot.com/2015/01/web-api-help-page-with-swashbuckler.html
-http://mattfrear.com/2015/04/21/generating-swagger-example-responses-with-swashbuckle/
+http://mattfrear.com/2015/04/21/generating-swagger-example-responses-with-swashbuckle/  --- very good
 https://github.com/domaindrivendev/Swashbuckle/issues/184
 https://github.com/domaindrivendev/Ahoy/tree/master/test/WebSites/BasicApi
 https://alexanderzeitler.com/articles/Deploying-a-ASP-NET-MVC-6-API-as-Azure-API-App-in-Azure-App-Services/
