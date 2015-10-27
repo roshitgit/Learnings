@@ -3,6 +3,9 @@ With Dapper Install other packages also
 * install-package Dapper.Contrib
 * install-package Dapper.Extensions
 
+** usefule tools to sue with dapper - must see and implement
+http://thesenilecoder.blogspot.com/2012/08/dapper-dot-net-dapperwrapper-and.html
+
 *** generalize dapper query
 http://goobbe.com/questions/7167404/generalize-dapper-query-within-a-delegate-func-or-action-c-sharp
 
