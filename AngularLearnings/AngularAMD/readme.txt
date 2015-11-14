@@ -3,6 +3,9 @@ http://bl.ocks.org/marcoslin/df4b741e92b2829eeae8
 
 https://github.com/nikospara/angular-require-lazy
 
+*** using requirejs and OzlazyLoad to inject angular modules--------- very very good. must try
+http://www.codeproject.com/Articles/1039826/Angularjs-Lazy-Loading-with-Requirejs-and-OcLazylo
+
 ** understanding angularAMD
 http://www.codeproject.com/Articles/813421/AngularJS-On-demand-loading
 
