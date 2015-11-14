@@ -7,9 +7,10 @@ https://github.com/nikospara/angular-require-lazy
 http://www.codeproject.com/Articles/1039826/Angularjs-Lazy-Loading-with-Requirejs-and-OcLazylo
 http://stackoverflow.com/questions/28184616/angularjs-lazy-load-template-and-controller-in-ui-router-requirejs-oclazyload
 
-*** using angular with oclazyload =--------- must try or else u will regret
+*** using angular with oclazyload ---------- must try or else u will regret
 http://www.syntaxsuccess.com/viewarticle/angular-with-requirejs-amd-and-oclazyload
-https://github.com/thelgevold/angular-lazy-load
+https://github.com/thelgevold/angular-lazy-load ---- same example in github
+http://www.syntaxsuccess.com/lazy-angular ---- link to sample app
 
 ** understanding angularAMD
 http://www.codeproject.com/Articles/813421/AngularJS-On-demand-loading
