@@ -12,6 +12,9 @@ http://www.syntaxsuccess.com/viewarticle/angular-with-requirejs-amd-and-oclazylo
 https://github.com/thelgevold/angular-lazy-load ---- same example in github
 http://www.syntaxsuccess.com/lazy-angular ---- link to sample app
 
+*****$ocLazyLoad works well with routers and especially ui-router. Since it returns a promise, use the resolve property to make *****sure that your components are loaded before the view is resolved:
+https://oclazyload.readme.io/docs/with-your-router
+
 ** understanding angularAMD
 http://www.codeproject.com/Articles/813421/AngularJS-On-demand-loading
 
