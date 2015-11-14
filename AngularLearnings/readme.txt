@@ -1,6 +1,15 @@
 ** all download versions
 https://code.angularjs.org/
 
+** using $httpProvider.interceptors ----- very good. try using
+http://www.codeproject.com/Articles/857594/MVC-API-Exception-Handling-using-Filters-and-Angul
+
+**SignalR, Angular JS and ASP.NET MVC Real Time Communication
+http://www.codeproject.com/Tips/888366/SignalR-Angular-JS-and-ASP-NET-MVC-Real-Time-Commu
+
+** angular service using revealing module pattern
+http://www.codeproject.com/Articles/1008445/Angular-Tutorial-Part-Understanding-and-implemen
+
 *** angular best practices------ very very good. must see
 https://medium.com/@lightingbeetle/some-best-practices-when-building-a-large-angular-application-c346734a4e9c
 
