@@ -1,6 +1,9 @@
 ** all download versions
 https://code.angularjs.org/
 
+*** angular best practices------ very very good. must see
+https://medium.com/@lightingbeetle/some-best-practices-when-building-a-large-angular-application-c346734a4e9c
+
 ** angular ui router (using $stateProvider) very good example
 http://joelhooks.com/blog/2013/07/22/the-basics-of-using-ui-router-with-angularjs/
 
