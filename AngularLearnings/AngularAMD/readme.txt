@@ -16,6 +16,7 @@ https://github.com/malibagci/grunt-angular-builder-ocLazyload
 https://github.com/aj-dev/angular-app
 https://github.com/imsheth/angular-ui-router-oclazyload-requirejs
 https://github.com/vishwanatharondekar/angular-boilerplate
+https://www.youtube.com/watch?v=yKV-7oxyGlM ------ youtube example. very good
 
 *** using requirejs and OzlazyLoad to inject angular modules--------- very very good. must try
 http://www.codeproject.com/Articles/1039826/Angularjs-Lazy-Loading-with-Requirejs-and-OcLazylo
