@@ -3,6 +3,9 @@ http://bl.ocks.org/marcoslin/df4b741e92b2829eeae8
 
 https://github.com/nikospara/angular-require-lazy
 
+*** using ocmodal
+http://angular-js.in/ocmodal/
+
 **** angular with OzlazyLoad examples
 http://www.cnblogs.com/Answer1215/p/4039374.html  ----- simple example
 https://github.com/ocombe/ocLazyLoad
