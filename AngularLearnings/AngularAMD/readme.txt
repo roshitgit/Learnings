@@ -18,6 +18,11 @@ https://github.com/imsheth/angular-ui-router-oclazyload-requirejs
 https://github.com/vishwanatharondekar/angular-boilerplate
 https://www.youtube.com/watch?v=yKV-7oxyGlM ------ youtube example. very good
 
+*** best practices and usage of ocLazyLoad
+http://java-hackers.com/p/yfix/ocLazyLoad
+
+http://pr8x.com/st/questions/28184616/angularjs-lazy-load-template-and-controller-in-ui-router-requirejs-oclazyload.html
+
 *** using requirejs and OzlazyLoad to inject angular modules--------- very very good. must try
 http://www.codeproject.com/Articles/1039826/Angularjs-Lazy-Loading-with-Requirejs-and-OcLazylo
 http://stackoverflow.com/questions/28184616/angularjs-lazy-load-template-and-controller-in-ui-router-requirejs-oclazyload
