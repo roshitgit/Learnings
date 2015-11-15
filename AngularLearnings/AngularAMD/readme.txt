@@ -3,6 +3,19 @@ http://bl.ocks.org/marcoslin/df4b741e92b2829eeae8
 
 https://github.com/nikospara/angular-require-lazy
 
+**** angular with OzlazyLoad examples
+https://github.com/ocombe/ocLazyLoad
+https://github.com/biroa/oclazyloading-play-a
+https://github.com/lmk123/demo-ocLazyLoad
+https://github.com/Villanuevand/oclazyload-angularjs
+https://github.com/brenodouglas/angularOcLazyLoad
+https://github.com/jorgeferrando/angular-lazy-load-seed
+https://github.com/lstaszak/lazyloading
+https://github.com/malibagci/grunt-angular-builder-ocLazyload
+https://github.com/aj-dev/angular-app
+https://github.com/imsheth/angular-ui-router-oclazyload-requirejs
+https://github.com/vishwanatharondekar/angular-boilerplate
+
 *** using requirejs and OzlazyLoad to inject angular modules--------- very very good. must try
 http://www.codeproject.com/Articles/1039826/Angularjs-Lazy-Loading-with-Requirejs-and-OcLazylo
 http://stackoverflow.com/questions/28184616/angularjs-lazy-load-template-and-controller-in-ui-router-requirejs-oclazyload
@@ -20,3 +33,4 @@ http://www.codeproject.com/Articles/813421/AngularJS-On-demand-loading
 
 *** very good example. download and try
 http://www.codeproject.com/Articles/808213/Developing-a-Large-Scale-Application-with-a-Single
+
