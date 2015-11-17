@@ -6,7 +6,14 @@ https://github.com/nikospara/angular-require-lazy
 *** using ocmodal
 http://angular-js.in/ocmodal/
 
+*** oclazyload faq's ----- very good info
+https://oclazyload.readme.io/docs/faq
+
+**oclazyload directives --- good
+http://stackoverflow.com/questions/27545856/lazyloading-angular-directives
+
 **** angular with OzlazyLoad examples
+http://blog.getelementsbyidea.com/load-a-module-on-demand-with-angularjs/ ----- very good
 http://www.cnblogs.com/Answer1215/p/4039374.html  ----- simple example
 https://github.com/ocombe/ocLazyLoad
 https://github.com/biroa/oclazyloading-play-a
@@ -27,11 +34,11 @@ http://java-hackers.com/p/yfix/ocLazyLoad
 http://pr8x.com/st/questions/28184616/angularjs-lazy-load-template-and-controller-in-ui-router-requirejs-oclazyload.html
 
 *** using requirejs and OzlazyLoad to inject angular modules--------- very very good. must try
-http://www.codeproject.com/Articles/1039826/Angularjs-Lazy-Loading-with-Requirejs-and-OcLazylo
+http://www.codeproject.com/Articles/1039826/Angularjs-Lazy-Loading-with-Requirejs-and-OcLazylo ---good
 http://stackoverflow.com/questions/28184616/angularjs-lazy-load-template-and-controller-in-ui-router-requirejs-oclazyload
 
 *** using angular with oclazyload ---------- must try or else u will regret
-http://www.syntaxsuccess.com/viewarticle/angular-with-requirejs-amd-and-oclazyload
+http://www.syntaxsuccess.com/viewarticle/angular-with-requirejs-amd-and-oclazyload ---very good
 https://github.com/thelgevold/angular-lazy-load ---- same example in github
 http://www.syntaxsuccess.com/lazy-angular ---- link to sample app
 
