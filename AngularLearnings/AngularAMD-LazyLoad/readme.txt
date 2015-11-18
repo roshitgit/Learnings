@@ -12,6 +12,10 @@ https://oclazyload.readme.io/docs/faq
 **oclazyload directives --- good
 http://stackoverflow.com/questions/27545856/lazyloading-angular-directives
 
+**** OzlazyLoad + requirejs
+http://plnkr.co/edit/gLFtn6?p=preview ---- very good. very good example using OzlazyLoad + requirejs
+http://embed.plnkr.co/gLFtn6/preview
+
 **** angular with OzlazyLoad examples
 http://blog.getelementsbyidea.com/load-a-module-on-demand-with-angularjs/ ----- very good
 http://www.cnblogs.com/Answer1215/p/4039374.html  ----- simple example
