@@ -12,4 +12,15 @@
 
 
 
+This way of using WSDL utlity and compiling the generated proxy class into a .dll library comes into play when
+you wish to use the api's exposed by a 3rd party service. ex: ServiceNow or TFS (team foundation Server).
+
+Then in most of the cases, ServiceNow or TFS development support team will provide a WSDL or SOAP url of their API.
+If WSDL is provided, then we can generate a proxy class using .NET 4/4.5 WSDL tool which is part of the SDK.
+Once proxy class is available, we cna easilyt compile the same into a .dll using .NET CSC utility.
+
+compiling into a .dll library is important so that it can be used to call the api's for testing in other projects.
+projects can then be a console app, website or web project where the dll can be added as reference.
+
+
 
