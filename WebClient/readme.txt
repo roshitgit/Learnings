@@ -31,3 +31,6 @@ Dim client As New WebClient()
             End If
         End Try
         Return True
+        
+** few more links
+http://stackoverflow.com/questions/12212116/how-to-get-httpclient-to-pass-credentials-along-with-the-request
