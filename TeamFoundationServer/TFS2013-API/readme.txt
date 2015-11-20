@@ -8,6 +8,16 @@ https://msdn.microsoft.com/en-us/library/bb286958.aspx
 https://msdn.microsoft.com/en-us/library/bb130146.aspx
 https://www.visualstudio.com/integrate/api/git/pull-requests
 
+https://www.visualstudio.com/integrate/api/wit/queries
+
+** TFS WIQL
+https://www.visualstudio.com/integrate/api/wit/wiql
+https://www.visualstudio.com/en-us/integrate/api/wit/work-items
+
+** TFS api and httpclient
+https://www.visualstudio.com/en-us/integrate/get-started/auth/overview
+http://stackoverflow.com/questions/26615528/using-restapi-to-connect-to-tfs-online-from-code
+
 ** TFS API
 http://blogs.microsoft.co.il/shair/tag/tfs-api  -------- very good examples
 http://blogs.microsoft.co.il/shair/tag/tfs-api/page/2/
