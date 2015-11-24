@@ -7,6 +7,11 @@ http://bl.ocks.org/marcoslin/df4b741e92b2829eeae8
 http://pr8x.com/st/questions/28184616/angularjs-lazy-load-template-and-controller-in-ui-router-requirejs-oclazyload.html
 http://stackoverflow.com/questions/28184616/angularjs-lazy-load-template-and-controller-in-ui-router-requirejs-oclazyload/33537495#33537495
 http://stackoverflow.com/questions/28184616/angularjs-lazy-load-template-and-controller-in-ui-router-requirejs-oclazyload
+https://github.com/ocombe/ocLazyLoad/issues/226 ----- vgood
+
+*** multiple resolves and oclazyload
+http://stackoverflow.com/questions/31613059/resolve-multiple-objects-in-angularjs-ui-router-state
+http://stackoverflow.com/questions/27752037/dynamic-ui-router-with-oclazyload-using-multiple-modules-in-resolve#
 
 https://github.com/nikospara/angular-require-lazy
 
