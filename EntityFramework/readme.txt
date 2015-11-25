@@ -1,3 +1,10 @@
+*** what is "Entity Framework Code First Migrations"??
+One of the reasons Entity Framework Code First has this particular name is because it is meant for developers to quickly jump into defining model classes which EF will then use to actually build the physical layer structures (tables) using the conventions and attributes mentioned above. The process through which that happens is known as Entity Framework Code First Migrations. EF Code First Migrations can determine what’s different between the logical model and the physical data store and issue the proper SQL commands to adjust the database as needed.
+
+*** What is EF reverse engineering and when there is a need to reverse engineer (extremely important)
+http://odetodata.com/2014/12/using-entity-framework-code-first-with-an-existing-database-part-1/
+
+
 ** installer to enable context menu to do “Reverse Engineer Code First”
 https://visualstudiogallery.msdn.microsoft.com/72a60b14-1581-4b9b-89f2-846072eff19d/
 
