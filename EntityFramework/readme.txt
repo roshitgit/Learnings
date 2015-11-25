@@ -9,6 +9,10 @@ http://devgush.com/2014/02/24/migrating-a-project-from-database-first-to-code-fi
 http://romiller.com/2012/05/09/customizing-reverse-engineer-code-first-in-the-ef-power-tools/
 https://msdn.microsoft.com/en-us/data/jj593170.aspx
 
+
+*** using AutoMapper
+http://www.codeproject.com/Articles/61629/AutoMapper
+
 **sample app
 https://github.com/csatnic/AdventureWorksReverseEngineer
 http://odetodata.com/2014/12/using-entity-framework-code-first-with-an-existing-database-part-1/
