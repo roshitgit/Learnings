@@ -1,5 +1,6 @@
 To use bower on existing project do the following
 
+http://bower.io/#
 http://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository
 
 1. Install Nodejs (64bit)
