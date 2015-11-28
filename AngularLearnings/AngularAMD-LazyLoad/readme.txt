@@ -3,6 +3,10 @@ http://marcoslin.github.io/angularAMD/#/home
 https://github.com/marcoslin/angularAMD
 http://bl.ocks.org/marcoslin/df4b741e92b2829eeae8
 
+https://github.com/ocombe/ocLazyLoad/issues/30 --- good to learn
+http://ify.io/lazy-loading-in-angularjs/--- good
+http://stackoverflow.com/questions/23656231/angularjs-dynamic-loading-of-external-js-based-on-routes---good
+
 ** using directives with oclazyload
 http://exchange.opcartstore.com/questions/view/97755/oclazyload-does-not-load-new-modules
 
