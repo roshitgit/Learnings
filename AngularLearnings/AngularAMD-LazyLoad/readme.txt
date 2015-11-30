@@ -11,6 +11,7 @@ http://stackoverflow.com/questions/23656231/angularjs-dynamic-loading-of-externa
 http://exchange.opcartstore.com/questions/view/97755/oclazyload-does-not-load-new-modules
 
 *** very good way to load templates/ partial views. try it out. vimp
+https://github.com/ocombe/ocLazyLoad/issues/4 --vgood
 http://pr8x.com/st/questions/28184616/angularjs-lazy-load-template-and-controller-in-ui-router-requirejs-oclazyload.html
 http://stackoverflow.com/questions/28184616/angularjs-lazy-load-template-and-controller-in-ui-router-requirejs-oclazyload/33537495#33537495
 http://stackoverflow.com/questions/28184616/angularjs-lazy-load-template-and-controller-in-ui-router-requirejs-oclazyload
