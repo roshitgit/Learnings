@@ -4,6 +4,12 @@ Try out these 2 things: It's done on CAMP app
         OR
 3. use "Output Caching" feature as shown in link below. (put "Cache-Control" headers on advanced popup)
     http://madcomputerist.blogspot.com/2012/02/preventing-caching-of-javascript-files.html --- excellent. try and confirm
+   This approach is recommended.
+
+Note: 
+* After every publish of the code in IIS, the IIS settings will be wiped out if the cache settings were not made in the web.config
+* So set the cache headers in application web.config so after deployment the settings will stick in IIS as IIS will pick up from config file.
+* If not sure how to setup in config file then do manual in IIS and save. The xml elements will be updated in web.config by IIS.
 
 http://www.galcho.com/blog/post/2008/02/27/IIS7-How-to-set-cache-control-for-static-content.aspx --- vgood
 
