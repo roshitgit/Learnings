@@ -1,6 +1,9 @@
 ** all download versions
 https://code.angularjs.org/
 
+** very good angular wizards and templates
+http://beyondadmin-v1.4.2.s3-website-us-east-1.amazonaws.com/form-wizard.html
+
 ** using $httpProvider.interceptors ----- very good. try using
 http://www.codeproject.com/Articles/857594/MVC-API-Exception-Handling-using-Filters-and-Angul
 
