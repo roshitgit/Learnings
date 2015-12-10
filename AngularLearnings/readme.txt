@@ -12,6 +12,7 @@ http://www.codeproject.com/Articles/1008445/Angular-Tutorial-Part-Understanding-
 
 *** angular best practices------ very very good. must see
 https://medium.com/@lightingbeetle/some-best-practices-when-building-a-large-angular-application-c346734a4e9c
+https://github.com/angular-ui/ui-router/issues/2190 -- always use href="javascript:void(0)" on anchor with ng-click to work on IE.
 
 ** angular ui router (using $stateProvider) very good example
 http://joelhooks.com/blog/2013/07/22/the-basics-of-using-ui-router-with-angularjs/
