@@ -2,7 +2,7 @@ Try out these 2 things: It's done on CAMP app
 1. IIS app pool recycling.
 2. Set web content expiration under "HTTP Response Headers" in features view of IIS of the concerned website.
 
-
+http://www.galcho.com/blog/post/2008/02/27/IIS7-How-to-set-cache-control-for-static-content.aspx --- vgood
 
 https://gregsramblings.com/2012/05/28/html5-application-cache-how-to/
 http://www.iis.net/configreference/system.webserver/caching
