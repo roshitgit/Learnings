@@ -1,6 +1,9 @@
 Try out these 2 things: It's done on CAMP app
 1. IIS app pool recycling.
 2. Set web content expiration under "HTTP Response Headers" in features view of IIS of the concerned website.
+        OR
+3. use "Output Caching" feature as shown in link below. (put "Cache-Control" headers on advanced popup)
+    http://madcomputerist.blogspot.com/2012/02/preventing-caching-of-javascript-files.html --- excellent. try and confirm
 
 http://www.galcho.com/blog/post/2008/02/27/IIS7-How-to-set-cache-control-for-static-content.aspx --- vgood
 
@@ -15,4 +18,4 @@ http://stackoverflow.com/questions/642954/iis7-cache-control
 http://forums.iis.net/post/1973585.aspx
 http://blogs.iis.net/ksingla/caching-in-iis7
 http://serverfault.com/questions/176943/will-an-iis-reset-force-cached-items-to-be-resent
-http://madcomputerist.blogspot.com/2012/02/preventing-caching-of-javascript-files.html --- excellent. try and confirm
+
