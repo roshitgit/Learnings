@@ -11,6 +11,13 @@ Note:
 * So set the cache headers in application web.config so after deployment the settings will stick in IIS as IIS will pick up from config file.
 * If not sure how to setup in config file then do manual in IIS and save. The xml elements will be updated in web.config by IIS.
 
+** all good ones here
+http://blog.janjonas.net/2011-08-21/microsoft-iis-7-enable-client-side-browser-caching-static-content-web-config
+http://forums.asp.net/t/1698433.aspx?How+to+Leverage+browser+caching+at+ASP+net+IIS+7+5
+http://stackoverflow.com/questions/3929284/how-do-i-disable-caching-of-an-individual-file-in-iis-7-using-weserver-config-se
+http://stackoverflow.com/questions/2195266/how-to-configure-static-content-cache-per-folder-and-extension-in-iis7/4821328#4821328
+
+
 http://www.galcho.com/blog/post/2008/02/27/IIS7-How-to-set-cache-control-for-static-content.aspx --- vgood
 http://serverfault.com/questions/178493/make-iis-7-5-cache-static-content-files-over-diferent-pages ---- vgood
 https://gregsramblings.com/2012/05/28/html5-application-cache-how-to/
