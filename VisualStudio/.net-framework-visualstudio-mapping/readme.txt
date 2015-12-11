@@ -4,6 +4,7 @@ http://getdotnet.azurewebsites.net/target-dotnet-platforms.html# ---- vgood
 
 *** .net framework repair tool and install links
 http://blogs.msdn.com/b/astebner/archive/2008/08/28/8904493.aspx
+https://www.microsoft.com/en-us/download/details.aspx?id=30135 --- use this to download repair tool
 
 *** .net framework and OS mappings
 https://msdn.microsoft.com/en-us/library/8z6watww(v=vs.110).aspx
