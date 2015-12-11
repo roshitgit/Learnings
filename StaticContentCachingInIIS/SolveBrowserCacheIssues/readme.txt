@@ -12,11 +12,12 @@ Note:
 * If not sure how to setup in config file then do manual in IIS and save. The xml elements will be updated in web.config by IIS.
 
 http://www.galcho.com/blog/post/2008/02/27/IIS7-How-to-set-cache-control-for-static-content.aspx --- vgood
-
+http://serverfault.com/questions/178493/make-iis-7-5-cache-static-content-files-over-diferent-pages ---- vgood
 https://gregsramblings.com/2012/05/28/html5-application-cache-how-to/
 http://www.iis.net/configreference/system.webserver/caching
 http://www.iis.net/learn/manage/managing-performance-settings/configure-iis-7-output-caching
 http://serverfault.com/questions/126914/output-caching-with-iis7-how-to-for-an-dynamic-aspx-page  ---- vgood config setting.
+http://stackoverflow.com/questions/32933449/how-to-enable-iis-level-output-caching-for-a-mvc-route --- vgood
 http://stackoverflow.com/questions/2022960/iis7-set-no-cache-for-all-aspx-pages-but-not-images-css-js
 http://superuser.com/questions/63014/how-do-i-turn-off-caching-in-iis7
 http://marvelley.com/2011/04/07/preventing-aggressive-caching-of-javascript-files-with-iis7/
