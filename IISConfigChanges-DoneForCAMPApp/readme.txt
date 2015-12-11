@@ -4,7 +4,7 @@
 4. increased queue length from 2000 to 5000.
 5. modified application.config file on web server to enable json compression using appcmd.exe
 6. at website level, used --- all below was done from web.config
-  * output caching                          --- 
+  * output caching                          --- enabled user-mode and kernel mode caching with "cacheuntilchange" (file change noti..)   policy
   * used http response headers              --- for setting web content expiration when required
   * used http redirect                      --- to show maintenance page in production
   * used windows auth under authentication  --- disabled anonymous auth and enabled win auth with kernel mode checked.
