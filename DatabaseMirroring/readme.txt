@@ -12,8 +12,8 @@ https://www.connectionstrings.com/sql-server-2008/
 
 ** failover partner with network attribute
 https://technet.microsoft.com/en-us/library/ms366348(v=sql.105).aspx
-
-** failover partner
-https://msdn.microsoft.com/en-us/library/5h52hef8(v=vs.110).aspx
 https://msdn.microsoft.com/en-us/library/ms175484.aspx
+
+** about failover partner
+https://msdn.microsoft.com/en-us/library/5h52hef8(v=vs.110).aspx
 http://blogs.msdn.com/b/spike/archive/2010/12/08/clarification-on-the-failover-partner-in-the-connectionstring-in-database-mirror-setup.aspx
