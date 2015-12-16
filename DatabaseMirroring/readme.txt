@@ -7,6 +7,9 @@
 ** sample conn string with failover
 Data Source=<server>\<instance>; Failover Partner=<server>\<instance>; Trusted_Connection=True; User Id=<domain>\<uid>;Password=<password>; Database=<database>;Connect Timeout=500;pooling='true'; Max Pool Size=100;
 
+FYI (sql server connection string - 2008)
+https://www.connectionstrings.com/sql-server-2008/
+
 
 ** failover partner
 https://msdn.microsoft.com/en-us/library/5h52hef8(v=vs.110).aspx
