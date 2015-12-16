@@ -10,6 +10,8 @@ Data Source=<server>\<instance>; Failover Partner=<server>\<instance>; Trusted_C
 FYI (sql server connection string - 2008)
 https://www.connectionstrings.com/sql-server-2008/
 
+** failover partner with network attribute
+https://technet.microsoft.com/en-us/library/ms366348(v=sql.105).aspx
 
 ** failover partner
 https://msdn.microsoft.com/en-us/library/5h52hef8(v=vs.110).aspx
