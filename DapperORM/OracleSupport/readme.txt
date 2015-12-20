@@ -23,6 +23,9 @@ http://www.codeproject.com/Articles/750269/Extending-IDbConnection-and-getting-h
 
 *** very good info - must read
 http://www.oracle.com/technetwork/database/windows/downloads/odpmbetainstall-1696475.html
+http://stackoverflow.com/questions/6904430/get-the-parameter-prefix-in-ado-net  --vgood
+http://stackoverflow.com/questions/271398/what-are-your-favorite-extension-methods-for-c-codeplex-com-extensionoverflow/2550726#2550726 ---vgood
+https://www.snip2code.com/Snippet/111290/Async-SQL-Mapper-Extensions-for-Dapper-D --- vgood
 
 **** generic database 
 http://www.codeproject.com/Articles/601307/Generic-Database-Access
