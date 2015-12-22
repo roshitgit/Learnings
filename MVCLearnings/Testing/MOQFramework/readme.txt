@@ -15,6 +15,7 @@ http://stevenhollidge.blogspot.com/2012/04/moq-samples.html
 
 ** simple mocking
 http://trycatchfail.com/blog/post/Unit-Testing-in-NET-Part-5-Moq-ing-your-way-to-simpler-tests
+http://www.agile-code.com/blog/mocking-with-moq/
 
 
 https://github.com/13daysaweek/UnitTestingAsyncMvc ----- vgood- must see
