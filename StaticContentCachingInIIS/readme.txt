@@ -50,3 +50,7 @@ The default value is false.
         <add mimeType=”*/*” enabled=”false” />
     </staticTypes>
 </httpCompression>
+
+
+*** know how file caching shows up on the response header
+http://sharepointinterface.com/2011/02/21/client-server-interactions-and-the-max-age-attribute-with-sharepoint-blob-caching/
