@@ -10,6 +10,9 @@ Try out these 2 things: It's done on CAMP app
 *** recommended approach
 https://gist.github.com/jonsagara/2323629
 
+** configure http response headers --vgood(recommended)
+https://www.iis.net/configreference/system.webserver/staticcontent/clientcache
+
 ** approach is using requirejs
 http://www.codeproject.com/Articles/998432/Cache-busting-for-RequireJS-MVC-projects
 
