@@ -5,6 +5,13 @@ Try out these 2 things: It's done on CAMP app
 3. use "Output Caching" feature as shown in link below. (put "Cache-Control" headers on advanced popup)
     http://madcomputerist.blogspot.com/2012/02/preventing-caching-of-javascript-files.html --- excellent. try and confirm
    This approach is recommended.
+   
+   
+*** recommended approach
+https://gist.github.com/jonsagara/2323629
+
+** approach is using requirejs
+http://www.codeproject.com/Articles/998432/Cache-busting-for-RequireJS-MVC-projects
 
 Note: 
 * After every publish of the code in IIS, the IIS settings will be wiped out if the cache settings were not made in the web.config
@@ -12,6 +19,7 @@ Note:
 * If not sure how to setup in config file then do manual in IIS and save. The xml elements will be updated in web.config by IIS.
 
 ** all good ones here
+http://blog.iqit.dk/2013/11/a-htmlhelper-to-help-with-cache-busting
 http://blog.janjonas.net/2011-08-21/microsoft-iis-7-enable-client-side-browser-caching-static-content-web-config
 http://forums.asp.net/t/1698433.aspx?How+to+Leverage+browser+caching+at+ASP+net+IIS+7+5
 http://stackoverflow.com/questions/3929284/how-do-i-disable-caching-of-an-individual-file-in-iis-7-using-weserver-config-se
