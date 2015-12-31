@@ -7,6 +7,7 @@ https://developers.google.com/web/fundamentals/performance/optimizing-content-ef
 
 *** cache setup and configuration on web.config  (((very very good)))
 https://github.com/h5bp/server-configs-iis
+https://www.owasp.org/index.php/List_of_useful_HTTP_headers
 
 
 *** fiddler response to confirm file is not cached
