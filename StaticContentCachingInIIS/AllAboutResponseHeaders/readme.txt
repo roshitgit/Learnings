@@ -5,6 +5,16 @@ https://developers.google.com/web/fundamentals/performance/optimizing-content-ef
 https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/http-caching#cache-control
 
 
+** all you want to know about http cache headers (must read)
+http://stackoverflow.com/questions/49547/making-sure-a-web-page-is-not-cached-across-all-browsers
+http://www.mobify.com/blog/beginners-guide-to-http-cache-headers/
+http://www.w3.org/Protocols/rfc2616/rfc2616-sec14.html
+https://isc.sans.edu/forums/diary/The+Security+Impact+of+HTTP+Caching+Headers/17033/
+http://blogs.atlassian.com/2007/12/cache_control_no_store_considered_harmful/
+http://richhewlett.com/2015/02/16/preventing-browser-caching-using-http-headers/
+
+
+
 *** cache setup and configuration on web.config  (((very very good)))
 https://github.com/h5bp/server-configs-iis
 https://www.owasp.org/index.php/List_of_useful_HTTP_headers
