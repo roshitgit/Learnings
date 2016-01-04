@@ -1,3 +1,6 @@
+*** AngularStrap is a set of native directives that enables seamless integration of Bootstrap#^3.0 into your AngularJS#^1.2 application.
+http://mgcrea.github.io/angular-strap/
+
 ** all download versions
 https://code.angularjs.org/
 
