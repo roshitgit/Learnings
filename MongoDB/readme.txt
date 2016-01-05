@@ -4,6 +4,9 @@ http://www.mkyong.com/mongodb/how-to-install-mongodb-on-windows/    -- try only 
 http://devproconnections.com/database-development/exploring-mongodb-document-database-primer-net-developers
 http://docs.espressologic.com/docs/rest-apis/data-integration/mongo-examples
 
+** mongodb with mvc 4 ( very good example using mvc 4)
+https://github.com/pedromontoya/mongodb-mvc4
+
 ** windows 7 install
 http://www.nemitek.com/install-mongodb-windows-7
 
