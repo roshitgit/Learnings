@@ -17,3 +17,6 @@ http://www.codeproject.com/Articles/631679/Microsoft-Unity-in-ASP-NET-MVC
 
 very good read
 http://code4beginner.com/C-Sharp-Net/Dependency-Injection-Using-Microsoft-Using-Unity-Application-Block.html
+
+*** using unity.mvc5
+http://www.scriptscoop.net/t/8ba50d04e0b7/c-unity-webapi-unitydependencyresolver-equivalent-in-unity-mvc5.html
