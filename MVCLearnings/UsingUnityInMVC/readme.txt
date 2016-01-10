@@ -11,3 +11,9 @@ http://www.c-sharpcorner.com/UploadFile/1492b1/restful-day-2-inversion-of-contro
 
 http://stackoverflow.com/questions/16089137/unity-mvc4-doesnt-dispose ------ vgood
 http://stackoverflow.com/questions/21893424/asp-net-mvc-unity-and-idisposable ----- vgood to test dispose
+
+** dispose controllers and repository
+http://www.codeproject.com/Articles/631679/Microsoft-Unity-in-ASP-NET-MVC
+
+very good read
+http://code4beginner.com/C-Sharp-Net/Dependency-Injection-Using-Microsoft-Using-Unity-Application-Block.html
