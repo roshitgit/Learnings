@@ -8,3 +8,6 @@ https://florincoros.wordpress.com/2015/01/26/extending-unity-container-for-idisp
 http://www.codeproject.com/Articles/424743/MVC-DI-Unity-with-Lifetime-Manager
 
 http://www.c-sharpcorner.com/UploadFile/1492b1/restful-day-2-inversion-of-control-using-dependency-injecti/
+
+http://stackoverflow.com/questions/16089137/unity-mvc4-doesnt-dispose ------ vgood
+http://stackoverflow.com/questions/21893424/asp-net-mvc-unity-and-idisposable ----- vgood to test dispose
