@@ -12,4 +12,8 @@ ExternallyControlledLifetimeManager : code must handle lifetime management
 PerResolveLifetimeManager : like TransientLifetimeManager expect when in same object graph
 PerThreadLifetimeManager : A LifetimeManager that holds the instances given to it, keeping one instance per thread.
 
+*** utility to check undisposed objects
+http://www.codeproject.com/Articles/38318/Finding-Undisposed-Objects
+http://undisposed.codeplex.com/releases/view/23017
+
 
