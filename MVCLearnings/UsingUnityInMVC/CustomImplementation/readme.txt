@@ -1,4 +1,4 @@
-In case we do not want to use Unity.MVC4 and Unity.WebAPI, then use the bootstrapper class
+In case we do not want to use Unity.MVC4 and Unity.WebAPI, then use the custom bootstrapper class which implements "IDependencyResolver"
 and do constructor injection to resolve dependencies using MVC 4 web api.
 
 Not sure if unity.mvc4 disposes objects so can try the custom one which does dispose.
