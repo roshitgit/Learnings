@@ -2,6 +2,10 @@ http://weblogs.asp.net/shijuvarghese/asp-net-mvc-tip-dependency-injection-with-u
 http://weblogs.asp.net/shijuvarghese/dependency-injection-in-asp-net-mvc-nerddinner-app-using-unity-2-0
 http://dotnetslackers.com/articles/aspnet/Using-Microsoft-Unity-in-ASP-NET-MVC.aspx
 
+
+*** universal dispose (very good. try implementing)
+http://codereview.stackexchange.com/questions/32380/dispose-pattern-disposableobject
+
 **** effectively disposing unity containers
 http://www.codeproject.com/Articles/99361/How-To-Use-Unity-Container-In-ASP-NET-MVC-Framewor
 https://florincoros.wordpress.com/2015/01/26/extending-unity-container-for-idisposable-instances-1st-approach/
