@@ -5,6 +5,7 @@ http://dotnetslackers.com/articles/aspnet/Using-Microsoft-Unity-in-ASP-NET-MVC.a
 ** better way using factory
 http://www.experts-exchange.com/articles/11332/Unity-in-ASP-NET-MVC-4-and-ASP-NET-Web-API.html
 http://patrickdesjardins.com/blog/how-to-use-unity-with-web-api
+http://forums.asp.net/t/1644386.aspx?How+Dispose+the+container+after+Request+Unity+ ---good
 
 *** universal dispose (very good. try implementing)
 http://codereview.stackexchange.com/questions/32380/dispose-pattern-disposableobject
