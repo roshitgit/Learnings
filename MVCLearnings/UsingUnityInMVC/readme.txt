@@ -2,6 +2,9 @@ http://weblogs.asp.net/shijuvarghese/asp-net-mvc-tip-dependency-injection-with-u
 http://weblogs.asp.net/shijuvarghese/dependency-injection-in-asp-net-mvc-nerddinner-app-using-unity-2-0
 http://dotnetslackers.com/articles/aspnet/Using-Microsoft-Unity-in-ASP-NET-MVC.aspx
 
+** better way using factory
+http://www.experts-exchange.com/articles/11332/Unity-in-ASP-NET-MVC-4-and-ASP-NET-Web-API.html
+http://patrickdesjardins.com/blog/how-to-use-unity-with-web-api
 
 *** universal dispose (very good. try implementing)
 http://codereview.stackexchange.com/questions/32380/dispose-pattern-disposableobject
