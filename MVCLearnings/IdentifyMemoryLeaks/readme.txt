@@ -5,8 +5,8 @@ http://www.progware.org/Blog/post/A-simple-way-to-detect-memory-leaks-in-C-and-h
 http://blogs.msdn.com/b/visualstudioalm/archive/2013/06/20/using-visual-studio-2013-to-diagnose-net-memory-issues-in-production.aspx
 
 *** generate out of memory exception
+http://bhrnjica.net/2012/07/22/with-net-4-5-10-years-memory-limit-of-2-gb-is-over/
 
 http://madgeek.com/articles/leaks/leaks.en.html
-
 http://www.codeproject.com/Articles/38318/Finding-Undisposed-Objects --- excellent for .exe executables
 
