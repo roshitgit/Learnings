@@ -8,6 +8,7 @@ http://unity.codeplex.com/SourceControl/latest
 
 *** check this out to dispose (good)
 http://thorarin.net/blog/post/2013/02/12/Unity-IoC-lifetime-management-IDisposable-part1.aspx
+http://stackoverflow.com/questions/13581655/disposing-needed-in-unity
 
 ** better way using factory
 http://www.experts-exchange.com/articles/11332/Unity-in-ASP-NET-MVC-4-and-ASP-NET-Web-API.html
