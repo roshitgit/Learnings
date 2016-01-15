@@ -6,6 +6,9 @@ http://dotnetslackers.com/articles/aspnet/Using-Microsoft-Unity-in-ASP-NET-MVC.a
 https://github.com/unitycontainer/unity
 http://unity.codeplex.com/SourceControl/latest
 
+*** check this out to dispose (good)
+http://thorarin.net/blog/post/2013/02/12/Unity-IoC-lifetime-management-IDisposable-part1.aspx
+
 ** better way using factory
 http://www.experts-exchange.com/articles/11332/Unity-in-ASP-NET-MVC-4-and-ASP-NET-Web-API.html
 http://patrickdesjardins.com/blog/how-to-use-unity-with-web-api
