@@ -1,6 +1,6 @@
 http://weblogs.asp.net/shijuvarghese/asp-net-mvc-tip-dependency-injection-with-unity-application-block
 http://weblogs.asp.net/shijuvarghese/dependency-injection-in-asp-net-mvc-nerddinner-app-using-unity-2-0
-http://dotnetslackers.com/articles/aspnet/Using-Microsoft-Unity-in-ASP-NET-MVC.aspx
+http://dotnetslackers.com/articles/aspnet/Using-Microsoft-Unity-in-ASP-NET-MVC.aspx ---good
 
 *** source code unity
 https://github.com/unitycontainer/unity
@@ -15,6 +15,9 @@ https://florincoros.wordpress.com/2015/01/26/extending-unity-container-for-idisp
 http://www.codeproject.com/Articles/99361/How-To-Use-Unity-Container-In-ASP-NET-MVC-Framewor
 http://www.codeproject.com/Articles/424743/MVC-DI-Unity-with-Lifetime-Manager
 http://forums.asp.net/t/1644386.aspx?How+Dispose+the+container+after+Request+Unity+ ---good
+http://www.devtrends.co.uk/blog/integrating-the-unity.mvc3-1.1-nuget-package-from-scratch -----vgood (try it out)
+http://www.wiktorzychla.com/2013/03/unity-and-http-per-request-lifetime.html ---good. check it out.
+https://msdn.microsoft.com/en-us/library/dn178462(v=pandp.30).aspx#sec2 ----good way check out
 
 ** better way using factory
 http://www.experts-exchange.com/articles/11332/Unity-in-ASP-NET-MVC-4-and-ASP-NET-Web-API.html
