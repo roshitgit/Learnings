@@ -12,6 +12,9 @@ ExternallyControlledLifetimeManager : code must handle lifetime management
 PerResolveLifetimeManager : like TransientLifetimeManager expect when in same object graph
 PerThreadLifetimeManager : A LifetimeManager that holds the instances given to it, keeping one instance per thread.
 
+***** complete idisposable pattern  (implemented in CAMP app)
+http://www.codeproject.com/Articles/15360/Implementing-IDisposable-and-the-Dispose-Pattern-P
+
 *** utility to check undisposed objects
 http://www.codeproject.com/Articles/38318/Finding-Undisposed-Objects
 http://undisposed.codeplex.com/releases/view/23017
