@@ -19,6 +19,12 @@ http://www.devtrends.co.uk/blog/integrating-the-unity.mvc3-1.1-nuget-package-fro
 http://www.wiktorzychla.com/2013/03/unity-and-http-per-request-lifetime.html ---good. check it out.
 https://msdn.microsoft.com/en-us/library/dn178462(v=pandp.30).aspx#sec2 ----good way check out
 
+** using unity.mvc3
+http://binodmahto.blogspot.in/2013/02/aspnet-mvc-3-dependency-injection-using.html
+
+****aspnet-web-api-using-structuremap
+http://benfoster.io/blog/per-request-dependencies-in-aspnet-web-api-using-structuremap
+
 ** better way using factory
 http://www.experts-exchange.com/articles/11332/Unity-in-ASP-NET-MVC-4-and-ASP-NET-Web-API.html
 http://patrickdesjardins.com/blog/how-to-use-unity-with-web-api
