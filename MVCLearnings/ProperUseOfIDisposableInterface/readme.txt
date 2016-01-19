@@ -1,6 +1,9 @@
 https://lostechies.com/chrispatterson/2012/11/29/idisposable-done-right/
 http://www.codeproject.com/Articles/413887/Understanding-and-Implementing-IDisposable-Interfa
 
+*** another way of using
+http://www.java2s.com/Tutorial/CSharp/0140__Class/ComplexIDisposablepattern.htm
+
 
 ****** Built in Lifetime Management within MS Unity
 
