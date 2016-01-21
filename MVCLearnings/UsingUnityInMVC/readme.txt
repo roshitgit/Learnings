@@ -19,6 +19,8 @@ http://www.devtrends.co.uk/blog/integrating-the-unity.mvc3-1.1-nuget-package-fro
 http://www.wiktorzychla.com/2013/03/unity-and-http-per-request-lifetime.html ---good. check it out.
 https://msdn.microsoft.com/en-us/library/dn178462(v=pandp.30).aspx#sec2 ----good way check out
 
+http://codereview.stackexchange.com/questions/40102/using-a-basecontroller-in-mvc-asp-net-to-reuse-the-repository ---good
+
 ** using unity.mvc3
 http://binodmahto.blogspot.in/2013/02/aspnet-mvc-3-dependency-injection-using.html
 
