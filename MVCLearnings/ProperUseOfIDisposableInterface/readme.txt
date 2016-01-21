@@ -17,6 +17,7 @@ PerThreadLifetimeManager : A LifetimeManager that holds the instances given to i
 
 ***** complete idisposable pattern  (implemented in CAMP app)
 http://www.codeproject.com/Articles/15360/Implementing-IDisposable-and-the-Dispose-Pattern-P
+http://www.strathweb.com/2015/08/disposing-resources-at-the-end-of-web-api-request/ -----good
 
 *** utility to check undisposed objects
 http://www.codeproject.com/Articles/38318/Finding-Undisposed-Objects
