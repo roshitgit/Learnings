@@ -7,6 +7,7 @@ https://github.com/unitycontainer/unity
 http://unity.codeplex.com/SourceControl/latest
 
 *** check this out to dispose (good)..check all out
+http://codereview.stackexchange.com/questions/83107/automating-crud-using-repository-pattern-web-api-and-typescript ---good
 http://thorarin.net/blog/post/2013/02/12/Unity-IoC-lifetime-management-IDisposable-part1.aspx
 http://thorarin.net/blog/post/2013/02/16/Unity-IoC-lifetime-management-IDisposable-part2.aspx -- this is better
 http://stackoverflow.com/questions/13581655/disposing-needed-in-unity
