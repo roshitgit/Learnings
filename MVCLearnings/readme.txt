@@ -1,6 +1,10 @@
 ** MVC forms auth
 http://blog.stevensanderson.com/2008/08/25/using-the-browsers-native-login-prompt/
 
+** bundling and minification
+http://www.dotnetcurry.com/visualstudio/1096/using-grunt-gulp-bower-visual-studio-2013-2015
+http://www.codeproject.com/Tips/860859/ASP-NET-MVC-RequireJS-Module-Optimization
+
 
 * MVC classic mode changes
 http://weblogs.asp.net/imranbaloch/routes-for-classic-and-integrated-mode
