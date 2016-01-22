@@ -5,6 +5,9 @@ http://stackoverflow.com/questions/6184734/how-to-structure-multiple-pages-with-
 http://enterprisewebbook.com/ch6_large_js_apps.html#_writing-amd-modules
 http://www.sitepoint.com/understanding-requirejs-for-effective-javascript-module-loading/
 
+** excellent- plz try
+http://www.codeproject.com/Tips/860859/ASP-NET-MVC-RequireJS-Module-Optimization
+
 https://cdnjs.com/libraries/backbone.js/tutorials/organizing-backbone-using-modules
 
 *** very good example to use require with angular
