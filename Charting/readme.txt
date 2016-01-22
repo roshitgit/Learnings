@@ -7,6 +7,9 @@ http://developers.de/blogs/armin_kalajdzija/archive/2015/07/30/how-to-use-d3-js-
 ** display grid in email
 https://social.msdn.microsoft.com/Forums/en-US/945da2bd-4bd2-42df-bcdd-eaa25b8c8291/displaying-a-chart-and-a-datagrid-in-one-email-net-c?forum=MSWinWebChart
 
+** winforms charting. play with axes
+http://www.codeproject.com/Questions/370208/Datavisualization-Charting-Formatting-axes-and-sho
+
 ** render html from asp.net server control
 http://harouny.com/2012/10/15/render-asp-net-controls-user-controls-to-html-by-code/
 
