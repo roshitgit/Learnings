@@ -24,3 +24,21 @@ projects can then be a console app, website or web project where the dll can be 
 
 
 
+Examples:
+WSDL:
+Go to path => c:\Program Files (x86)\Microsoft SDKs\Windows\v8.1A\bin\NETFX 4.5.1 Tools from command prompt
+wsdl /out:C:\PMTools\CAMPDev.AMTool\Component\ServiceNowIntegration\ServiceNowIntegration\wsdlproxy\ServiceNowProdChangeApi.cs https://servicemanagement.citigroup.net/ChangeQuery.do?WSDL
+
+
+CSC compiler:
+Go to path => c:\Windows\Microsoft.NET\Framework64\v4.0.30319\ from command prompt
+Format: csc /t:library /out:<local path to create dll> /r:System.Web.Services.dll /r:System.Xml.dll <local path of proxy class>
+
+Example:
+csc /t:library /out:C:\PMTools\CAMPDev.AMTool\Component\ServiceNowIntegration\ConsoleAppClient\Assemblies\ ServiceNowProdChangeApi.dll /r:System.Web.Services.dll /r:System.Xml.dll C:\PMTools\CAMPDev.AMTool\Component\ServiceNowIntegration\ServiceNowIntegration\wsdlproxy\ ServiceNowProdChangeApi.cs
+
+
+
+
+
+
