@@ -9,3 +9,5 @@ http://blog.falafel.com/generic-repository-pattern-with-entity-framework-and-web
 
 *** very good
 http://stackoverflow.com/questions/28102970/does-repository-pattern-follow-solid-principles
+** similar with explanation
+http://codereview.stackexchange.com/questions/77677/irepository-pattern-interface-segregation-principle
