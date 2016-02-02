@@ -1,3 +1,6 @@
+** Dan wahlin's perfect solution to do lazy load. ( this should be implemented)
+http://weblogs.asp.net/dwahlin/dynamically-loading-controllers-and-views-with-angularjs-and-requirejs
+
 *** using angular amd
 http://marcoslin.github.io/angularAMD/#/home
 https://github.com/marcoslin/angularAMD
