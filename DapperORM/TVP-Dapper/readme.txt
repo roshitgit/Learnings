@@ -1,6 +1,13 @@
 ** Passing Table Valued Parameters with Dapper
 http://www.codeproject.com/Articles/835519/Passing-Table-Valued-Parameters-with-Dapper
 
+*** good ones
+http://www.codeproject.com/Articles/889668/SQL-Server-Dapper
+http://stackoverflow.com/questions/33087629/dapper-dynamic-parameters-with-table-valued-parameters
+
+** using EF
+http://stackoverflow.com/questions/32658520/table-valued-parameter-in-stored-procedure
+
 ***Does Dapper support SQL 2008 Table-Valued Parameters 2?
 http://stackoverflow.com/questions/6913610/does-dapper-support-sql-2008-table-valued-parameters-2
 
