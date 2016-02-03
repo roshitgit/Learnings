@@ -6,3 +6,13 @@ ex: CAL_YR_LABOR_ESTIMATE [numeric](10, 0) '/dataset/work/CAL_YR_LABOR_ESTIMATE[
 
 Link:
 http://www.sqlservercentral.com/Forums/Topic13069-21-1.aspx
+
+ALter existing column and add default value
+
+ALTER TABLE dbo.[<table>]
+Alter Column [<col1>] [numeric](10, 0) NOT NULL
+GO 
+
+ALTER TABLE [<table>] 
+ADD DEFAULT 0 FOR [<col1>];
+GO
