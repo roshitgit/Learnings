@@ -3,7 +3,13 @@ http://www.codeproject.com/Articles/835519/Passing-Table-Valued-Parameters-with-
 
 *** good ones
 http://www.codeproject.com/Articles/889668/SQL-Server-Dapper
+http://stackoverflow.com/questions/26242363/using-dapper-tvp-tablevalueparameter-with-other-parameters
 http://stackoverflow.com/questions/33087629/dapper-dynamic-parameters-with-table-valued-parameters
+http://stackoverflow.com/questions/23589445/dapper-help-me-run-stored-procedure-with-multiple-user-defined-table-types
+
+**plain ado.net
+http://forums.asp.net/t/1791460.aspx?Problem+in+Table+Parameter
+http://stackoverflow.com/questions/29058920/error-converting-data-type-nvarchar-to-numeric-the-data-for-table-valued-paramet
 
 ** using EF
 http://stackoverflow.com/questions/32658520/table-valued-parameter-in-stored-procedure
