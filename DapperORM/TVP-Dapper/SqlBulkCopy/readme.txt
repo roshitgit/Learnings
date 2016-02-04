@@ -6,5 +6,8 @@ http://www.aspsnippets.com/Articles/Using-SqlBulkCopy-to-import-Excel-SpreadShee
 http://www.codedigest.com/Articles/ASPNET/400_ImportUpload_Excel_Sheet_data_to_Sql_Server_in_C__and_AspNet.aspx
 http://stackoverflow.com/questions/10447015/uploading-an-excel-sheet-and-importing-the-data-into-sql-server-database
 
+** good
+http://www.codinghelmet.com/?path=howto/bulk-insert
+
 *** TVP's
 https://www.brentozar.com/archive/2014/02/using-sql-servers-table-valued-parameters/
