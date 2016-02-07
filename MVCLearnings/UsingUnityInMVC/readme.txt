@@ -26,10 +26,11 @@ http://codereview.stackexchange.com/questions/40102/using-a-basecontroller-in-mv
 http://binodmahto.blogspot.in/2013/02/aspnet-mvc-3-dependency-injection-using.html
 
 *** using unity.mvc5
-http://www.scriptscoop.net/t/8ba50d04e0b7/c-unity-webapi-unitydependencyresolver-equivalent-in-unity-mvc5.html
-http://damienbod.com/2013/12/18/creating-an-mvc5-app-with-unity-slab-and-attribute-routing/
 https://www.andrewcbancroft.com/2014/10/27/up-and-running-with-unity-ioc-container-for-asp-net-mvc/ ---good
 http://sarangasl.blogspot.in/2015/04/mvc-5-with-unity-for-dependency.html ----good
+http://www.devtrends.co.uk/blog/using-unity.mvc5-and-unity.webapi-together-in-a-project ---good
+http://www.scriptscoop.net/t/8ba50d04e0b7/c-unity-webapi-unitydependencyresolver-equivalent-in-unity-mvc5.html
+http://damienbod.com/2013/12/18/creating-an-mvc5-app-with-unity-slab-and-attribute-routing/
 
 ****aspnet-web-api-using-structuremap
 http://benfoster.io/blog/per-request-dependencies-in-aspnet-web-api-using-structuremap
