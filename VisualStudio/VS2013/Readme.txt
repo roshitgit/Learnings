@@ -2,3 +2,6 @@
 http://stackoverflow.com/questions/23617900/how-to-select-net-4-5-2-as-a-target-framework-in-visual-studio
 https://www.microsoft.com/en-us/download/details.aspx?id=42637
 https://support.microsoft.com/en-us/kb/2901951
+
+**** VS2013 Updates
+http://www.nitrix-reloaded.com/microsoft/net/net-framework/net-framework-4-5-2/
