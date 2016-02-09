@@ -10,6 +10,9 @@ http://www.kdelemme.com/2014/07/28/read-multiple-collections-mongodb-avoid-callb
 http://w3facility.org/question/mongodb-mongoose-join-collections/
 http://tiku.io/questions/3153632/how-do-you-do-a-join-on-an-array-in-mongoose-mongodb-with-node-js
 
+*** mongoose help
+http://mongoosejs.com/docs/api.html
+
 ** good example for joins
 https://coderwall.com/p/6v5rcw/querying-sub-documents-and-sub-sub-documents-in-mongoose
 https://github.com/AlexZeitler/mongoose-schema-reference-sample
