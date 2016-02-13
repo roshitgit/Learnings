@@ -8,3 +8,5 @@ http://benohead.com/angularjs-requirejs-dynamic-loading-and-pluggable-views/
 http://blog.getelementsbyidea.com/load-a-module-on-demand-with-angularjs/
 http://ify.io/lazy-loading-in-angularjs/
 http://stackoverflow.com/questions/25168593/angularjs-lazy-loading-controllers-and-content
+http://tiku.io/questions/4328653/angularjs-lazy-loading-controllers-and-content
+https://github.com/sagar-ganatra/angular-require-resolve/
