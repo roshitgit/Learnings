@@ -16,3 +16,5 @@ http://www.scriptscoop.net/t/173a89711e64/angularjs-how-to-lazy-load-views-using
 http://plnkr.co/edit/roondIvZ2XXeS89PvW0J?p=preview
 http://strangemilk.com/angularjs-lazy-loading/
 http://monicalent.com/blog/2015/08/03/converting-angular-js-app-from-require-js-to-webpack/
+https://alexfeinberg.wordpress.com/2014/04/26/delay-load-anything-angular/
+http://plnkr.co/edit/dlXHDf?p=preview
