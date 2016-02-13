@@ -14,5 +14,8 @@ http://stackoverflow.com/questions/30178331/how-to-refactor-using-statement-to-a
 ***************vvvvgood
 https://blog.tommyparnell.com/using-action-func-to-hide-using-statements/
 
+*** good (refactor if else)
+http://stackoverflow.hex1.ru/questions/25765890/refactor-if-statements-with-different-conditions
+
 
 http://www.toptal.com/c-sharp/top-10-mistakes-that-c-sharp-programmers-make
