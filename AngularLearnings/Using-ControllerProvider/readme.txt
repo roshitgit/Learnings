@@ -10,3 +10,7 @@ http://ify.io/lazy-loading-in-angularjs/
 http://stackoverflow.com/questions/25168593/angularjs-lazy-loading-controllers-and-content
 http://tiku.io/questions/4328653/angularjs-lazy-loading-controllers-and-content
 https://github.com/sagar-ganatra/angular-require-resolve/
+
+** ui router and $controllerprovider
+http://www.scriptscoop.net/t/173a89711e64/angularjs-how-to-lazy-load-views-using-ui-router-and-requirejs.html
+http://plnkr.co/edit/roondIvZ2XXeS89PvW0J?p=preview
