@@ -18,3 +18,12 @@ http://stackoverflow.com/questions/3528359/html-input-type-file-file-selection-e
 
 ** select specific type of files
 http://stackoverflow.com/questions/11832930/html-input-file-accept-attribute-file-type-csv
+
+https://jasonturim.wordpress.com/2013/09/12/angularjs-native-multi-file-upload-with-progress/
+https://blueimp.github.io/jQuery-File-Upload/angularjs.html
+http://flowjs.github.io/ng-flow/
+https://angular-file-upload.appspot.com/ -- good
+http://jsfiddle.net/JeJenny/ZG9re/
+https://github.com/leon/angular-upload
+https://github.com/nervgh/angular-file-upload
+https://github.com/danialfarid/angular-file-upload
