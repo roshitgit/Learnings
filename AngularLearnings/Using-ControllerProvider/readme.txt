@@ -14,3 +14,4 @@ https://github.com/sagar-ganatra/angular-require-resolve/
 ** ui router and $controllerprovider
 http://www.scriptscoop.net/t/173a89711e64/angularjs-how-to-lazy-load-views-using-ui-router-and-requirejs.html
 http://plnkr.co/edit/roondIvZ2XXeS89PvW0J?p=preview
+http://strangemilk.com/angularjs-lazy-loading/
