@@ -6,8 +6,9 @@ With Dapper Install other packages also
 ** usefule tools to sue with dapper - must see and implement
 http://thesenilecoder.blogspot.com/2012/08/dapper-dot-net-dapperwrapper-and.html
 
-*** generalize dapper query
+*** generalize dapper query using Func and action delegates
 http://goobbe.com/questions/7167404/generalize-dapper-query-within-a-delegate-func-or-action-c-sharp
+http://stackoverflow.com/questions/17753991/generalize-dapper-query-within-a-delegate-func-or-action-c-sharp
 
 ***Why doesn't Dapper dot net open and close the connection itself?
 http://stackoverflow.com/questions/12628983/why-doesnt-dapper-dot-net-open-and-close-the-connection-itself
