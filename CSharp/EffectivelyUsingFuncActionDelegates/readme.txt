@@ -14,6 +14,9 @@ http://stackoverflow.com/questions/30178331/how-to-refactor-using-statement-to-a
 **** try-catch-finally (vgood - must try)
 http://codereview.stackexchange.com/questions/23310/functional-exception-handling-with-trycatchfinally-statement-helpers
 
+*** switch-case must try
+http://joelabrahamsson.com/invoking-methods-based-on-a-parameter-without-if-else-statements-in-c/
+
 ***************vvvvgood
 https://blog.tommyparnell.com/using-action-func-to-hide-using-statements/
 
