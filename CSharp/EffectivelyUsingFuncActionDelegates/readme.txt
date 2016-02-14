@@ -11,6 +11,9 @@ http://blogs.msdn.com/b/arthurs/archive/2010/05/04/using-lambda-expressions-and-
 https://msdn.microsoft.com/en-us/library/orm-9780596527570-03-04.aspx
 http://stackoverflow.com/questions/30178331/how-to-refactor-using-statement-to-avoid-code-duplication
 
+**** try-catch-finally (vgood - must try)
+http://codereview.stackexchange.com/questions/23310/functional-exception-handling-with-trycatchfinally-statement-helpers
+
 ***************vvvvgood
 https://blog.tommyparnell.com/using-action-func-to-hide-using-statements/
 
