@@ -15,12 +15,11 @@ http://blog.falafel.com/generic-repository-pattern-with-entity-framework-and-web
 http://goobbe.com/questions/7167404/generalize-dapper-query-within-a-delegate-func-or-action-c-sharp
 http://stackoverflow.com/questions/17753991/generalize-dapper-query-within-a-delegate-func-or-action-c-sharp
 http://stackoverflow.com/questions/14297633/c-sharp-pass-lambda-expression-as-method-parameter
+****non-buffered-queries-in-dapper (must try and implement)
+http://stackoverflow.com/questions/23023534/managing-connection-with-non-buffered-queries-in-dapper
 
 ***Why doesn't Dapper dot net open and close the connection itself?
 http://stackoverflow.com/questions/12628983/why-doesnt-dapper-dot-net-open-and-close-the-connection-itself
-
-****non-buffered-queries-in-dapper
-http://stackoverflow.com/questions/23023534/managing-connection-with-non-buffered-queries-in-dapper
 
 *** using output params and return values with dapper
 http://stackoverflow.com/questions/22353881/passing-output-parameters-to-stored-procedure-using-dapper-in-c-sharp-code
