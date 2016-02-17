@@ -6,6 +6,9 @@ http://marcoslin.github.io/angularAMD/#/home
 https://github.com/marcoslin/angularAMD
 http://bl.ocks.org/marcoslin/df4b741e92b2829eeae8
 
+*** lazy load anything in angular (must try)
+https://alexfeinberg.wordpress.com/2014/04/26/delay-load-anything-angular/
+
 https://github.com/ocombe/ocLazyLoad/issues/30 --- good to learn
 http://ify.io/lazy-loading-in-angularjs/--- good
 http://stackoverflow.com/questions/23656231/angularjs-dynamic-loading-of-external-js-based-on-routes---good
