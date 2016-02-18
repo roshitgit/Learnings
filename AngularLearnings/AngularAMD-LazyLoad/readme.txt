@@ -6,6 +6,12 @@ http://marcoslin.github.io/angularAMD/#/home
 https://github.com/marcoslin/angularAMD
 http://bl.ocks.org/marcoslin/df4b741e92b2829eeae8
 
+** angular lazy load
+http://strangemilk.com/angularjs-lazy-loading/
+
+** angular-requirejs-webpack
+http://monicalent.com/blog/2015/08/03/converting-angular-js-app-from-require-js-to-webpack/
+
 *** lazy load anything in angular (must try)
 https://alexfeinberg.wordpress.com/2014/04/26/delay-load-anything-angular/
 
