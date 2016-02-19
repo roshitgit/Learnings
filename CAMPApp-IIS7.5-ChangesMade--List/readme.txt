@@ -22,5 +22,8 @@ appcmd path=> %windir%\system32\inetsrv\
 appcmd.exe set config -section:system.webServer/httpCompression /-"dynamicTypes.[mimeType='application/json']"
 appcmd.exe set config -section:system.webServer/httpCompression /+"dynamicTypes.[mimeType='application/json',enabled='True']"
 
+5. modified "platform target" under project properties in solution to target 64-bit machines using "x64".
+   ensure enable 32-bit application is set to "false" in IIS app pool advanced settings
+
 
 
