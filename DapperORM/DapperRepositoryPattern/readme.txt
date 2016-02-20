@@ -1,5 +1,8 @@
 ***** all good ones. plz implement
 
+**** must try and implement
+https://github.com/Pencroff/Dapper-DAL
+
 http://www.bradoncode.com/blog/2012/12/creating-data-repository-using-dapper.html
 http://forums.asp.net/t/2006343.aspx?Repository+pattern+without+ORM+   ------- must see
 http://www.bradoncode.com/blog/2012/12/creating-data-repository-using-dapper.html
