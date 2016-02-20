@@ -17,3 +17,7 @@ http://wcabus.github.io/DapperContext/
 
 ** helper for ado.net without dapper
 http://stackoverflow.com/questions/4108872/generic-method-assigining-properties-from-a-datareader-to-generic-objects
+
+
+**** why use generic repository pattern (must see)
+http://matthamilton.net/generic-repositories
