@@ -10,5 +10,6 @@ http://codereview.stackexchange.com/questions/85741/identity-repository-pattern-
 http://codereview.stackexchange.com/questions/87295/web-api-using-repository-unitofwork
 
 http://rob.conery.io/2014/03/04/repositories-and-unitofwork-are-not-a-good-idea/   ----- must read
+http://rohit-developer.blogspot.in/2014/09/repository-pattern-and-unit-of-work.html  ---- must see
 
 https://sachabarbs.wordpress.com/2012/07/30/asp-mvc-4-webapi-unitofwork-respository-and-ioc/
