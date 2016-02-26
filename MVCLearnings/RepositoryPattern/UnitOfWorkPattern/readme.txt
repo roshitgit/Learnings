@@ -13,3 +13,11 @@ http://rob.conery.io/2014/03/04/repositories-and-unitofwork-are-not-a-good-idea/
 http://rohit-developer.blogspot.in/2014/09/repository-pattern-and-unit-of-work.html  ---- must see
 
 https://sachabarbs.wordpress.com/2012/07/30/asp-mvc-4-webapi-unitofwork-respository-and-ioc/
+
+*** good uow example projects
+https://github.com/rahulsahay19/MovieReview-Angular-Prod
+https://github.com/raghav-rosberg/UnitOfWorkWithMultipleDBContext
+
+
+***** using web api and normal controller  (must watch)
+https://github.com/elephanted/Todd
