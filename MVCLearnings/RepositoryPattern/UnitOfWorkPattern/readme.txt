@@ -18,6 +18,9 @@ https://sachabarbs.wordpress.com/2012/07/30/asp-mvc-4-webapi-unitofwork-resposit
 https://github.com/rahulsahay19/MovieReview-Angular-Prod
 https://github.com/raghav-rosberg/UnitOfWorkWithMultipleDBContext
 
+*** vgood example uow and repository pattern
+http://www.codegithub.com/watch?v=0mymmgUqxgWg
+http://stackoverflow.com/questions/12900078/repository-pattern-with-generics-and-di
 
 ***** using web api and normal controller  (must watch)
 https://github.com/elephanted/Todd
