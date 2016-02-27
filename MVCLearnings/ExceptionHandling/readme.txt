@@ -10,3 +10,6 @@ http://prideparrot.com/blog/archive/2012/5/exception_handling_in_asp_net_mvc
 http://iamlevi.net/asp-net-mvc-4-ways-handle-exceptions/
 http://forums.asp.net/t/1775795.aspx?When+to+use+HandleErrorAttribute+or+Application_Error
 https://www.simple-talk.com/dotnet/asp.net/handling-errors-effectively-in-asp.net-mvc/
+
+** good technique- must see and try
+http://www.codeguru.com/csharp/.net/net_asp/handling-exceptions-in-asp.net-web-api.htm
