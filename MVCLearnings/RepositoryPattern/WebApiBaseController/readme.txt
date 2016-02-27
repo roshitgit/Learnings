@@ -5,3 +5,6 @@ http://stackoverflow.com/questions/18934225/implementing-a-web-api-controller-wh
 *** generic implementation --- must try
 http://forums.asp.net/t/1924549.aspx?Make+my+OData+Web+Api+controller+more+generic
 http://www.nuget.org/packages/WebApi.Scaffolding
+
+*** controller release -- try this
+http://blog.ploeh.dk/2012/03/20/RobustDIWiththeASP.NETWebAPI/
