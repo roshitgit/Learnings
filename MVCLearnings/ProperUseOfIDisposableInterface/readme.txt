@@ -1,6 +1,9 @@
 https://lostechies.com/chrispatterson/2012/11/29/idisposable-done-right/
 http://www.codeproject.com/Articles/413887/Understanding-and-Implementing-IDisposable-Interfa
 
+***** TEST and Implement Finalise and dispose (must try and implement)
+https://msdn.microsoft.com/library/b1yfkh5e(v=vs.100).aspx
+
 *** another way of using
 http://www.java2s.com/Tutorial/CSharp/0140__Class/ComplexIDisposablepattern.htm
 
