@@ -3,6 +3,7 @@
 http://www.asp.net/mvc/overview/older-versions/getting-started-with-ef-5-using-mvc-4/implementing-the-repository-and-unit-of-work-patterns-in-an-asp-net-mvc-application
 
 *** generic UOW (excellent- must try)
+https://github.com/johnpapa/CodeCamper ---- try this in camp
 http://www.c-sharpcorner.com/UploadFile/3d39b4/crud-operations-using-the-generic-repository-pattern-and-uni/
 http://www.codeproject.com/Articles/770156/Understanding-Repository-and-Unit-of-Work-Pattern
 http://codereview.stackexchange.com/questions/31822/unit-of-work-and-repository-design-pattern-implementation
