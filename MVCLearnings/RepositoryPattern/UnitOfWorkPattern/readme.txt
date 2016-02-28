@@ -4,8 +4,11 @@ http://www.asp.net/mvc/overview/older-versions/getting-started-with-ef-5-using-m
 
 *** generic UOW (excellent- must try)
 https://github.com/johnpapa/CodeCamper ---- try this in camp
-https://codefizzle.wordpress.com/2012/07/26/correct-use-of-repository-and-unit-of-work-patterns-in-asp-net-mvc/----simpler
-http://www.codeproject.com/Articles/576681/UnderstandingplusandplusImplementingplusRepository----simpler
+
+**check simpler ones first
+https://codefizzle.wordpress.com/2012/07/26/correct-use-of-repository-and-unit-of-work-patterns-in-asp-net-mvc/
+http://www.codeproject.com/Articles/576681/UnderstandingplusandplusImplementingplusRepository
+
 http://www.c-sharpcorner.com/UploadFile/3d39b4/crud-operations-using-the-generic-repository-pattern-and-uni/
 http://www.codeproject.com/Articles/770156/Understanding-Repository-and-Unit-of-Work-Pattern
 http://codereview.stackexchange.com/questions/31822/unit-of-work-and-repository-design-pattern-implementation
