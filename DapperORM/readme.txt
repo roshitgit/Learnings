@@ -3,6 +3,10 @@ With Dapper Install other packages also
 * install-package Dapper.Contrib
 * install-package Dapper.Extensions
 
+*** dapper wrapper
+https://github.com/half-ogre/dapper-wrapper/tree/master/DapperWrapper
+https://libraries.io/nuget/DapperWrapper
+
 ** usefule tools to sue with dapper - must see and implement
 http://thesenilecoder.blogspot.com/2012/08/dapper-dot-net-dapperwrapper-and.html
 
