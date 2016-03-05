@@ -10,7 +10,6 @@ https://codefizzle.wordpress.com/2012/07/26/correct-use-of-repository-and-unit-o
 http://www.codeproject.com/Articles/576681/UnderstandingplusandplusImplementingplusRepository
 
 http://www.c-sharpcorner.com/UploadFile/3d39b4/crud-operations-using-the-generic-repository-pattern-and-uni/
-http://www.codeproject.com/Articles/770156/Understanding-Repository-and-Unit-of-Work-Pattern
 http://codereview.stackexchange.com/questions/31822/unit-of-work-and-repository-design-pattern-implementation
 http://www.primaryobjects.com/2010/09/30/using-the-entity-framework-repository-and-unitofwork-pattern-in-c-asp-net/
 
