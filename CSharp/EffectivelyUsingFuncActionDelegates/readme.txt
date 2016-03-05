@@ -1,4 +1,5 @@
-
+*** perfect example with method chaining
+http://davefancher.com/2015/06/14/functional-c-fluent-interfaces-and-functional-method-chaining/
 
 **** all good ones (must try)
 https://agilewarrior.wordpress.com/2011/09/21/refactoring-try-catch-statements-in-c/
