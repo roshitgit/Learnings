@@ -1,6 +1,9 @@
 *** perfect example with method chaining
 http://davefancher.com/2015/06/14/functional-c-fluent-interfaces-and-functional-method-chaining/
 
+*** good code reuse
+http://stackoverflow.com/questions/9808035/how-do-i-make-the-return-type-of-a-method-generic
+
 **** all good ones (must try)
 https://agilewarrior.wordpress.com/2011/09/21/refactoring-try-catch-statements-in-c/
 https://www.youtube.com/watch?v=JdBW1RSN_Zg
