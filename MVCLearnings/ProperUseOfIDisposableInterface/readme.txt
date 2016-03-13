@@ -1,4 +1,6 @@
+*** excellent to understand idisposable
 https://lostechies.com/chrispatterson/2012/11/29/idisposable-done-right/
+
 http://www.codeproject.com/Articles/413887/Understanding-and-Implementing-IDisposable-Interfa
 
 ***** TEST and Implement Finalise and dispose (must try and implement)
