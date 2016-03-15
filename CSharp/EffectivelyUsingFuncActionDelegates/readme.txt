@@ -1,6 +1,9 @@
 ****Create Func or Action for any method (using reflection in c#)
 http://stackoverflow.com/questions/13041674/create-func-or-action-for-any-method-using-reflection-in-c
 
+** better switch case
+https://lostechies.com/derickbailey/2010/10/07/a-less-ugly-switch-statement-for-c/
+
 *** perfect example with method chaining
 http://davefancher.com/2015/06/14/functional-c-fluent-interfaces-and-functional-method-chaining/
 
