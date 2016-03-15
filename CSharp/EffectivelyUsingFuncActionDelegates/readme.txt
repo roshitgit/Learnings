@@ -1,3 +1,6 @@
+****Create Func or Action for any method (using reflection in c#)
+http://stackoverflow.com/questions/13041674/create-func-or-action-for-any-method-using-reflection-in-c
+
 *** perfect example with method chaining
 http://davefancher.com/2015/06/14/functional-c-fluent-interfaces-and-functional-method-chaining/
 
