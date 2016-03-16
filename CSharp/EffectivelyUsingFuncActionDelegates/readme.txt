@@ -5,6 +5,8 @@ http://stackoverflow.com/questions/13041674/create-func-or-action-for-any-method
 http://dotnetcodr.com/2014/02/27/events-delegates-and-lambdas-in-net-c-part-5-lambda-func-action/
 http://simpleprogrammer.com/2010/09/24/explaining-what-action-and-func-are/ ------- very good
 http://simpleprogrammer.com/2010/06/18/the-power-of-func/ ----- cool
+http://www.experts-exchange.com/questions/28443817/C-ASP-net-MVC-how-to-dynamically-pass-a-T-parameter-to-a-generic-linq-function-call.html----- cool
+
 
 ** better switch case
 https://lostechies.com/derickbailey/2010/10/07/a-less-ugly-switch-statement-for-c/
