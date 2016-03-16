@@ -1,8 +1,14 @@
 ****Create Func or Action for any method (using reflection in c#)
 http://stackoverflow.com/questions/13041674/create-func-or-action-for-any-method-using-reflection-in-c
 
+*** very good example
+http://dotnetcodr.com/2014/02/27/events-delegates-and-lambdas-in-net-c-part-5-lambda-func-action/
+http://simpleprogrammer.com/2010/09/24/explaining-what-action-and-func-are/ ------- very good
+http://simpleprogrammer.com/2010/06/18/the-power-of-func/ ----- cool
+
 ** better switch case
 https://lostechies.com/derickbailey/2010/10/07/a-less-ugly-switch-statement-for-c/
+http://simpleprogrammer.com/2010/08/17/pulling-out-the-switch-its-time-for-a-whooping/
 
 *** better idisposable
 http://www.wadeware.net/software-development/c-autocleanup-class-leverage-idisposable-and-lambda-expressions-to-get-rid-of-clumsy-tryfinally-blocks/
