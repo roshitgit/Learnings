@@ -1,3 +1,6 @@
+** MVC request pipeline
+http://blog.thedigitalgroup.com/chetanv/2015/06/30/a-detailed-walkthrough-of-asp-net-mvc-request-life-cycle/
+
 ** MVC forms auth
 http://blog.stevensanderson.com/2008/08/25/using-the-browsers-native-login-prompt/
 
