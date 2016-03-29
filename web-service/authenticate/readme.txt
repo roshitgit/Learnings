@@ -17,6 +17,22 @@ https://msdn.microsoft.com/en-us/library/bfazk0tb.aspx
 ********* CALL API/ WSDL using ServicePointManager and create proxy **********
 **** Other simple way is to call WSDL using WSDL utility to create proxy *******
 
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Web;
+using System.Web.UI;
+using System.Web.UI.WebControls;
+
+using System.ServiceModel;
+using System.ServiceModel.Channels;
+using System.Security.Cryptography.X509Certificates;
+using System.ServiceModel.Security.Tokens;
+using System.ServiceModel.Security;
+using System.Net;
+using System.Net.Security;
+using System.Text;
+
 //turn off Certificate validation
         ServicePointManager.ServerCertificateValidationCallback = (object s, X509Certificate certificate, X509Chain chain,
                      SslPolicyErrors sslPolicyErrors) => true;
