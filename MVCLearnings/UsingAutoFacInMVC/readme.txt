@@ -6,7 +6,10 @@ http://blogs.msdn.com/b/roncain/archive/2012/07/16/dependency-injection-with-asp
 *** OWIN for autofac
 https://github.com/autofac/Autofac.WebApi.Owin/tree/master/src
 
-https://thecsharper.com/?p=258
+** autofac scopes
+http://docs.autofac.org/en/latest/lifetime/instance-scope.html
+
+https://thecsharper.com/?p=258    ------- vgood. must see and try
 http://www.resolvinghere.com/sof/20353207.shtml
 
 *** using autofac with web api
