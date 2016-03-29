@@ -1,4 +1,6 @@
-*** follow these steps to use autofac with MVC 5 and Web API in tandem. that is to use with controllers and apicontrollers.
+*** follow these steps to use autofac with MVC 5 and Web API in tandem. 
+*** that is to use with controllers and apicontrollers.
+*** follow these steps if u are using VS 2013, Web API 2.0 and MVC 5 template ( that comes with VS 2013)
 
 A. Install these nuget packages
    Install-Package Autofac.Mvc5
@@ -44,6 +46,6 @@ protected void Application_Start()
             // WebApi Configuration to hook up formatters and message handlers
             GlobalConfig.CustomizeConfig(GlobalConfiguration.Configuration);
 
-            Bootstrapper.Run();//Initialise dependency resolvers
+            Bootstrapper.Run();//Initialise autofac dependency resolvers
 
         }
