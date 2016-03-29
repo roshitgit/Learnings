@@ -4,6 +4,9 @@ http://www.remondo.net/repository-pattern-example-csharp/
 *** very good exmaple
 http://blog.falafel.com/generic-repository-pattern-with-entity-framework-and-web-api/
 
+** excellent
+http://www.codeproject.com/Articles/875165/To-Repository-Or-NOT
+
 *** very good
 http://stackoverflow.com/questions/28102970/does-repository-pattern-follow-solid-principles
 ** similar with explanation
