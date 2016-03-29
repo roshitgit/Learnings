@@ -12,3 +12,28 @@ http://blog.gauffin.org/2012/12/05/solved-getting-401-unauthorized-while-calling
 
 ***Configure an XML Web Service for Windows Authentication
 https://msdn.microsoft.com/en-us/library/bfazk0tb.aspx
+
+
+*********
+
+//turn off Certificate validation
+        ServicePointManager.ServerCertificateValidationCallback = (object s, X509Certificate certificate, X509Chain chain,
+                     SslPolicyErrors sslPolicyErrors) => true;
+
+        SecurityBindingElement securityElement = SecurityBindingElement.CreateUserNameOverTransportBindingElement();
+        securityElement.IncludeTimestamp = false;
+        TextMessageEncodingBindingElement encodingElement = new TextMessageEncodingBindingElement(MessageVersion.Soap11, Encoding.UTF8);
+        HttpsTransportBindingElement tranportElement = new HttpsTransportBindingElement();
+
+        CustomBinding customBinding = new CustomBinding(securityElement, encodingElement, tranportElement);
+
+        EndpointAddress address = new EndpointAddress("https://<url>?wsdl");
+        
+        <proxy>.class instance = new <proxy>.class(customBinding, address);
+        instance.ClientCredentials.UserName.UserName = "admin";
+        instance.ClientCredentials.UserName.Password = "admin";
+
+        instance.Endpoint.Behaviors.Add(new CustomEndpointBehavior());
+
+        var orderResult = instance.<method>("<params>");
+        
