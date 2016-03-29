@@ -14,7 +14,8 @@ http://blog.gauffin.org/2012/12/05/solved-getting-401-unauthorized-while-calling
 https://msdn.microsoft.com/en-us/library/bfazk0tb.aspx
 
 
-*********
+********* CALL API/ WSDL using ServicePointManager and create proxy **********
+**** Other simple way is to call WSDL using WSDL utility to create proxy *******
 
 //turn off Certificate validation
         ServicePointManager.ServerCertificateValidationCallback = (object s, X509Certificate certificate, X509Chain chain,
