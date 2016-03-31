@@ -10,3 +10,5 @@
   * used windows auth under authentication  --- disabled anonymous auth and enabled win auth with kernel mode checked.
   * enabled static and dynamic compression
 7. Applied DNS mapping of server on the website host headers
+
+8. For uploading/ saving file on server, provide full access to IUSR on the folder to upload file
