@@ -51,6 +51,8 @@ https://github.com/CuongDuongDuy/MyUniversity
 https://github.com/eyamenko/CategoriesApp
 https://github.com/semihbas/HealthService ----- good
 https://github.com/rafalbielec/example-mvc5-application --- good
+https://github.com/raghav-rosberg/UnitOfWorkWithMultipleDBContext ----- must try - using service, UOW & autofac
+
 
 *** check for disposable pattern here --- very good
 https://github.com/aamir-poswal/CodeSample
