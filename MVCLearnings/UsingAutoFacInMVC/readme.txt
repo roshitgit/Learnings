@@ -14,6 +14,8 @@ https://media.readthedocs.org/pdf/autofac/latest/autofac.pdf
 
 ** idisposable done right  --------- must read
 http://blog.phatboyg.com/c%23/2012/11/29/idisposable-done-right.html
+** idisposable in autofac    http://binarysculpting.com/2012/08/19/using-idisposable-with-autofac/
+
 
 ** good one on autofac testing
 http://stackoverflow.com/questions/22331095/transitioning-to-autofacwebapidependencyresolver-from-mvcs-dependencyresolver
