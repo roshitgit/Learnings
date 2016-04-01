@@ -12,3 +12,7 @@
 7. Applied DNS mapping of server on the website host headers
 8. For uploading/ saving file on server, provide full access to "IIS_IUSRS" group on the folder to upload file
 9. Disabled browser caching on DEV & QA using cache buster. Enabled caching on UAT and PROD using "FileVersion" key in web.config.
+10. Tried the below IOC containers in App.
+   a. MS Unity
+   b. Ninject
+   c. Autofac -- best
