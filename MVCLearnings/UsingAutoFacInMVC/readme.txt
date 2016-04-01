@@ -5,6 +5,7 @@ http://blogs.msdn.com/b/roncain/archive/2012/07/16/dependency-injection-with-asp
 
 *** OWIN for autofac
 https://github.com/autofac/Autofac.WebApi.Owin/tree/master/src
+https://github.com/autofac/Autofac.Owin/blob/be1f12c195e939347bf5b5e91279030d0ea39054/src/Autofac.Integration.Owin/AutofacAppBuilderExtensions.cs
 
 ** idependency scope tracing
 http://www.tugberkugurlu.com/archive/asp-net-web-api-tracing-and-idependencyscope-dispose-issue
