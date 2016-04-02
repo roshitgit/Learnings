@@ -37,6 +37,7 @@ https://thecsharper.com/?p=258    ------- vgood. must see and try
 http://www.resolvinghere.com/sof/20353207.shtml
 
 *** using autofac with web api
+http://stackoverflow.com/questions/11484904/is-it-possible-to-configure-autofac-to-work-with-asp-net-mvc-and-asp-net-web-api/24141348#24141348 ----- must try in camp
 https://davidneece.com/Coding/ServerSide/Dependency_Injection_With_ASP_Dot_Net_MVC_And_Autofac  ----good
 http://chsakell.com/2015/02/15/asp-net-mvc-solution-architecture-best-practices/ -----good
 http://www.codeproject.com/Articles/25380/Dependency-Injection-with-Autofac ----good
