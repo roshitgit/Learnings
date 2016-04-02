@@ -11,5 +11,12 @@ http://iamlevi.net/asp-net-mvc-4-ways-handle-exceptions/
 http://forums.asp.net/t/1775795.aspx?When+to+use+HandleErrorAttribute+or+Application_Error
 https://www.simple-talk.com/dotnet/asp.net/handling-errors-effectively-in-asp.net-mvc/
 
+*** all good ones (must see and try)
+http://www.codeproject.com/Articles/1028416/RESTful-Day-sharp-Request-logging-and-Exception-ha
+http://stackoverflow.com/questions/32758467/webapi-global-exception-handling
+http://mattrandle.me/web-api-error-handling/
+http://blog.karbyn.com/index.php/handling-errors-in-web-api-using-exception-filters-and-exception-handlers/
+http://www.exceptionnotfound.net/the-asp-net-web-api-exception-handling-pipeline-a-guided-tour/
+
 ** good technique- must see and try
 http://www.codeguru.com/csharp/.net/net_asp/handling-exceptions-in-asp.net-web-api.htm
