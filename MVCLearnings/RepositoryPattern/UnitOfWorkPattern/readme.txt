@@ -2,6 +2,9 @@
 ** explains why to use UOW. (must implement)
 http://www.asp.net/mvc/overview/older-versions/getting-started-with-ef-5-using-mvc-4/implementing-the-repository-and-unit-of-work-patterns-in-an-asp-net-mvc-application
 
+*** better and simple UOW with factory pattern (this is simpler form of code camper UOW pattern)
+https://github.com/nakov/Messages-REST-Service/tree/master/Messages.Data
+
 *** generic UOW (excellent- must try)
 https://github.com/johnpapa/CodeCamper ---- try this in camp
 
