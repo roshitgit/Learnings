@@ -1,7 +1,16 @@
-
-
 *** must see and try
 http://blogs.msdn.com/b/roncain/archive/2012/07/16/dependency-injection-with-asp-net-web-api-and-autofac.aspx
+https://dependencyinjector.wordpress.com/2014/12/19/setting-up-dependency-injection-in-asp-net-mvc-with-autofac/
+
+** using lazy<T> with unity and autofac
+http://www.devtrends.co.uk/blog/how-not-to-do-dependency-injection-the-static-or-singleton-container
+ 
+** autofac property injection (must use in camp)
+http://www.strathweb.com/2016/03/the-subtle-perils-of-controller-dependency-injection-in-asp-net-core-mvc/
+
+*** correctly handling dispose in autofac (v imp)
+http://www.eidias.com/blog/2014/2/17/memory-leak-by-misusing-autofac
+http://nblumhardt.com/2011/01/an-autofac-lifetime-primer/    ------- must check
 
 *** OWIN for autofac
 https://github.com/autofac/Autofac.WebApi.Owin/tree/master/src
