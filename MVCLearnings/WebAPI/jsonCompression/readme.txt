@@ -1,6 +1,9 @@
 http://stackoverflow.com/questions/10949411/mvc4-webapi-not-compressing-get-responses
 http://stackoverflow.com/questions/2138243/how-do-i-compress-a-json-result-from-asp-net-mvc-with-iis-7-5
+
+** apply compression in code and applicationhost.config
 http://benfoster.io/blog/aspnet-web-api-compression
+https://github.com/benfoster/Fabrik.Common/tree/master/src/Fabrik.Common.WebAPI  -- source code
 
 ** using nuget package
 http://stackoverflow.com/questions/24815706/webapi-gzip-when-returning-httpresponsemessage
