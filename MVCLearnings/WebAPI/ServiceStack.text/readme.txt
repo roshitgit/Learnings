@@ -4,10 +4,12 @@ step2 => Add formatter & setup formatter as shown in link below
        http://www.strathweb.com/2013/01/replace-json-net-with-servicestack-text-in-asp-net-web-api
 step3 => If you are using "JObject" while posting object to MVC APIController using Angular/ JQuery,
        then replace "JObject" with "ServiceStack.Text.JsonObject" in the code.
-       
-       
-       
 
+** dynamic
+https://gist.github.com/danielcrenna/3719610
+https://github.com/ServiceStack/ServiceStack.Text#supports-dynamic-json
+http://stackoverflow.com/questions/26080003/deserialize-json-into-a-dynamic-object-with-servicestack-text
+http://www.ienablemuch.com/2012/05/anonymous-type-dynamic-servicestack.html
 
 https://servicestack.net/download
 https://servicestack.net/
@@ -20,7 +22,7 @@ http://stackoverflow.com/questions/19050672/servicestack-text-output-utc-offset
 
 https://components.xamarin.com/view/servicestacktext
 http://codereply.com/answer/5o5wok/serializing-expandoobject-servicestacktext.html
-http://www.ienablemuch.com/2012/05/anonymous-type-dynamic-servicestack.html
+
 
 ** good example of using web api routes with verbs
 http://www.dotnetcurry.com/aspnet/1056/introducing-service-stack-tutorial
