@@ -11,6 +11,9 @@ https://github.com/ServiceStack/ServiceStack.Text#supports-dynamic-json
 http://stackoverflow.com/questions/26080003/deserialize-json-into-a-dynamic-object-with-servicestack-text
 http://www.ienablemuch.com/2012/05/anonymous-type-dynamic-servicestack.html
 
+**fastest json serializer
+https://github.com/ServiceStackV3/mythz_blog/blob/master/pages/344.md
+
 https://servicestack.net/download
 https://servicestack.net/
 http://www.strathweb.com/2013/01/replace-json-net-with-servicestack-text-in-asp-net-web-api/ --- must see and try out
