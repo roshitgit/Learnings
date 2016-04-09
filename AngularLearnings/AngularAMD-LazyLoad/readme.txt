@@ -24,8 +24,11 @@ http://exchange.opcartstore.com/questions/view/97755/oclazyload-does-not-load-ne
 
 *** good ones below. try out
 https://github.com/ocombe/ocLazyLoad/issues/4 --vgood
+https://github.com/CodeTap/angularjs-requirejs-uirouter-lazy-loading-seed ---- this is perfect example to check out
 https://github.com/ifyio/angularjs-lazy-loading-with-requirejs   -------- this is perfect example to check out
+https://github.com/F1LT3R/angular-require-lazyload-template ---- this is perfect example to check out
 https://github.com/micronyks/angular-dynamic-controllers  ------------- very good
+https://github.com/corbanCloud/angular-demo
 
 http://pr8x.com/st/questions/28184616/angularjs-lazy-load-template-and-controller-in-ui-router-requirejs-oclazyload.html
 http://stackoverflow.com/questions/28184616/angularjs-lazy-load-template-and-controller-in-ui-router-requirejs-oclazyload/33537495#33537495
@@ -61,6 +64,7 @@ https://github.com/Villanuevand/oclazyload-angularjs
 https://github.com/brenodouglas/angularOcLazyLoad
 https://github.com/jorgeferrando/angular-lazy-load-seed
 https://github.com/lstaszak/lazyloading
+https://github.com/gsaini/angular-lazyload-module
 https://github.com/malibagci/grunt-angular-builder-ocLazyload
 https://github.com/aj-dev/angular-app
 https://github.com/imsheth/angular-ui-router-oclazyload-requirejs
