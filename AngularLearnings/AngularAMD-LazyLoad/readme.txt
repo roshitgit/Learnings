@@ -27,7 +27,13 @@ https://github.com/ocombe/ocLazyLoad/issues/4 --vgood
 https://github.com/CodeTap/angularjs-requirejs-uirouter-lazy-loading-seed ---- this is perfect example to check out
 https://github.com/ifyio/angularjs-lazy-loading-with-requirejs   -------- this is perfect example to check out
 https://github.com/F1LT3R/angular-require-lazyload-template ---- this is perfect example to check out
+https://github.com/F1LT3R/angular-lazy-load ------ check out
+https://github.com/ThomasChan/requirejs-angularjs-lazyload-demo ------- check out
+https://github.com/charandas/ui-router-lazy-example  --- good
+https://github.com/sagar-ganatra/angular-require-resolve --- good
 https://github.com/micronyks/angular-dynamic-controllers  ------------- very good
+https://github.com/guoqing2013/angular-requireJS-ocLazyLoad ----- very good
+https://github.com/HPaulowicz/ocLazyLoad-starter ------ very good must see
 https://github.com/corbanCloud/angular-demo
 
 http://pr8x.com/st/questions/28184616/angularjs-lazy-load-template-and-controller-in-ui-router-requirejs-oclazyload.html
