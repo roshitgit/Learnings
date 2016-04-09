@@ -7,6 +7,7 @@ http://www.devtrends.co.uk/blog/how-not-to-do-dependency-injection-the-static-or
 
 ** Owin autofac integration
 https://github.com/AkosLukacs/Autofac-OWIN-MVC
+https://github.com/taginn/OwinAutofacPoc
  
 ** autofac property injection (must use in camp)
 http://www.strathweb.com/2016/03/the-subtle-perils-of-controller-dependency-injection-in-asp-net-core-mvc/
