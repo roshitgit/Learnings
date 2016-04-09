@@ -4,6 +4,9 @@ https://dependencyinjector.wordpress.com/2014/12/19/setting-up-dependency-inject
 
 ** using lazy<T> with unity and autofac
 http://www.devtrends.co.uk/blog/how-not-to-do-dependency-injection-the-static-or-singleton-container
+
+** Owin autofac integration
+https://github.com/AkosLukacs/Autofac-OWIN-MVC
  
 ** autofac property injection (must use in camp)
 http://www.strathweb.com/2016/03/the-subtle-perils-of-controller-dependency-injection-in-asp-net-core-mvc/
