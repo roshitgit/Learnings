@@ -6,6 +6,12 @@ http://marcoslin.github.io/angularAMD/#/home
 https://github.com/marcoslin/angularAMD
 http://bl.ocks.org/marcoslin/df4b741e92b2829eeae8
 
+*** must try
+http://plnkr.co/edit/aGxuXMiPgYA0TFc67YL4?p=preview
+https://github.com/jorgeferrando/angular-lazy-load-seed
+https://github.com/CodeTap/angularjs-requirejs-uirouter-lazy-loading-seed ---- this is perfect example to check out
+http://blog.getelementsbyidea.com/load-a-module-on-demand-with-angularjs/ ----- very good
+
 ** angular lazy load
 http://strangemilk.com/angularjs-lazy-loading/
 
@@ -24,7 +30,7 @@ http://exchange.opcartstore.com/questions/view/97755/oclazyload-does-not-load-ne
 
 *** good ones below. try out
 https://github.com/ocombe/ocLazyLoad/issues/4 --vgood
-https://github.com/CodeTap/angularjs-requirejs-uirouter-lazy-loading-seed ---- this is perfect example to check out
+
 https://github.com/ifyio/angularjs-lazy-loading-with-requirejs   -------- this is perfect example to check out
 https://github.com/F1LT3R/angular-require-lazyload-template ---- this is perfect example to check out
 https://github.com/F1LT3R/angular-lazy-load ------ check out
@@ -61,14 +67,14 @@ http://plnkr.co/edit/gLFtn6?p=preview ---- very good. very good example using Oz
 http://embed.plnkr.co/gLFtn6/preview
 
 **** angular with OzlazyLoad examples
-http://blog.getelementsbyidea.com/load-a-module-on-demand-with-angularjs/ ----- very good
+
 http://www.cnblogs.com/Answer1215/p/4039374.html  ----- simple example
 https://github.com/ocombe/ocLazyLoad
 https://github.com/biroa/oclazyloading-play-a
 https://github.com/lmk123/demo-ocLazyLoad
 https://github.com/Villanuevand/oclazyload-angularjs
 https://github.com/brenodouglas/angularOcLazyLoad
-https://github.com/jorgeferrando/angular-lazy-load-seed
+
 https://github.com/lstaszak/lazyloading
 https://github.com/gsaini/angular-lazyload-module
 https://github.com/malibagci/grunt-angular-builder-ocLazyload
