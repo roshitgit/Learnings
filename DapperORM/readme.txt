@@ -1,3 +1,8 @@
+***** try this in any dapper soln
+https://github.com/aywengo/SpMapper4Dapper
+https://github.com/strvmarv/DapperExtensions
+https://github.com/half-ogre/dapper-wrapper
+
 With Dapper Install other packages also
 * install-package Dapper
 * install-package Dapper.Contrib
