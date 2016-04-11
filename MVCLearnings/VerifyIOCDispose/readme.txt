@@ -11,3 +11,7 @@ http://www.nuget.org/packages/TaskHelpers.Sources
 
 **** web api integration  testing with owin
 https://blog.kloud.com.au/2014/10/26/asp-net-web-api-integration-testing-with-one-line-of-code/
+
+*** other project to check
+https://github.com/gerrod/Autofac-WebAPI-Lifetimes
+https://robdmoore.id.au/blog/2012/04/27/testing-code-that-uses-autofac-dependencyresolver-in-asp-net-mvc/
