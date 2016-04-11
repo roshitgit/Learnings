@@ -7,6 +7,9 @@ http://www.c-sharpcorner.com/UploadFile/db2972/trace-web-api-execution-time-usin
 *** pass JObject via HTTPPost to MVC controller ------------------- very good must try. check type conversion
 http://geekswithblogs.net/Aligned/archive/2013/01/17/using-json.net-jobject-with-webapi-gets.aspx
 
+**** web api integration  testing with owin
+https://blog.kloud.com.au/2014/10/26/asp-net-web-api-integration-testing-with-one-line-of-code/
+
 ** self host web api
 http://www.asp.net/web-api/overview/older-versions/self-host-a-web-api
 
