@@ -7,6 +7,8 @@ http://simpleprogrammer.com/2010/09/24/explaining-what-action-and-func-are/ ----
 http://simpleprogrammer.com/2010/06/18/the-power-of-func/ ----- cool
 http://www.experts-exchange.com/questions/28443817/C-ASP-net-MVC-how-to-dynamically-pass-a-T-parameter-to-a-generic-linq-function-call.html----- cool
 
+*** exception refactor (vgood)
+http://stackoverflow.com/questions/16648438/refactoring-exception-handling
 
 ** better switch case
 https://lostechies.com/derickbailey/2010/10/07/a-less-ugly-switch-statement-for-c/
@@ -20,6 +22,7 @@ http://davefancher.com/2015/06/14/functional-c-fluent-interfaces-and-functional-
 
 *** good code reuse
 http://stackoverflow.com/questions/9808035/how-do-i-make-the-return-type-of-a-method-generic
+http://stackoverflow.com/questions/2752013/how-do-i-refactor-this-code-by-using-actiont-or-funct-delegates
 
 **** all good ones (must try)
 https://agilewarrior.wordpress.com/2011/09/21/refactoring-try-catch-statements-in-c/
