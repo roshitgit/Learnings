@@ -1,6 +1,9 @@
 ****Create Func or Action for any method (using reflection in c#)
 http://stackoverflow.com/questions/13041674/create-func-or-action-for-any-method-using-reflection-in-c
 
+** good simple example. must try
+http://codereview.stackexchange.com/questions/18379/how-to-remove-code-duplication-that-difference-only-a-few-lines
+
 *** very good example
 http://dotnetcodr.com/2014/02/27/events-delegates-and-lambdas-in-net-c-part-5-lambda-func-action/
 http://simpleprogrammer.com/2010/09/24/explaining-what-action-and-func-are/ ------- very good
