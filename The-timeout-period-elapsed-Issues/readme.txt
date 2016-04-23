@@ -3,6 +3,9 @@ https://github.com/HangfireIO/Hangfire/issues/273
 http://www.smarterasp.net/support/kb/a1540/the-timeout-period-elapsed-prior-to-obtaining-a-connection-from-the-pool_.aspx
 http://www.codeproject.com/Questions/423588/The-timeout-period-elapsed-prior-to-obtaining-a-co
 http://www.codeguru.com/csharp/.net/net_asp/article.php/c19395/Tuning-Up-ADONET-Connection-Pooling-in-ASPNET-Applications.htm
+http://www.c-sharpcorner.com/UploadFile/baimey/garbage-collection-in-net-4-5/
+http://stackoverflow.com/questions/8602395/timeout-expired-the-timeout-period-elapsed-prior-to-completion-of-the-operation
+https://support.microsoft.com/en-in/kb/2605597
 
 ******* perfect way to implement idisposable
 https://msdn.microsoft.com/en-us/library/ff647790.aspx
