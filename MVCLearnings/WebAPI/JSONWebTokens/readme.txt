@@ -6,3 +6,5 @@ http://codebetter.com/johnvpetersen/2012/04/02/making-your-asp-net-web-apis-secu
 https://github.com/tjoudeh/JWTAspNetWebApi/tree/master/AuthorizationServer.Api
 http://bitoftech.net/2014/10/27/json-web-token-asp-net-web-api-2-jwt-owin-authorization-server/
 https://jwt.io/
+http://blog.asteropesystems.com/securing-web-api-requests-with-json-web-tokens/    ----- try this
+
