@@ -16,3 +16,11 @@ http://www.hanselman.com/blog/EnablingDynamicCompressionGzipDeflateForWCFDataFee
 appcmd.exe set config -section:system.webServer/httpCompression /+"dynamicTypes.[mimeType='application/json',enabled='True']" /commit:apphost
 
 Path on server => ApplicationHost.config. This file is located in %windir%\system32\inetsrv\config
+
+*** improve json performance
+http://stackify.com/top-11-json-performance-usage-tips/
+https://minhtuanq6.wordpress.com/2016/02/17/asp-net-web-api-gzip-compression-actionfilter/  -------- try this
+http://stevehanov.ca/blog/index.php?id=104   ------ not sure but try
+
+***posting-compressed-json-content-to-asp-net-web-api-controller/
+http://blog.kaliatech.com/2013/02/posting-compressed-json-content-to-asp-net-web-api-controller/
