@@ -17,3 +17,12 @@ b. add key="DBConnection" value="server=LocalHost;uid=sa;pwd=;database=DataBaseN
 a. exec sp_updatestats
  If that doesn't work you could also try
 b. dbcc freeproccache
+
+*** on database
+1. check the Execution time-out Settings first. Make sure those are 0.
+a. Open SSMS (SQL SERVER Management Studio). Tools->Options->Query Execution->SQL 
+SERVER->General: Execution time-out. Set to 0.
+b. Open a new Query window from SSMS. Query->Query Options->Execution->General: 
+Execution time-out. Set to 0.
+c. On SSMS, File->new->Database Engine Query->Options->[Connection 
+Properties]->Execution time-out. Set to 0.
