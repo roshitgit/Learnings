@@ -17,6 +17,7 @@ b. add key="DBConnection" value="server=LocalHost;uid=sa;pwd=;database=DataBaseN
 a. exec sp_updatestats
  If that doesn't work you could also try
 b. dbcc freeproccache
+c. running sp_who2 while the query is running to see if BlkBy contains a SPID of a blocking session.
 
 *** on database
 1. check the Execution time-out Settings first. Make sure those are 0.
