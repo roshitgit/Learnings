@@ -5,3 +5,6 @@ https://support.microsoft.com/en-us/kb/2901951
 
 **** VS2013 Updates
 http://www.nitrix-reloaded.com/microsoft/net/net-framework/net-framework-4-5-2/
+
+**** VS 2013 & Web API improvements - must read and implement
+http://www.tuicool.com/articles/eEVZbe
