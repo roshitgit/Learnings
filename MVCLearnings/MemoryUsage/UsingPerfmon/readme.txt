@@ -8,6 +8,9 @@ http://robinsedlaczek.com/2014/04/07/measure-performance-of-asp-net-web-applicat
 ** try this trial
 https://www.softwareverify.com/cpp-memory.php
 
+***tracing-in-aspnet-web-api
+http://www.asp.net/web-api/overview/testing-and-debugging/tracing-in-aspnet-web-api
+
 *** building-performance-metrics-into-asp.net-mvc-applications/ ( try this)
 https://www.simple-talk.com/dotnet/performance/building-performance-metrics-into-asp.net-mvc-applications/
 
@@ -15,6 +18,7 @@ https://www.simple-talk.com/dotnet/performance/building-performance-metrics-into
 http://pal.codeplex.com/
 
 ** vgood. check this to identify and use perfmon
+http://byterot.blogspot.in/2013/04/Monitor-your-ASP-NET-Web-API-application-using-your-own-custom-counters.html    ------ try this
 http://blogs.msdn.com/b/visualstudioalm/archive/2013/06/20/using-visual-studio-2013-to-diagnose-net-memory-issues-in-production.aspx
 http://stackoverflow.com/questions/13473761/perfmon-counters-to-check-memory-leak
 http://www.c-sharpcorner.com/uploadfile/shivprasadk/best-practices-no-5-detecting-net-application-memory-leaks/
