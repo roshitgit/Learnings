@@ -20,3 +20,6 @@
    
    *******IIS optimizations to try
    https://msdn.microsoft.com/en-us/library/ee377050(v=bts.10).aspx
+   http://webdebug.net/2015/03/iis-performance-optimization-guideline/
+   http://docslide.us/documents/iis7-integrated-pipeline-mode-vs-classic-mode-v2-41.html
+   http://quabr.com/28882774/iis-performance-issues-moving-from-7-to-8-5
