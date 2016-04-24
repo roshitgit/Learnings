@@ -16,3 +16,7 @@
    a. MS Unity
    b. Ninject
    c. Autofac -- best
+   
+   
+   *******IIS optimizations to try
+   https://msdn.microsoft.com/en-us/library/ee377050(v=bts.10).aspx
