@@ -2,8 +2,13 @@
 ** perfmon - great tool to check memory leaks
 http://mitch-wheat.blogspot.com/2010/11/determine-if-your-net-application-has.html
 https://blogs.msdn.microsoft.com/tess/2008/03/25/net-debugging-demos-lab-7-memory-leak/
-http://www.dotnetfunda.com/articles/show/625/best-practices-no-5-detecting-net-application-memory-leaks#Usingprivatebytesperformancecounterstodetectmemoryleak
+
+*** Usingprivatebytesperformancecounterstodetectmemoryleak
+http://www.dotnetfunda.com/articles/show/625/best-practices-no-5-detecting-net-application-memory-leaks
 http://robinsedlaczek.com/2014/04/07/measure-performance-of-asp-net-web-applications-with-microsoft-performance-monitor-2/
+
+*** using miniprofiler
+http://www.hanselman.com/blog/NuGetPackageOfTheWeek9ASPNETMiniProfilerFromStackExchangeRocksYourWorld.aspx
 
 ** try this trial
 https://www.softwareverify.com/cpp-memory.php
@@ -13,11 +18,13 @@ http://www.asp.net/web-api/overview/testing-and-debugging/tracing-in-aspnet-web-
 
 *** building-performance-metrics-into-asp.net-mvc-applications/ ( try this)
 https://www.simple-talk.com/dotnet/performance/building-performance-metrics-into-asp.net-mvc-applications/
+http://www.codeproject.com/Articles/42721/Best-Practices-No-Detecting-NET-application-memo
 
 *** performance analysis ( open source )
 http://pal.codeplex.com/
 
 ** vgood. check this to identify and use perfmon
+https://robinsedlaczek.com/2014/04/07/measure-performance-of-asp-net-web-applications-with-microsoft-performance-monitor-2/  --- try this
 http://byterot.blogspot.in/2013/04/Monitor-your-ASP-NET-Web-API-application-using-your-own-custom-counters.html    ------ try this
 http://blogs.msdn.com/b/visualstudioalm/archive/2013/06/20/using-visual-studio-2013-to-diagnose-net-memory-issues-in-production.aspx
 http://stackoverflow.com/questions/13473761/perfmon-counters-to-check-memory-leak
