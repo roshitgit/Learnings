@@ -12,7 +12,11 @@ https://jsfiddle.net/vojtajina/U7Bz9/
 ****angularjs-virtual-list-directive
 http://twofuckingdevelopers.com/2014/11/angularjs-virtual-list-directive-tutorial/
 
+*** infinite scroll
+https://recalll.co/app/?q=javascript%20-%20AngularJS%20Infinite%20Scrolling%20with%20lots%20of%20data%20-%20Stack%20Overflow
+
 *** angular material
+http://fuse-angular-material.withinpixels.com/components/angular-material-elements/virtual-repeat
 https://material.angularjs.org/latest/
 http://blog.patrickmriley.net/infinite-scrolling-geo-paginated-queries-with-angular-material-node-js/
 
