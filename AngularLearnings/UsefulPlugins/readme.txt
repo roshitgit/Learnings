@@ -10,6 +10,10 @@ http://stackoverflow.com/questions/tagged/ag-grid?page=2&sort=newest&pagesize=15
 *** angular grid
 http://ignitersworld.com/lab/angulargrid/
 
+*** github project (virtual scrolling)
+https://github.com/robhicks/sv-scroller/tree/master/test/src
+https://github.com/reidphilpot/r-grid-examples
+
 http://plnkr.co/edit/Qq2yfC?p=preview
 
 **** plain old JS for infinite scroll
