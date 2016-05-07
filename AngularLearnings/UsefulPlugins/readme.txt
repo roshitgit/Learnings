@@ -13,6 +13,7 @@ http://ignitersworld.com/lab/angulargrid/
 *** github project (virtual scrolling)
 https://github.com/robhicks/sv-scroller/tree/master/test/src
 https://github.com/reidphilpot/r-grid-examples
+https://github.com/reidphilpot/r-grid
 
 http://plnkr.co/edit/Qq2yfC?p=preview
 
