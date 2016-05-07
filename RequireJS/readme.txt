@@ -6,6 +6,9 @@ http://stackoverflow.com/questions/13464846/loading-bootstrap-from-cdn-with-requ
 https://github.com/sudo-cm/requirejs-bootstrap-demo/blob/master/assets/js/app.js
 http://robdodson.me/a-require-dot-js-multipage-shimmed-site-how-to/
 
+***require js map/ path/ shim
+http://www.sitepoint.com/using-requirejs-angularjs-applications/
+
 *** good
 http://www.scriptscoop.net/t/173a89711e64/angularjs-how-to-lazy-load-views-using-ui-router-and-requirejs.html
 http://plnkr.co/edit/roondIvZ2XXeS89PvW0J?p=preview
