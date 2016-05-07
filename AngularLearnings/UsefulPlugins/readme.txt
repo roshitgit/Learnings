@@ -20,10 +20,30 @@ http://plnkr.co/edit/Qq2yfC?p=preview
 **** plain old JS for infinite scroll
 https://jsfiddle.net/vojtajina/U7Bz9/
 
+****endless-scrolling
+http://davidchin.me/blog/endless-scrolling-in-angularjs/
+
 ****angularjs-virtual-list-directive
 http://twofuckingdevelopers.com/2014/11/angularjs-virtual-list-directive-tutorial/
 
+***angularis-bindable
+http://dailyjs.com/2014/02/18/angularis-bindable/
+
+** custom
+https://www.ibm.com/developerworks/community/blogs/3d274f0f-f47a-4bf0-91ec-8ebad479881b/entry/how_to_implement_a_table_with_lazy_loading_infinite_scroll_in_angularjs?lang=en
+
+*** lazy scroll
+http://shabeebk.com/blog/lazy-scroll-infinite-scrolling-angularjs-plugin/
+
 *** infinite scroll
+http://4dev.tech/2015/08/tutorial-implementing-infinite-scroll-with-angularjs-and-nginfinitescroll/
+https://sroze.github.io/ngInfiniteScroll/
+https://sroze.github.io/ngInfiniteScroll/demo_basic.html
+https://github.com/sroze/ngInfiniteScroll
+http://electron.rocks/doing-infinite-scroll-properly/
+https://github.com/hlsolutions/ngInfiniteScroll/tree/scroll-on-any-lement
+http://prasadhonrao.com/infinite-scrolling-in-angularjs/
+http://ngmodules.org/tags/infinite%20scroll
 https://recalll.co/app/?q=javascript%20-%20AngularJS%20Infinite%20Scrolling%20with%20lots%20of%20data%20-%20Stack%20Overflow
 
 *** angular material
