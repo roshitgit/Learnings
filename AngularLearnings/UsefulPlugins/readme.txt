@@ -20,6 +20,16 @@ http://plnkr.co/edit/Qq2yfC?p=preview
 **** plain old JS for infinite scroll
 https://jsfiddle.net/vojtajina/U7Bz9/
 
+*** more examples
+http://shashangka.com/2016/01/31/asp-net-mvc-infinite-scrolling-with-angularjs/
+http://www.dotnetawesome.com/2016/03/infinite-scroll-for-facebook-like-pagination-angularjs.html
+https://glebbahmutov.com/blog/infinite-slow-fake-data-using-angular/
+http://blog.grio.com/2013/02/server-side-pagination-with-angularjs.html
+http://www.williambrownstreet.net/blog/2013/07/angularjs-my-solution-to-the-ng-repeat-performance-problem/
+http://plnkr.co/edit/wxTyp7PpyxJOHSlUumVC?p=preview
+https://tech.small-improvements.com/2013/09/10/angularjs-performance-with-large-lists/
+http://www.lidorsystems.com/support/articles/angularjs/grid/grid-infinite-scroll.aspx
+
 ****endless-scrolling
 http://davidchin.me/blog/endless-scrolling-in-angularjs/
 
@@ -47,6 +57,7 @@ http://ngmodules.org/tags/infinite%20scroll
 https://recalll.co/app/?q=javascript%20-%20AngularJS%20Infinite%20Scrolling%20with%20lots%20of%20data%20-%20Stack%20Overflow
 
 *** angular material
+http://blogs.candoerz.com/question/126846/material-angular-infinite-scroll-with-http-request.aspx
 http://fuse-angular-material.withinpixels.com/components/angular-material-elements/virtual-repeat
 https://material.angularjs.org/latest/
 http://blog.patrickmriley.net/infinite-scrolling-geo-paginated-queries-with-angular-material-node-js/
