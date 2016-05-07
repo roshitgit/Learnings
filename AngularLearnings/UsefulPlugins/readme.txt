@@ -1,5 +1,9 @@
 ***** All - must try
 
+*** great plugin list
+http://angularjs4u.com/modules/5-angularjs-microsoft-word-excel-integrations/
+http://blog.viditsaxena.com/blog//huge-list-of-awesome-angular-plugins-modules-and-directives
+
 http://codepen.io/mtrtm/pen/PPdZyJ
 
 ****** Ag Grid
