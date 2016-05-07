@@ -6,6 +6,12 @@ http://codepen.io/mtrtm/pen/PPdZyJ
 https://www.ag-grid.com/example.php
 https://www.ag-grid.com/documentation-main/documentation.php
 
+**** plain old JS for infinite scroll
+https://jsfiddle.net/vojtajina/U7Bz9/
+
+****angularjs-virtual-list-directive
+http://twofuckingdevelopers.com/2014/11/angularjs-virtual-list-directive-tutorial/
+
 *** angular material
 https://material.angularjs.org/latest/
 http://blog.patrickmriley.net/infinite-scrolling-geo-paginated-queries-with-angular-material-node-js/
