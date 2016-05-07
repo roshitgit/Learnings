@@ -6,6 +6,9 @@ http://stackoverflow.com/questions/13464846/loading-bootstrap-from-cdn-with-requ
 https://github.com/sudo-cm/requirejs-bootstrap-demo/blob/master/assets/js/app.js
 http://robdodson.me/a-require-dot-js-multipage-shimmed-site-how-to/
 
+*** must read . check how to use "map" in configuration
+http://requirejs.org/docs/jquery.html 
+
 ***require js map/ path/ shim
 http://www.sitepoint.com/using-requirejs-angularjs-applications/
 
