@@ -1,3 +1,4 @@
+//var app = angular.module('app', ['ngAnimate', 'ngTouch', 'ui.grid']);
 var app = angular.module('app', ['ui.grid']);
 
 app.controller('MainCtrl', ['$scope', '$http', 'uiGridConstants', function ($scope, $http, uiGridConstants) {
@@ -17,6 +18,7 @@ app.controller('MainCtrl', ['$scope', '$http', 'uiGridConstants', function ($sco
 
     $http.get('/api/Data/GetRecordsForUiGrid')
     .success(function (data) {
+      
         $scope.gridOptions.data = data;
     });
 
