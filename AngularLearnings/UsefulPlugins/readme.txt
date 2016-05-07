@@ -85,10 +85,16 @@ http://www.json-generator.com/
 http://moonstorm.github.io/trNgGrid/release/#/Paging
 
 **** angular ui-grid
+https://github.com/angular-ui/ui-grid.info/tree/gh-pages/release   ------- all releases
+http://ui-grid.info/docs/#/tutorial/401_AllFeatures    ------ must see
 https://github.com/angular-ui/ui-grid
-https://github.com/angular-ui/ui-grid/wiki/Configuration-Options
+https://github.com/angular-ui/ui-grid/wiki/Configuration-Options     ---- must see
 http://ui-grid.info/docs/#/tutorial/306_custom_filters
+https://github.com/angular-ui/ui-grid/wiki/Templating     ------ must see
+https://github.com/angular-ui/ui-grid/wiki/Sorting    ----- must see
+https://github.com/angular-ui/ui-grid/wiki/Plugins     ---- must see
 http://angular-ui.github.io/ui-grid/
+http://plnkr.co/edit/OwgEfru0QyFaU1XJFezv?p=preview   ---------- very good plunk. must see and try . great features using directives
 http://brianhann.com/6-ways-to-take-control-of-how-your-ui-grid-data-is-displayed/
 http://jsfiddle.net/relly/ysmg1qkt/
 http://codepen.io/anon/pen/wayNOv
