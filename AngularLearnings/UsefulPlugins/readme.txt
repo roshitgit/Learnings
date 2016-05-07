@@ -89,6 +89,7 @@ http://www.json-generator.com/
 http://moonstorm.github.io/trNgGrid/release/#/Paging
 
 **** angular ui-grid
+https://meanstack.co/angular-js/using-requirejs-in-angularjs-applications/   ---- using require, ng grid & grunt
 https://github.com/angular-ui/ui-grid.info/tree/gh-pages/release   ------- all releases
 http://ui-grid.info/docs/#/tutorial/401_AllFeatures    ------ must see
 https://github.com/angular-ui/ui-grid
