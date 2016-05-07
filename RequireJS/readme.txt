@@ -11,6 +11,8 @@ http://requirejs.org/docs/jquery.html
 
 ***require js map/ path/ shim
 http://www.sitepoint.com/using-requirejs-angularjs-applications/
+https://www.safaribooksonline.com/blog/2013/10/04/using-requirejs-map-config/
+http://stackoverflow.com/questions/19216580/requirejs-paths-vs-map
 
 *** good
 http://www.scriptscoop.net/t/173a89711e64/angularjs-how-to-lazy-load-views-using-ui-router-and-requirejs.html
