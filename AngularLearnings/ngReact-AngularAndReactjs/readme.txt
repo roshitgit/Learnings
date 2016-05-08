@@ -1,7 +1,14 @@
+**** 1000s-of-facebook-s-react-js-components-all-for-free
+https://medium.com/@harshabhat86/1000s-of-facebook-s-react-js-components-all-for-free-dcf28c7d2757#.5ibkns32n
+
 ** All you want to know about react
 https://github.com/enaqx/awesome-react#react-and-angular
 http://pythonhackers.com/p/enaqx/awesome-react
 http://getawesomeness.com/get/react
+
+**** requirejs and ngreactgrid
+http://embed.plnkr.co/Rhnf7mpt8gwTfEgzoATl/preview
+http://plnkr.co/edit/Rhnf7mpt8gwTfEgzoATl?p=preview
 
 ** Performance Comparison for React, Angular and Knockout
 https://gist.github.com/RichAyotte/a7b8780341d5e75beca7
