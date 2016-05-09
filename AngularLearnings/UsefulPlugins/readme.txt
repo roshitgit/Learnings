@@ -89,6 +89,7 @@ http://www.json-generator.com/
 http://moonstorm.github.io/trNgGrid/release/#/Paging
 
 **** angular ui-grid
+http://stackoverflow.com/questions/16309978/angular-js-json-data-is-not-getting-displayed-in-ng-grid
 http://plnkr.co/edit/LBVpID5iQSJl1w9xlPBF?p=preview     ----- very good example. refer this important
 http://plnkr.co/edit/0cbfAqIELR4oXvNtnvuZ?p=preview        -------- ui grid simple example
 https://meanstack.co/angular-js/using-requirejs-in-angularjs-applications/   ---- using require, ng grid & grunt
