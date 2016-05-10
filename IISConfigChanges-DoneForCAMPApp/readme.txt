@@ -56,8 +56,9 @@ appcmd.exe set config -section:system.webServer/httpCompression /+"dynamicTypes.
  5. Finally click OK and ensure the folders from servers are visible under the virtual directory created for downloading file from remote server.
  6. After this most important part is to provide access to the FID on the remote server folder.
     note: 
-    a. Do not security tab on folder to provide permissions. It won't work
+    a. Do not use security tab on folder to provide permissions. It won't work
     b. Share the folder & provide access to the FID on shared folder. provide full access as "CoOwner".
+    c. After providing access on sharing, the granted permission appeasr on security tab as well but it does not happen Vice Versa.
  7. After folder share, test the download functionality from UI Web APP and click on download link.
  8. Excel file should be available for download or should open from the Client machine.
  
