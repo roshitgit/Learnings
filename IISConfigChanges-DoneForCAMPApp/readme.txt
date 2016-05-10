@@ -40,9 +40,9 @@ Data Source=<principle server name>;     //ServerName\Instance
 Failover Partner=<failover server name>; //ServerName\Instance  (only required for production)
 Trusted_Connection=True; 
 Database=<database name>; 
-Connect Timeout=150; 
+Connect Timeout=150;                    // don't specify
 pooling='true'; 
-Min Pool Size=20; 
+Min Pool Size=20;                        // don't specify
 Max Pool Size=100;
 
    *******IIS optimizations to try
