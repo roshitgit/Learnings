@@ -40,3 +40,24 @@ appcmd.exe set config -section:system.webServer/httpCompression /+"dynamicTypes.
    http://webdebug.net/2015/03/iis-performance-optimization-guideline/
    http://docslide.us/documents/iis7-integrated-pipeline-mode-vs-classic-mode-v2-41.html
    http://quabr.com/28882774/iis-performance-issues-moving-from-7-to-8-5
+   
+   
+   
+ ********************************** Other learnings
+ Functionality is to download excel report which is created on Database server/ App server or any other server other than Web server (remote server).
+ Web App is hosted on Web server. User has to download excel report via link from UI in the web app hosted on web server.
+ 
+ Steps to do in IIS.
+ 1. Create Virtual directory as an application within the Application's website or VD.
+ 2. While creating application, use the "Pass-through authentication" & click on "Connect As" button.
+ 3. On the window, click "specific user" radiobutton & Set the FID's User Id and Password.
+    (Note: create a new FID via market place request for the application).
+ 4. After providing the credentials, use "Test Settings" button, to test. "Authentication" & "Authorization" should pass.
+ 5. Finally click OK and ensure the folders from servers are visible under the virtual directory created for downloading file from remote server.
+ 6. After this most important part is to provide access to the FID on the remote server folder.
+    note: 
+    a. Do not security tab on folder to provide permissions. It won't work
+    b. Share the folder & provide access to the FID on shared folder. provide full access as "CoOwner".
+ 7. After folder share, test the download functionality from UI Web APP and click on download link.
+ 8. Excel file should be available for download or should open from the Client machine.
+ 
