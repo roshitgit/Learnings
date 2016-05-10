@@ -8,7 +8,7 @@
   * used http redirect                      --- to show maintenance page in production
   * used windows auth under authentication  --- disabled anonymous auth and enabled win auth with kernel mode checked.
   * enabled static and dynamic compression
-  
+
 7. Applied DNS mapping of server on the website host headers
 8. For uploading/ saving file on server, provide full access to "IIS_IUSRS" group on the folder to upload file
 9. Disabled browser caching on DEV & QA using cache buster. Enabled caching on UAT and PROD using "FileVersion" key in web.config.
@@ -34,6 +34,16 @@ appcmd.exe set config -section:system.webServer/asp /limits.requestQueueMax:"500
 appcmd path=> %windir%\system32\inetsrv\
 appcmd.exe set config -section:system.webServer/httpCompression /-"dynamicTypes.[mimeType='application/json']"
 appcmd.exe set config -section:system.webServer/httpCompression /+"dynamicTypes.[mimeType='application/json',enabled='True']"
+
+14. Connection string to use for windows authentication:
+Data Source=<principle server name>;     //ServerName\Instance
+Failover Partner=<failover server name>; //ServerName\Instance  (only required for production)
+Trusted_Connection=True; 
+Database=<database name>; 
+Connect Timeout=150; 
+pooling='true'; 
+Min Pool Size=20; 
+Max Pool Size=100;
 
    *******IIS optimizations to try
    https://msdn.microsoft.com/en-us/library/ee377050(v=bts.10).aspx
