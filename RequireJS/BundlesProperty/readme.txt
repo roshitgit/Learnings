@@ -6,6 +6,14 @@ http://stackoverflow.com/questions/36883951/requirejs-bundlesconfigoutfile-prope
 
 http://requirejsnet.veritech.io/compressor.html
 
+http://blog.novanet.no/making-requirejs-play-nice-with-asp-net-mvc/   ------ vgood. check this
+
+**** vgood. must try
+http://www.codeproject.com/Articles/1033076/Integrating-AngularJS-with-ASP-NET-MVChttp://www.codewithc.com/3-reasons-you-shouldnt-bundle-angularjs-with-requirejs/
+
+*** VS web essentials and bundling
+http://www.codewithc.com/3-reasons-you-shouldnt-bundle-angularjs-with-requirejs/
+
 http://webroo.org/articles/2014-03-30/using-the-new-require-js-bundles-feature/ ------ good one
 http://www.bennadel.com/blog/2288-my-first-look-at-the-requirejs-build-optimizer-for-node-js.htm
 http://www.ericfeminella.com/blog/2012/03/24/preprocessing-modules-with-requirejs-optimizer/
