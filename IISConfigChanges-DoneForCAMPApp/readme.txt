@@ -1,3 +1,13 @@
+******************************************************* File Upload changes ********************************
+1. For file upload, EPPLus open source library was used. It reads and writes only .xlsx files.
+2. "AccessDatabaseEngine_x64.exe" third party was earlier used. As cloud server does not support 3rd party installs,
+   It was decided to go for EPPlus.
+   AccessDatabaseEngine_x64.exe however supports both .xls and .xlsx
+3. NPOI open source also supports both .xls and .xlsx
+
+
+
+******************************************************* IIS changes ********************************
 1. Created new application pool.
 2. configured app pool to run with Custom Identity.
 3. configured "recycling" on app pool to recycle at regular intervals
