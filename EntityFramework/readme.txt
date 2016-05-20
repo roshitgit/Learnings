@@ -1,6 +1,9 @@
 **** Upgrade an ASP.NET MVC 4 and Web API Project to ASP.NET MVC 5 and Web API 2 ( must see to understand)
 http://www.asp.net/mvc/overview/releases/how-to-upgrade-an-aspnet-mvc-4-and-web-api-project-to-aspnet-mvc-5-and-web-api-2
 
+****EntityFramework Reverse POCO Generator
+https://visualstudiogallery.msdn.microsoft.com/ee4fcff9-0c4c-4179-afd9-7a2fb90f5838?utm_content=buffer86e43&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
+
 *** what is "Entity Framework Code First Migrations"??
 One of the reasons Entity Framework Code First has this particular name is because it is meant for developers to quickly jump into defining model classes which EF will then use to actually build the physical layer structures (tables) using the conventions and attributes mentioned above. The process through which that happens is known as Entity Framework Code First Migrations. EF Code First Migrations can determine what’s different between the logical model and the physical data store and issue the proper SQL commands to adjust the database as needed.
 
