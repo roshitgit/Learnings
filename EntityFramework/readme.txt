@@ -1,3 +1,6 @@
+**************** EF 6 open source code.
+https://github.com/aspnet/EntityFramework
+
 **** Upgrade an ASP.NET MVC 4 and Web API Project to ASP.NET MVC 5 and Web API 2 ( must see to understand)
 http://www.asp.net/mvc/overview/releases/how-to-upgrade-an-aspnet-mvc-4-and-web-api-project-to-aspnet-mvc-5-and-web-api-2
 
