@@ -1,7 +1,3 @@
-
-
-
-
 ****EntityFramework Reverse POCO Generator
 http://www.thereformedprogrammer.net/entity-framework-working-with-an-existing-database/  ---- best to read and try
 
