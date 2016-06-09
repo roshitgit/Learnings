@@ -14,6 +14,8 @@ https://social.msdn.microsoft.com/Forums/vstudio/en-US/f9b0b245-8904-4c0e-b422-e
 http://forums.asp.net/t/1532038.aspx?web+config+transformations+on+build+debug
 http://www.andygeldman.com/index.php/2011/10/web-and-app-config-transformations-with-tfs-build/
 
+*** vgood. must see and try
+http://blog.degree.no/2012/03/automatic-config-transformations/
 
 *** good one . check out
 https://nirajrules.wordpress.com/2011/07/04/integrating-web-config-transformations-with-tfs-build/
