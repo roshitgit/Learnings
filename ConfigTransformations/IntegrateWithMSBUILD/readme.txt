@@ -13,3 +13,7 @@ http://pleasereleaseme.net/continuous-delivery-tfs-preparing-deployment-pipeline
 https://social.msdn.microsoft.com/Forums/vstudio/en-US/f9b0b245-8904-4c0e-b422-e4adb701a620/webconfiguration-transforms-in-tfs-build?forum=tfsbuild
 http://forums.asp.net/t/1532038.aspx?web+config+transformations+on+build+debug
 http://www.andygeldman.com/index.php/2011/10/web-and-app-config-transformations-with-tfs-build/
+
+
+*** good one . check out
+http://sedodream.com/2010/11/18/XDTWebconfigTransformsInNonwebProjects.aspx
