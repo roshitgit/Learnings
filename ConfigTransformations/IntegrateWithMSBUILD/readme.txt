@@ -4,7 +4,7 @@ https://visualstudiogallery.msdn.microsoft.com/579d3a78-3bdd-497c-bc21-aa6e6abbc
 ** config transform plugin
 https://visualstudiogallery.msdn.microsoft.com/579d3a78-3bdd-497c-bc21-aa6e6abbc859
 
-** with MSBUILD
+** with MSBUILD. must try
 http://johan.driessen.se/posts/Applying-MSBuild-Config-Transformations-to-any-config-file-without-using-any-Visual-Studio-extensions
 http://www.diaryofaninja.com/blog/2011/09/14/using-custom-webconfig-transformations-in-msbuild
 http://stackoverflow.com/questions/20358747/transformxml-task-could-not-be-loaded-from-microsoft-web-publishing-tasks-dll
@@ -16,4 +16,5 @@ http://www.andygeldman.com/index.php/2011/10/web-and-app-config-transformations-
 
 
 *** good one . check out
+https://nirajrules.wordpress.com/2011/07/04/integrating-web-config-transformations-with-tfs-build/
 http://sedodream.com/2010/11/18/XDTWebconfigTransformsInNonwebProjects.aspx
