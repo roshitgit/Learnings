@@ -3,6 +3,9 @@
 
 * Apply config transform to app.config file in C# console applications:
 
+***Config Transformation Tool
+http://ctt.codeplex.com/
+
 step1 : create the files first by right clicking on solution and add the configuration file
  ex: app.test.config
     app.prod.config and so on
