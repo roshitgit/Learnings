@@ -20,3 +20,9 @@ http://blog.degree.no/2012/03/automatic-config-transformations/
 *** good one . check out
 https://nirajrules.wordpress.com/2011/07/04/integrating-web-config-transformations-with-tfs-build/
 http://sedodream.com/2010/11/18/XDTWebconfigTransformsInNonwebProjects.aspx
+
+*** MSBUILD Web Deploy parameterization
+http://vishaljoshi.blogspot.com/2010/07/web-deploy-parameterization-in-action.html
+https://technet.microsoft.com/en-us/library/dd569084(WS.10).aspx#BKMK_ParameterKindSettings
+http://ig.obsglobal.com/2013/02/tfs-and-continuous-deployment-part-4-parameterized-deployments/
+http://www.colinsalmcorner.com/post/webdeploy-and-release-management--the-proper-way
