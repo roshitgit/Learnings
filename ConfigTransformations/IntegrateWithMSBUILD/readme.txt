@@ -17,6 +17,13 @@ http://www.andygeldman.com/index.php/2011/10/web-and-app-config-transformations-
 *** vgood. must see and try
 http://blog.degree.no/2012/03/automatic-config-transformations/
 
+**** modify "IIS Web Application Name" which appears in SetParameters.xml file in .zip package
+http://stackoverflow.com/questions/10613725/set-application-name-in-msbuild-parameters
+***check these as well
+http://evolutionarydeveloper.blogspot.in/2013/05/specifying-environment-variables-at.html
+https://social.msdn.microsoft.com/Forums/sqlserver/en-US/53bc8110-7b02-41e3-9bce-06b34711e87a/how-do-i-set-iis-application-name?forum=msbuild
+http://www.asp.net/web-forms/overview/deployment/web-deployment-in-the-enterprise/configuring-parameters-for-web-package-deployment
+
 *** good one . check out
 https://nirajrules.wordpress.com/2011/07/04/integrating-web-config-transformations-with-tfs-build/
 http://sedodream.com/2010/11/18/XDTWebconfigTransformsInNonwebProjects.aspx
