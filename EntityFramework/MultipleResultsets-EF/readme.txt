@@ -2,10 +2,8 @@
 ******* must see and try *********************88
 http://www.khalidabuhakmeh.com/entity-framework-6-multiple-result-sets-with-stored-procedures  ------ perfect
 http://stackoverflow.com/questions/23172888/entity-framework-stored-procedures-multiple-result-sets-with-codefirst ----- vgood
-
-
-http://www.binaryintellect.net/articles/30738a7c-5176-4333-aa83-98eab8548da5.aspx
-https://romiller.com/2012/08/15/code-first-stored-procedures-with-multiple-results/
+http://www.binaryintellect.net/articles/30738a7c-5176-4333-aa83-98eab8548da5.aspx     ------- vgood
+https://romiller.com/2012/08/15/code-first-stored-procedures-with-multiple-results/     ------- vgood
 
 *** good example
 http://stackoverflow.com/questions/25304791/handle-multiple-result-from-a-stored-procedure-with-sqlquery/25305607#25305607
