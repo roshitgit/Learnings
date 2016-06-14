@@ -1,6 +1,12 @@
 *** apply transforms in console apps
 https://visualstudiogallery.msdn.microsoft.com/579d3a78-3bdd-497c-bc21-aa6e6abbc859
 
+*** read this to apply transformations through MSBUILD
+https://ajmburns.wordpress.com/tag/msbuild/
+http://vishaljoshi.blogspot.com/2010/11/team-build-web-deployment-web-deploy-vs.html
+http://www.asp.net/web-forms/overview/deployment/web-deployment-in-the-enterprise/creating-and-running-a-deployment-command-file
+http://stackoverflow.com/questions/12959349/batch-rename-with-msbuild
+
 ** config transform plugin
 https://visualstudiogallery.msdn.microsoft.com/579d3a78-3bdd-497c-bc21-aa6e6abbc859
 
