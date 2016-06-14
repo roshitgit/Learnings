@@ -3,6 +3,9 @@ https://visualstudiogallery.msdn.microsoft.com/579d3a78-3bdd-497c-bc21-aa6e6abbc
 
 *** read this & must try to apply transformations through MSBUILD
 https://github.com/ctaggart/xdt  ------- vgood.
+http://www.developerblogger.com/3896_9006625/ ------ vgood
+http://tshirton.me/article/702793506/transforms-for-config-files-part-1-transform-on-build/  ------ must try
+https://www.neudesic.com/resources/blog/application-development/visual-studio-2010-msbuild-tasks-azure-deployment/ ------ good
 https://github.com/loresoft/msbuildtasks ------ vgood.
 http://pattersonc.com/blog/2010/07/15/visual-studio-2010-publish-command-from-msbuild-command-line/
 http://www.hanselman.com/blog/ManagingMultipleConfigurationFileEnvironmentsWithPreBuildEvents.aspx   ------- vgoood. must try
