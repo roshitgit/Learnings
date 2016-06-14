@@ -1,6 +1,16 @@
 *** apply transforms in console apps
 https://visualstudiogallery.msdn.microsoft.com/579d3a78-3bdd-497c-bc21-aa6e6abbc859
 
+*** read this & must try to apply transformations through MSBUILD
+https://github.com/ctaggart/xdt  ------- vgood.
+https://github.com/loresoft/msbuildtasks ------ vgood.
+http://pattersonc.com/blog/2010/07/15/visual-studio-2010-publish-command-from-msbuild-command-line/
+http://www.hanselman.com/blog/ManagingMultipleConfigurationFileEnvironmentsWithPreBuildEvents.aspx   ------- vgoood. must try
+http://stackoverflow.com/questions/2905151/msbuild-script-and-vs2010-publish-apply-web-config-transform  ------- vgood.
+http://www.codingtiger.com/questions/msbuild/MSBuild-Script-and-VS2010-publish-apply-Web.config-Transform.html ----- good.
+http://www.ipaste.org/7Of ----- good
+http://neuron.tuke.sk/maria.vircik/apw/VS2010TrainingKit-pre%20tych%20co%20chcu%20vediet%20viac/Labs/WebDevelopment/Lab.html/html/DocSet_70f50e5c-33e1-4ce0-97e6-5558d7e74094.html  ------- good
+
 *** read this to apply transformations through MSBUILD
 https://ajmburns.wordpress.com/tag/msbuild/                    --------- check this out. very important
 http://vishaljoshi.blogspot.com/2010/11/team-build-web-deployment-web-deploy-vs.html
