@@ -6,3 +6,9 @@ https://blogs.msdn.microsoft.com/mikezh/2012/04/23/iis-appcmd-quick-reference/
 
 ** using batch file 
 http://www.alexandervanwynsberghe.be/automatic-iis7-deployment-using-msdeploy-and-appcmd/
+http://stackoverflow.com/questions/12890239/creating-an-application-pool-in-iis-through-bat-file
+http://robinosborne.co.uk/2011/10/10/batch-file-to-create-an-iis7-website/
+
+https://mohamedradwan.wordpress.com/2014/06/22/how-to-call-a-batch-file-from-tfs2013-build/
+
+http://www.hanselman.com/blog/ManagingMultipleConfigurationFileEnvironmentsWithPreBuildEvents.aspx
