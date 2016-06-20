@@ -4,6 +4,9 @@ https://forums.iis.net/t/1176690.aspx
 ** full appcmd ref
 https://blogs.msdn.microsoft.com/mikezh/2012/04/23/iis-appcmd-quick-reference/
 
+***** list of post-build event macros
+http://miteshsureja.blogspot.in/2012/04/how-to-use-pre-build-and-post-build.html
+
 ** using batch file 
 http://www.alexandervanwynsberghe.be/automatic-iis7-deployment-using-msdeploy-and-appcmd/
 http://stackoverflow.com/questions/12890239/creating-an-application-pool-in-iis-through-bat-file
