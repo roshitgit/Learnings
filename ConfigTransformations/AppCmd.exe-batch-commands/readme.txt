@@ -6,6 +6,10 @@ https://blogs.msdn.microsoft.com/mikezh/2012/04/23/iis-appcmd-quick-reference/
 
 ***** list of post-build event macros
 http://miteshsureja.blogspot.in/2012/04/how-to-use-pre-build-and-post-build.html
+http://jeremybytes.blogspot.in/2014/02/using-build-events-in-visual-studio-to.html
+
+**** using robocopy
+http://blogs.interknowlogy.com/2011/12/01/copying-files-after-a-successful-build-with-robocopy-on-vs2010/
 
 ** using batch file 
 http://www.alexandervanwynsberghe.be/automatic-iis7-deployment-using-msdeploy-and-appcmd/
