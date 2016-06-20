@@ -1,0 +1,9 @@
+1. open TFS 2013 source code solution
+2. go to builds
+3. create build definition
+4. in visual studio configuration manager at the top menu, type in "Web Deploy" and make sure build checkbox is "checked" 
+   for the other profiles as well with web deploy.
+5. for XCOPY deployment:
+   select msbuild arguments as :
+   /p:SkipInvalidConfiguration=true;DeployOnBuild=true;Deploytype=Package;GenerateSampleDeployScript=true;DontDeploy=true;
+   DeployTarget=Package;TransformConfigFiles=true
