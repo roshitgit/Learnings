@@ -11,7 +11,11 @@ http://jeremybytes.blogspot.in/2014/02/using-build-events-in-visual-studio-to.ht
 **** using robocopy
 http://blogs.interknowlogy.com/2011/12/01/copying-files-after-a-successful-build-with-robocopy-on-vs2010/
 
+** permissions
+http://stackoverflow.com/questions/5615296/cannot-read-configuration-file-due-to-insufficient-permissions
+
 ** using batch file 
+http://blogs.iis.net/ksingla/things-you-can-do-by-piping-appcmd-commands
 http://www.alexandervanwynsberghe.be/automatic-iis7-deployment-using-msdeploy-and-appcmd/
 http://stackoverflow.com/questions/12890239/creating-an-application-pool-in-iis-through-bat-file
 http://robinosborne.co.uk/2011/10/10/batch-file-to-create-an-iis7-website/
