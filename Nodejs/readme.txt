@@ -3,6 +3,8 @@ http://www.dotnetcurry.com/nodejs/1032/nodejs-apps-in-visual-studio-mean-stack
 
 **** nodejs VS tools
 https://www.visualstudio.com/en-us/features/node-js-vs.aspx
+http://www.wintellect.com/devcenter/jlane/five-reasons-asp-net-developers-should-care-about-node-js
+https://github.com/Microsoft/nodejstools#readme
 
 https://nodejstools.codeplex.com/
 http://www.devsaran.com/blog/10-best-nodejs-frameworks-developers
