@@ -1,6 +1,9 @@
 ****************************Building Node.js Applications in Visual Studio (MEAN stack)
 http://www.dotnetcurry.com/nodejs/1032/nodejs-apps-in-visual-studio-mean-stack
 
+**** nodejs VS tools
+https://www.visualstudio.com/en-us/features/node-js-vs.aspx
+
 https://nodejstools.codeplex.com/
 http://www.devsaran.com/blog/10-best-nodejs-frameworks-developers
 
