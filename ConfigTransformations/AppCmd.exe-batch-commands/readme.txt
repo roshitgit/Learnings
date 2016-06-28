@@ -3,6 +3,7 @@ https://forums.iis.net/t/1176690.aspx
 
 ** full appcmd ref
 https://blogs.msdn.microsoft.com/mikezh/2012/04/23/iis-appcmd-quick-reference/
+http://serverfault.com/questions/685364/how-can-i-restart-a-iis-site-by-using-appcmd-commands/685365
 
 ***** list of post-build event macros
 http://miteshsureja.blogspot.in/2012/04/how-to-use-pre-build-and-post-build.html
