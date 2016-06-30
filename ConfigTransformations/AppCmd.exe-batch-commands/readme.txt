@@ -7,6 +7,11 @@ http://serverfault.com/questions/685364/how-can-i-restart-a-iis-site-by-using-ap
 http://www.iis.net/learn/get-started/getting-started-with-iis/getting-started-with-appcmdexe
 http://www.windowsnetworking.com/articles-tutorials/windows-server-2008/Configuring-IIS-7-command-line-Appcmdexe-Part1.html
 
+*** imp info
+http://forums.iis.net/t/1179941.aspx?Specify+an+AppPool+in+my+VS2010+deployment+package
+http://stackoverflow.com/questions/24274026/how-to-include-app-pool-specification-in-asp-net-deploy-script
+http://stackoverflow.com/questions/13594670/how-to-configure-application-pool-with-msdeploy
+
 
 ***** list of post-build event macros
 http://miteshsureja.blogspot.in/2012/04/how-to-use-pre-build-and-post-build.html
