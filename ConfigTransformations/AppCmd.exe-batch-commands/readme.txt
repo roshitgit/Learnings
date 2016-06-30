@@ -4,6 +4,9 @@ https://forums.iis.net/t/1176690.aspx
 ** full appcmd ref
 https://blogs.msdn.microsoft.com/mikezh/2012/04/23/iis-appcmd-quick-reference/
 http://serverfault.com/questions/685364/how-can-i-restart-a-iis-site-by-using-appcmd-commands/685365
+http://www.iis.net/learn/get-started/getting-started-with-iis/getting-started-with-appcmdexe
+http://www.windowsnetworking.com/articles-tutorials/windows-server-2008/Configuring-IIS-7-command-line-Appcmdexe-Part1.html
+
 
 ***** list of post-build event macros
 http://miteshsureja.blogspot.in/2012/04/how-to-use-pre-build-and-post-build.html
