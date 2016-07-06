@@ -5,6 +5,9 @@ http://blog.marcgravell.com/2010/06/extending-aspnet-mvc-with-custom.html
 http://www.strathweb.com/2013/02/asp-net-web-api-and-protocol-buffers/
 https://code.google.com/p/protobuf-net/wiki/GettingStarted
 
+**** angular post request for proto buf
+https://blog.wearewizards.io/using-protobuf-instead-of-json-to-communicate-with-a-frontend
+
 https://gist.github.com/PeteGoo/2340497 -- vgood
 https://www.nuget.org/packages/WebApiContrib.Formatting.ProtoBuf/ -- nuget package
 http://www.ciiycode.com/0ymJzgqXPjjj/web-api-howto-improve-performance-with-protobuf
