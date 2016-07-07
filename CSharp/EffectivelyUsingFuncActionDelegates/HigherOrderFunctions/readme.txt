@@ -16,6 +16,7 @@ http://stackoverflow.com/questions/6046382/suggestions-for-making-a-reusable-try
 
 *** good one
 http://www.c-sharpcorner.com/uploadfile/rmcochran/introduction-to-functional-programming-in-C-Sharp/
+http://www.markhneedham.com/blog/2009/04/04/functional-c-the-hole-in-the-middle-pattern/
 
 *** reusable dapper
 http://stackoverflow.com/questions/17753991/generalize-dapper-query-within-a-delegate-func-or-action-c-sharp
