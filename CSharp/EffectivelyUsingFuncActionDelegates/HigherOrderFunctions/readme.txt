@@ -11,6 +11,12 @@ http://stackoverflow.com/questions/4406792/how-to-pass-in-a-method-name-as-a-par
 *** best example to use action delegate
 http://simpleprogrammer.com/2010/09/24/explaining-what-action-and-func-are/
 
+*** try catch reuse
+http://stackoverflow.com/questions/6046382/suggestions-for-making-a-reusable-try-catch-block-in-c
+
+*** good one
+http://www.c-sharpcorner.com/uploadfile/rmcochran/introduction-to-functional-programming-in-C-Sharp/
+
 *** reusable dapper
 http://stackoverflow.com/questions/17753991/generalize-dapper-query-within-a-delegate-func-or-action-c-sharp
 
