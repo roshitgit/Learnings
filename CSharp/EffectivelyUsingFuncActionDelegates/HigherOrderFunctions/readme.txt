@@ -8,6 +8,9 @@ http://stackoverflow.com/questions/11619578/how-to-wrap-up-a-function-and-its-pa
 https://dzone.com/articles/euler-problem-4-haskell
 http://stackoverflow.com/questions/4406792/how-to-pass-in-a-method-name-as-a-parameter/4406931#4406931
 
+*** great example
+https://aabs.wordpress.com/2008/04/16/functional-programming-in-csharp-higher-order-functions/
+
 *** best example to use action delegate
 http://simpleprogrammer.com/2010/09/24/explaining-what-action-and-func-are/
 
