@@ -3,6 +3,9 @@
 http://www.codeproject.com/Articles/716413/Factory-Method-Pattern-vs-Abstract-Factory-Pattern
 http://www.codeproject.com/Articles/492900/From-No-Factory-to-Factory-Method
 
+*** very good example
+http://www.jkfill.com/2010/12/29/self-registering-factories-in-c-sharp/
+
 *** must try using generics
 http://stackoverflow.com/questions/16962687/casting-to-generic-type-in-c-sharp
 http://codereview.stackexchange.com/questions/8307/implementing-factory-design-pattern-with-generics
