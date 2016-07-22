@@ -1,6 +1,10 @@
 ** Dan wahlin's perfect solution to do lazy load. ( this should be implemented)
 http://weblogs.asp.net/dwahlin/dynamically-loading-controllers-and-views-with-angularjs-and-requirejs
 
+****** very good to understand
+http://ify.io/lazy-loading-in-angularjs/
+https://coderwall.com/p/y0zkiw/building-large-apps-with-angularjs
+
 *** using angular amd
 http://marcoslin.github.io/angularAMD/#/home
 https://github.com/marcoslin/angularAMD
@@ -22,7 +26,7 @@ http://monicalent.com/blog/2015/08/03/converting-angular-js-app-from-require-js-
 https://alexfeinberg.wordpress.com/2014/04/26/delay-load-anything-angular/
 
 https://github.com/ocombe/ocLazyLoad/issues/30 --- good to learn
-http://ify.io/lazy-loading-in-angularjs/--- good
+
 http://stackoverflow.com/questions/23656231/angularjs-dynamic-loading-of-external-js-based-on-routes---good
 
 ** using directives with oclazyload
