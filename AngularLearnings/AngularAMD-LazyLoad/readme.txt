@@ -1,6 +1,9 @@
 ** Dan wahlin's perfect solution to do lazy load. ( this should be implemented)
 http://weblogs.asp.net/dwahlin/dynamically-loading-controllers-and-views-with-angularjs-and-requirejs
 
+****systemjs oclazyload
+https://github.com/jack4it/angular-1x-lazy-load
+
 ****** very good to understand
 http://ify.io/lazy-loading-in-angularjs/
 https://coderwall.com/p/y0zkiw/building-large-apps-with-angularjs
