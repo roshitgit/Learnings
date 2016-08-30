@@ -3,7 +3,18 @@
 3. create build definition
 4. in visual studio configuration manager at the top menu, type in "Web Deploy" and make sure build checkbox is "checked" 
    for the other profiles as well with web deploy.
-5. for XCOPY deployment:
+   
+5. for IIS deployment:
    select msbuild arguments as :
-   /p:SkipInvalidConfiguration=true;DeployOnBuild=true;Deploytype=Package;GenerateSampleDeployScript=true;DontDeploy=true;
-   DeployTarget=Package;TransformConfigFiles=true
+   /p:SkipInvalidConfiguration=true;DeployIISAppPath="<website name here>";DeployOnBuild=true;Deploytype=Package;GenerateSampleDeployScript=true;
+   DontDeploy=true;DeployTarget=Package;UseWPP_CopyWebApplication=true;PipelineDependsOnBuild=false;TransformConfigFiles=true
+   
+   select "Configurations to build" : "Web Deploy|dev"
+   here "dev" is the transform name to apply on build. now msbuild will apply transforms using dev configurations set.
+   
+   MSBUILD can do web transformations using "TransformConfigFiles=true" in the build arguments.
+   
+   set "Tag comparison operator" : MatchAtLeast
+   set tags filter: VS2013
+
+6. 
