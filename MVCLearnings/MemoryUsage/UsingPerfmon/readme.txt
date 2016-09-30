@@ -1,3 +1,5 @@
+*** .net code example to simulate memory leak and overcoming the problem (must try)
+http://crazorsharp.blogspot.com/2009/03/net-memory-leaks-it-is-possible.html
 
 ** perfmon - great tool to check memory leaks
 http://mitch-wheat.blogspot.com/2010/11/determine-if-your-net-application-has.html
