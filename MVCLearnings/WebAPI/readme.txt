@@ -1,6 +1,9 @@
 ********WebAPIContrib is a collection of open source projects to help improve your work with ASP.NET Web API. We have divided the ******projects into a few different categories. For more information on each project, click through to visit the GitHub page.
 https://github.com/WebApiContrib/WebAPIContrib            --------- very good. check this out for any web api projects
 
+**** action filter attribute
+https://damienbod.com/2014/01/04/web-api-2-using-actionfilterattribute-overrideactionfiltersattribute-and-ioc-injection/
+
 **** trace-web-api-execution-time-using-custom-action-filter/  ---------- vgood . must try
 http://www.c-sharpcorner.com/UploadFile/db2972/trace-web-api-execution-time-using-custom-action-filter/
 
