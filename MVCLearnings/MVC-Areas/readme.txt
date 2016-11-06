@@ -18,5 +18,9 @@ https://sankarsan.wordpress.com/2012/04/14/asp-net-mvc-areasa-better-way-to-stru
 http://www.acumensoftwaredesign.com/visual-studio/routing-attributerouting-web-api-2-controllers-mvc-areas
 https://www.nuget.org/packages/UsefulBits.Web.Http.Areas/
 
+***Nested routing and folder in ASP.NET MVC
+http://www.ienablemuch.com/2014/09/nested-routing-and-folder-in-aspnet-mvc.html
+http://www.ienablemuch.com/2014/09/modular-code-organization-in-aspnet-mvc.html
+
 ** good example
 http://stackoverflow.com/questions/31521396/mvc-routing-with-different-areas-with-multiple-controllers
