@@ -4,6 +4,12 @@
 https://github.com/devcurry/aspnet-mvc-areas
 https://github.com/bimalvv/MvcAreasApp
 
+**** must try
+http://stackoverflow.com/questions/12025347/why-are-my-area-specific-web-api-s-accessible-from-all-other-areas
+https://blogs.infosupport.com/asp-net-mvc-4-rc-getting-webapi-and-areas-to-play-nicely/
+http://www.codeproject.com/Articles/714356/Areas-in-ASP-NET-MVC
+http://dotnetdevdude.com/Blog/2012/04/23/ASPNETMVCPuttingYourControllersInASeparateAssembly.aspx
+
 *** multiple contollers
 http://stackoverflow.com/questions/29998483/multiple-controller-route-path-in-mvc
 
