@@ -21,3 +21,5 @@ http://www.tutorialspoint.com/angularjs/angularjs_custom_directives.htm
 ***directives and multiple controllers
 https://www.justindujardin.com/a/articles/angular-directive-multiple-requires.html
 http://stackoverflow.com/questions/28638823/is-it-possible-to-apply-multiple-angularjs-controllers-on-the-same-element
+https://thinkster.io/a-better-way-to-learn-angularjs/directive-to-directive-communication
+http://blog.carbonfive.com/2015/03/25/communication-between-collaborating-directives-in-angular/
