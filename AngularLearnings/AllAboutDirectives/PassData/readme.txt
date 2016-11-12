@@ -17,3 +17,7 @@ http://www.codeproject.com/Articles/998594/Extending-Angular-Directives
 ** good articles on directives
 http://www.ng-newsletter.com/posts/directives.html
 http://www.tutorialspoint.com/angularjs/angularjs_custom_directives.htm
+
+***directives and multiple controllers
+https://www.justindujardin.com/a/articles/angular-directive-multiple-requires.html
+http://stackoverflow.com/questions/28638823/is-it-possible-to-apply-multiple-angularjs-controllers-on-the-same-element
