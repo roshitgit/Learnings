@@ -23,3 +23,6 @@ https://www.justindujardin.com/a/articles/angular-directive-multiple-requires.ht
 http://stackoverflow.com/questions/28638823/is-it-possible-to-apply-multiple-angularjs-controllers-on-the-same-element
 https://thinkster.io/a-better-way-to-learn-angularjs/directive-to-directive-communication
 http://blog.carbonfive.com/2015/03/25/communication-between-collaborating-directives-in-angular/
+https://www.sitepoint.com/practical-guide-angularjs-directives-part-two/
+https://www.undefinednull.com/2014/02/11/mastering-the-scope-of-a-directive-in-angularjs/
+https://www.bennadel.com/blog/2447-exploring-directive-controllers-compiling-linking-and-priority-in-angularjs.htm
