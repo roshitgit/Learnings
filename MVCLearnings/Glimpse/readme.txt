@@ -4,5 +4,8 @@ http://blog.jsinh.in/glimpse-for-debugging-and-profiling-asp-net-mvc/#.VT-DovmUe
 http://simpleprogrammer.com/2013/05/19/glimpse/
 http://miniprofiler.com/
 
+*** all good explain
+https://blog.markvincze.com/use-glimpse-with-asp-net-web-api/
+
 miniprofiler
 http://www.hanselman.com/blog/NuGetPackageOfTheWeek9ASPNETMiniProfilerFromStackExchangeRocksYourWorld.aspx
