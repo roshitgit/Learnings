@@ -11,6 +11,7 @@ http://www.exceptionnotfound.net/the-asp-net-web-api-exception-handling-pipeline
 
 *** global exception handler (good)
 https://blog.iamandycohen.com/tag/webapi/
+http://blog.squeed.com/2012/06/asp-net-web-api-exception-handling/
 
 http://www.c-sharpcorner.com/UploadFile/ff2f08/exception-or-error-handling-in-Asp-Net-mvc-using-handleerror/
 http://www.c-sharpcorner.com/UploadFile/abhikumarvatsa/handleerrorattribute-or-error-handling-in-mvc-4/
