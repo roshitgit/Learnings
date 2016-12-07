@@ -10,6 +10,7 @@ http://blog.karbyn.com/index.php/handling-errors-in-web-api-using-exception-filt
 http://www.exceptionnotfound.net/the-asp-net-web-api-exception-handling-pipeline-a-guided-tour/
 
 *** global exception handler (good)
+https://ruhul.wordpress.com/2014/09/05/how-to-handle-exceptions-globally-in-asp-net-webapi-2/
 https://blog.iamandycohen.com/tag/webapi/
 http://blog.squeed.com/2012/06/asp-net-web-api-exception-handling/
 https://blog.kloud.com.au/2016/03/23/aspnet-core-tips-and-tricks-global-exception-handling/
