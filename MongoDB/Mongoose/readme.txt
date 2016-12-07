@@ -21,6 +21,7 @@ https://books.google.co.in/books?id=RyEHBAAAQBAJ&pg=PA157&lpg=PA157&dq=node+mong
 https://gist.github.com/kdelemme/9659364
 http://www.javabeat.net/mongoose-nodejs-mongodb/
 http://www.slideshare.net/yuriybogomolov/ybo-mongo-dbmeetup
+http://ebanshi.cc/questions/2011999/use-mongoose-populate-to-join-matching-subrecords
 http://codereview.stackexchange.com/questions/42171/seeding-mongodb-using-mongoose-models
 
 http://stackoverflow.com/questions/13026486/how-to-populate-a-sub-document-in-mongoose-after-creating-it --- vgood
