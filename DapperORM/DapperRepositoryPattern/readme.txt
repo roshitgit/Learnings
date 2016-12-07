@@ -5,10 +5,11 @@ https://github.com/Pencroff/Dapper-DAL
 
 **** good repository pattern (must try)
 https://forums.asp.net/t/2006343.aspx?Repository+pattern+without+ORM+
+http://www.bradoncode.com/blog/2012/12/creating-data-repository-using-dapper.html
 http://www.c-sharpcorner.com/article/dapper-and-repository-pattern-in-web-api/
 
+
 http://forums.asp.net/t/2006343.aspx?Repository+pattern+without+ORM+   ------- must see
-http://www.bradoncode.com/blog/2012/12/creating-data-repository-using-dapper.html
 http://farhadtaran.blogspot.in/   (*** perfect: try this)
 
 https://github.com/Yoinbol/Dapper.DataRepositories
