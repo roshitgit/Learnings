@@ -1,3 +1,7 @@
+*** check this out for directive usage
+** access-parent-scope-from-within-a-custom-directive-with-own-scope
+http://stackoverflow.com/questions/17900201/how-to-access-parent-scope-from-within-a-custom-directive-with-own-scope-in-an/17900556#17900556
+
 http://weblogs.asp.net/dwahlin/creating-custom-angularjs-directives-part-3-isolate-scope-and-function-parameters
 http://stackoverflow.com/questions/29544385/angularjs-how-to-pass-data-from-directive-to-controllers-function
 http://stackoverflow.com/questions/13318726/easiest-way-to-pass-an-angularjs-scope-variable-from-directive-to-controller
